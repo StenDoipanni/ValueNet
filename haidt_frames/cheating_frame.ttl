@@ -1,0 +1,103 @@
+
+@prefix vcvf: <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/CheatingFrame.owl#> .
+@prefix fe: <https://w3id.org/framester/framenet/abox/fe/> .
+@prefix vn: <https://w3id.org/framester/vn/vn31/data/> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix gfe: <https://w3id.org/framester/framenet/abox/gfe/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix opla: <http://ontologydesignpatterns.org/opla#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix pbdata: <https://w3id.org/framester/pb/pbdata/> .
+@prefix fschema: <https://w3id.org/framester/schema/> .
+@prefix pbschema: <https://w3id.org/framester/pb/pbschema/> .
+@prefix wntroperole: <https://w3id.org/framester/wn/wn30/wordnet-verbnountropes/> .
+@prefix framesterrole: <https://w3id.org/framester/data/framesterrole/> .
+
+
+<http://www.ontologydesignpatterns.org/ont/values/CheatingFrame.owl> rdf:type owl:Ontology ;
+	owl:imports <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl> .
+
+
+
+# This is the frame graph for the "Cheating" value as conceptualized in Haidt Moral Foundation Theory.
+
+# LEGENDA
+# This graph contains Framester frames,
+
+
+#FrameNet frames, FrameNet lexical units, some core fe, framestersyn, wnsyn, general fe and some fe, entities retrieved via a skos:closeMatch to FrameNet frames, FrameNet lexical units, framestersyn and wnsyn.
+
+# Still lacking and eventually to be introduced: general frame elements, frame elements, roles, arguments etc.
+
+
+
+# manually added while building other value frames (in particular from Differentiation frame analysis)
+
+<https://w3id.org/framester/data/framestersyn/Cheat.v.2> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-cheat-verb-2> vcvf:triggers haidt:Cheating .
+
+<https://w3id.org/framester/data/framestersyn/Breach_of_trust_with_fraudulent_intent.n.1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-breach_of_trust_with_fraudulent_intent-noun-1> vcvf:triggers haidt:Cheating .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-corruption-noun-4> vcvf:triggers haidt:Cheating .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-discriminate-verb-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-discrimination-noun-2> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-unevenness-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-disparateness-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-lure-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-infidelity-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-discriminable-adjectivesatellite-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-discriminate-verb-2> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-cattiness-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudice-verb-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-superficiality-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-discriminating-adjective-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-ghettoize-verb-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudiced-adjective-2> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-racism-noun-2> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-bogus-adjectivesatellite-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-bully-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-racist-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-injustice-noun-1> vcvf:triggers haidt:Cheating .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-plagiarist-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-fraud-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-double%20standard-noun-1> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-segregation-noun-2> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/wn/wn30/instances/synset-dictatorship-noun-1> vcvf:triggers haidt:Cheating .
+
+
+# verbnet
+
+<https://w3id.org/framester/vn/vn31/data/Discriminate_71000000> vcvf:triggers haidt:Cheating .
+<https://w3id.org/framester/vn/vn31/data/Cheat_59000100> vcvf:triggers haidt:Cheating .
+
+
+
+
+# dbpedia
+
+
+<http://dbpedia.org/resource/Discrimination> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Lie> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Felony> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Plagiarism> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Fraud> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Victim_blaming> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Reverse_discrimination> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Slut-shaming> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Double_standard> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Economic_inequality> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Bigotry> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Racial_segregation> vcvf:triggers haidt:Cheating .
+<http://dbpedia.org/resource/Social_exclusion>vcvf:triggers haidt:Cheating .

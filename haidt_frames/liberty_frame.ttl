@@ -1,0 +1,100 @@
+
+@prefix vcvf: <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/LibertyFrame.owl#> .
+@prefix fe: <https://w3id.org/framester/framenet/abox/fe/> .
+@prefix vn: <https://w3id.org/framester/vn/vn31/data/> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix gfe: <https://w3id.org/framester/framenet/abox/gfe/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix opla: <http://ontologydesignpatterns.org/opla#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix pbdata: <https://w3id.org/framester/pb/pbdata/> .
+@prefix fschema: <https://w3id.org/framester/schema/> .
+@prefix pbschema: <https://w3id.org/framester/pb/pbschema/> .
+@prefix wntroperole: <https://w3id.org/framester/wn/wn30/wordnet-verbnountropes/> .
+@prefix framesterrole: <https://w3id.org/framester/data/framesterrole/> .
+
+
+<http://www.ontologydesignpatterns.org/ont/values/LibertyFrame.owl> rdf:type owl:Ontology ;
+	owl:imports <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl> .
+
+
+
+# This is the frame graph for the "Liberty" value as conceptualized in Haidt Moral Foundation Theory.
+
+# LEGENDA
+# This graph contains Framester frames,
+
+
+#FrameNet frames, FrameNet lexical units, some core fe, framestersyn, wnsyn, general fe and some fe, entities retrieved via a skos:closeMatch to FrameNet frames, FrameNet lexical units, framestersyn and wnsyn.
+
+# Still lacking and eventually to be introduced: general frame elements, frame elements, roles, arguments etc.
+
+
+
+
+# manually extracted via SPARQL query of wnsyn containing "freedom"
+
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_rider-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_from_self-incrimination-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_from_discrimination-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_of_speech-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_of_the_seas-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-academic_freedom-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_of_assembly-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-Basque_Homeland_and_Freedom-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_of_the_press-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_from_involuntary_servitude-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_from_double_jeopardy-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_of_thought-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_of_religion-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_from_cruel_and_unusual_punishment-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_from_search_and_seizure-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-degree_of_freedom-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-degree_of_freedom-noun-2> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-freedom_to_bear_arms-noun-1> vcvf:triggers haidt:Liberty .
+
+
+
+
+
+
+# manually added while building other value frames
+
+
+<https://w3id.org/framester/wn/wn30/instances/synset-independence-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-province-noun-2> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-liberty-noun-2> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-liberty-noun-3> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ease-noun-2> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-peonage-noun-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-free_rein-noun-1> vcvf:triggers haidt:Liberty .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-at_large-adjectivesatellite-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-free-adjective-1> vcvf:triggers haidt:Liberty .
+<https://w3id.org/framester/wn/wn30/instances/synset-svoboda-noun-1> vcvf:triggers haidt:Liberty .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-ease-noun-1> vcvf:triggers haidt:Liberty .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-peace-noun-1> vcvf:triggers haidt:Liberty .
+
+
+<https://w3id.org/framester/wn/wn30/instances/synset-autonomy-noun-1> vcvf:triggers haidt:Liberty .
+
+
+
+# dbpedia
+
+<http://dbpedia.org/resource/Liberty> vcvf:triggers haidt:Liberty .
+<http://dbpedia.org/resource/Liberty_(goddess)> vcvf:triggers haidt:Liberty .
+<http://dbpedia.org/resource/Nonviolence> vcvf:triggers haidt:Liberty .
+<http://dbpedia.org/resource/Freedom_of_speech> vcvf:triggers haidt:Liberty .

@@ -1,0 +1,88 @@
+
+
+
+
+@prefix vcvf: <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/AuthorityFrame.owl#> .
+@prefix fe: <https://w3id.org/framester/framenet/abox/fe/> .
+@prefix vn: <https://w3id.org/framester/vn/vn31/data/> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix gfe: <https://w3id.org/framester/framenet/abox/gfe/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix opla: <http://ontologydesignpatterns.org/opla#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix pbdata: <https://w3id.org/framester/pb/pbdata/> .
+@prefix fschema: <https://w3id.org/framester/schema/> .
+@prefix pbschema: <https://w3id.org/framester/pb/pbschema/> .
+@prefix wntroperole: <https://w3id.org/framester/wn/wn30/wordnet-verbnountropes/> .
+@prefix framesterrole: <https://w3id.org/framester/data/framesterrole/> .
+
+
+<http://www.ontologydesignpatterns.org/ont/values/AuthorityFrame.owl> rdf:type owl:Ontology ;
+	owl:imports <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl> .
+
+
+
+# This is the frame graph for the "Authority" value as conceptualized in Haidt Moral Foundation Theory.
+
+# LEGENDA
+# This graph contains Framester frames,
+
+
+#FrameNet frames, FrameNet lexical units, some core fe, framestersyn, wnsyn, general fe and some fe, entities retrieved via a skos:closeMatch to FrameNet frames, FrameNet lexical units, framestersyn and wnsyn.
+
+# Still lacking and eventually to be introduced: general frame elements, frame elements, roles, arguments etc.
+
+
+
+
+<https://w3id.org/framester/data/framestercore/Arrest> vcvf:triggers haidt:Authority .
+
+
+
+# manually added while building other value frame (in particular analysis of Differentiation frame)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-authority-noun-1> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-command-noun-3> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-control-noun-1> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-imperium-noun-2> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-lordship-noun-2> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-power_of_appointment-noun-1> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-rein-noun-2> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-sovereignty-noun-3> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-power-noun-1> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-powerlessness-noun-1> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-authority-noun-1> vcvf:triggers haidt:Authority .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-government-noun-1> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-govern-verb-3> vcvf:triggers haidt:Authority .
+<https://w3id.org/framester/wn/wn30/instances/synset-parent-noun-1> vcvf:triggers haidt:Authority .
+
+
+
+# verbnet
+
+<https://w3id.org/framester/vn/vn31/data/Rule_29030000> vcvf:triggers haidt:Authority .
+
+# dbpedia
+
+<http://dbpedia.org/resource/Authority> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/Authoritarianism> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/Institution> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/Law> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/President> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/International_law> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/Government> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/Police> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/Parent> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/President> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/President_of_the_United_States> vcvf:triggers haidt:Authority .
+<http://dbpedia.org/resource/White_House> vcvf:triggers haidt:Authority .
