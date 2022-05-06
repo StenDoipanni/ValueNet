@@ -1,0 +1,479 @@
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl> .
+
+<http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl> rdf:type owl:Ontology ;
+                                                                            <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """The central idea is that humans are descended from a long line of social primates who have spent 50 million years living in social groups (Shultz et al. 2011), and two million years making a living as intensely collaborative hunter-gatherers (Tooby and DeVore 1987). During this time, humans faced (and continue to face) a range of different problems of cooperation – that is, mutually-beneficial, win-win, nonzerosum social interaction. And they evolved and invented a range of solutions to those problems – ways of unlocking the enormous benefits that cooperation provides. These cooperative solutions come in different shapes and sizes – instincts, intuitions, inventions and institutions. Together these mechanisms provide the motivation for cooperative behaviour; and they provide the criteria by which humans evaluate the behaviour of others. And, according to the theory, it is precisely these solutions to problems of cooperation that constitute human morality (Curry 2005, 2016). ‘Morality’ is the label that philosophers and others have attached to these cooperative solutions.
+
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" ;
+                                                                            rdfs:comment "Ontological version of Curry's \"Moral Molecules\" Theory." ;
+                                                                            owl:versionInfo """Version 0.2 - 25.11.2021
+- We generated automatically combinations of positive and negative \"moral molecules\", for a total of 16.637 classes. Note that each of them should be axiomatized with the property :hasCombinatorialElement taking as range the :MoralElements in the name of the class, but we avoided this for now, in order to lighten the computation.
+- We introduced all the examples as in \"Moral Molecules: Morality as a Combinatorial System\" - 2021, as instances of the aforementioned classes.
+
+Version 0.1 - 21.11.2021
+Introduced classes and first attempt of properties, to be defined fixed relations.
+
+
+
+Designed by Stefano De Giorgis and Aldo Gangemi.""" .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef
+<http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#basedOnCooperationStrategy
+cmm:basedOnCooperationStrategy rdf:type owl:ObjectProperty ;
+                               owl:inverseOf cmm:generatesMoralElement ;
+                               rdfs:domain cmm:MoralElement ;
+                               rdfs:range cmm:CooperationStrategy ;
+                               rdfs:comment "Some MoralElement is based on some Cooperation strategy." .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#fulfilledBy
+cmm:fulfilledBy rdf:type owl:ObjectProperty .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#generatesMoralElement
+cmm:generatesMoralElement rdf:type owl:ObjectProperty ;
+                          rdfs:domain cmm:CooperationStrategy ;
+                          rdfs:range cmm:MoralElement ;
+                          rdfs:comment "Some cooperation strategy is the basis for some Moral Element." .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#hasCombinatorialElement
+cmm:hasCombinatorialElement rdf:type owl:ObjectProperty ;
+                            rdfs:domain cmm:MoralMolecule ;
+                            rdfs:range [ rdf:type owl:Class ;
+                                         owl:unionOf ( cmm:MoralElement
+                                                       cmm:NegativeMoralElement
+                                                     )
+                                       ] ;
+                            rdfs:comment """Keeping the metaphor of chemistry, if the basic types of morality are called :MoralElements the combinations of them are :MoralMolecules.
+Some :MoralMolecule :hasCombinatorialElement some (:MoralElement or :NegativeMoralElement).""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#hasMoralComponent
+cmm:hasMoralComponent rdf:type owl:ObjectProperty .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#hasNegativeCounterpart
+cmm:hasNegativeCounterpart rdf:type owl:ObjectProperty ;
+                           owl:inverseOf cmm:hasPositiveCounterpart ;
+                           rdfs:comment "Some Positive Moral Element has some Negative counterpart." .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#hasPositiveCounterpart
+cmm:hasPositiveCounterpart rdf:type owl:ObjectProperty ;
+                           rdfs:comment "Some Negative Moral Element has some Positive counterpart." .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#hasSocialComponent
+cmm:hasSocialComponent rdf:type owl:ObjectProperty ;
+                       rdfs:domain cmm:MoralMolecule ;
+                       rdfs:range cmm:CooperationStrategy .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#includesRole
+cmm:includesRole rdf:type owl:ObjectProperty .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#violatesCooperationStrategy
+cmm:violatesCooperationStrategy rdf:type owl:ObjectProperty ;
+                                rdfs:domain cmm:NegativeMoralElement ;
+                                rdfs:range cmm:CooperationStrategy ;
+                                rdfs:comment "Some Negative Moral Element (aka violation of a Moral Element) violates some Cooperation Strategy." .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Betrayal
+cmm:Betrayal rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Restriction ;
+                                   owl:onProperty cmm:hasPositiveCounterpart ;
+                                   owl:someValuesFrom cmm:GroupLoyalty
+                                 ] ;
+             rdfs:subClassOf cmm:NegativeMoralElement ,
+                             [ rdf:type owl:Restriction ;
+                               owl:onProperty cmm:hasCombinatorialElement ;
+                               owl:someValuesFrom cmm:Betrayal
+                             ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Cheating
+cmm:Cheating rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Restriction ;
+                                   owl:onProperty cmm:hasPositiveCounterpart ;
+                                   owl:someValuesFrom cmm:Reciprocity
+                                 ] ;
+             rdfs:subClassOf cmm:NegativeMoralElement ,
+                             [ rdf:type owl:Restriction ;
+                               owl:onProperty cmm:hasCombinatorialElement ;
+                               owl:someValuesFrom cmm:Cheating
+                             ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#CooperationStrategy
+cmm:CooperationStrategy rdf:type owl:Class ;
+                        owl:equivalentClass [ rdf:type owl:Restriction ;
+                                              owl:onProperty cmm:generatesMoralElement ;
+                                              owl:someValuesFrom cmm:MoralElement
+                                            ] ;
+                        <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """According to the theory of morality-as-cooperation, morality is a collection of biological and cultural solutions to the problems of cooperation recurrent in human social life. This theory predicts that there will be as many different types of morality as there are different types of cooperation. Previous research, drawing on evolutionary game theory, has identified at least seven different types of cooperation, and used them to explain seven different types of morality: family values, group loyalty, reciprocity, heroism, deference, fairness and property rights.
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Cowardice
+cmm:Cowardice rdf:type owl:Class ;
+              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                    owl:onProperty cmm:hasPositiveCounterpart ;
+                                    owl:someValuesFrom cmm:Heroism
+                                  ] ;
+              rdfs:subClassOf cmm:NegativeMoralElement ,
+                              [ rdf:type owl:Restriction ;
+                                owl:onProperty cmm:hasCombinatorialElement ;
+                                owl:someValuesFrom cmm:Cowardice
+                              ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Deference
+cmm:Deference rdf:type owl:Class ;
+              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                    owl:onProperty cmm:basedOnCooperationStrategy ;
+                                    owl:someValuesFrom cmm:Dove
+                                  ] ,
+                                  [ rdf:type owl:Restriction ;
+                                    owl:onProperty cmm:hasNegativeCounterpart ;
+                                    owl:someValuesFrom cmm:Disrespect
+                                  ] ;
+              rdfs:subClassOf cmm:MoralElement ,
+                              [ rdf:type owl:Restriction ;
+                                owl:onProperty cmm:hasCombinatorialElement ;
+                                owl:someValuesFrom cmm:Deference
+                              ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Disrespect
+cmm:Disrespect rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Restriction ;
+                                     owl:onProperty cmm:hasPositiveCounterpart ;
+                                     owl:someValuesFrom cmm:Deference
+                                   ] ;
+               rdfs:subClassOf cmm:NegativeMoralElement ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty cmm:hasCombinatorialElement ;
+                                 owl:someValuesFrom cmm:Disrespect
+                               ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Division
+cmm:Division rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Restriction ;
+                                   owl:onProperty cmm:generatesMoralElement ;
+                                   owl:someValuesFrom cmm:Fairness
+                                 ] ;
+             rdfs:subClassOf cmm:CooperationStrategy ;
+             <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Division of disputed resources.
+Basic idea: divide disputed resources.
+Virtues: Fairness, impartiality, equality.
+
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Dove
+cmm:Dove rdf:type owl:Class ;
+         owl:equivalentClass [ rdf:type owl:Restriction ;
+                               owl:onProperty cmm:generatesMoralElement ;
+                               owl:someValuesFrom cmm:Deference
+                             ] ;
+         rdfs:subClassOf cmm:CooperationStrategy ;
+         <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Conflict resolution through contests featuring dovish displays of submission.
+Basic idea: submit to your superiors.
+Virtues: Respect, humility, awe, reverence.
+
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Exchange
+cmm:Exchange rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Restriction ;
+                                   owl:onProperty cmm:generatesMoralElement ;
+                                   owl:someValuesFrom cmm:Reciprocity
+                                 ] ;
+             rdfs:subClassOf cmm:CooperationStrategy ;
+             <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Social exchange.
+Basic idea: return favours and injuries.
+Virtues: Reciprocity, trustworthiness, forgiveness.
+
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Fairness
+cmm:Fairness rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Restriction ;
+                                   owl:onProperty cmm:basedOnCooperationStrategy ;
+                                   owl:someValuesFrom cmm:Division
+                                 ] ,
+                                 [ rdf:type owl:Restriction ;
+                                   owl:onProperty cmm:hasNegativeCounterpart ;
+                                   owl:someValuesFrom cmm:Unfairness
+                                 ] ;
+             rdfs:subClassOf cmm:MoralElement ,
+                             [ rdf:type owl:Restriction ;
+                               owl:onProperty cmm:hasCombinatorialElement ;
+                               owl:someValuesFrom cmm:Fairness
+                             ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#FamilyValue
+cmm:FamilyValue rdf:type owl:Class ;
+                owl:equivalentClass [ rdf:type owl:Restriction ;
+                                      owl:onProperty cmm:basedOnCooperationStrategy ;
+                                      owl:someValuesFrom cmm:Kinship
+                                    ] ,
+                                    [ rdf:type owl:Restriction ;
+                                      owl:onProperty cmm:hasNegativeCounterpart ;
+                                      owl:someValuesFrom cmm:Neglect
+                                    ] ;
+                rdfs:subClassOf cmm:MoralElement ,
+                                [ rdf:type owl:Restriction ;
+                                  owl:onProperty cmm:hasCombinatorialElement ;
+                                  owl:someValuesFrom cmm:FamilyValue
+                                ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#GroupLoyalty
+cmm:GroupLoyalty rdf:type owl:Class ;
+                 owl:equivalentClass [ rdf:type owl:Restriction ;
+                                       owl:onProperty cmm:basedOnCooperationStrategy ;
+                                       owl:someValuesFrom cmm:Mutualism
+                                     ] ,
+                                     [ rdf:type owl:Restriction ;
+                                       owl:onProperty cmm:hasNegativeCounterpart ;
+                                       owl:someValuesFrom cmm:Betrayal
+                                     ] ;
+                 rdfs:subClassOf cmm:MoralElement ,
+                                 [ rdf:type owl:Restriction ;
+                                   owl:onProperty cmm:hasCombinatorialElement ;
+                                   owl:someValuesFrom cmm:GroupLoyalty
+                                 ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Hawk
+cmm:Hawk rdf:type owl:Class ;
+         owl:equivalentClass [ rdf:type owl:Restriction ;
+                               owl:onProperty cmm:generatesMoralElement ;
+                               owl:someValuesFrom cmm:Heroism
+                             ] ;
+         rdfs:subClassOf cmm:CooperationStrategy ;
+         <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Conflict resolution through contests featuring hawkish displays of dominance.
+Basic idea: display your power.
+Virtues: Bravery, fortitude, largesse.
+
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Heroism
+cmm:Heroism rdf:type owl:Class ;
+            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                  owl:onProperty cmm:basedOnCooperationStrategy ;
+                                  owl:someValuesFrom cmm:Hawk
+                                ] ,
+                                [ rdf:type owl:Restriction ;
+                                  owl:onProperty cmm:hasNegativeCounterpart ;
+                                  owl:someValuesFrom cmm:Cowardice
+                                ] ;
+            rdfs:subClassOf cmm:MoralElement ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty cmm:hasCombinatorialElement ;
+                              owl:someValuesFrom cmm:Heroism
+                            ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Kinship
+cmm:Kinship rdf:type owl:Class ;
+            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                  owl:onProperty cmm:generatesMoralElement ;
+                                  owl:someValuesFrom cmm:FamilyValue
+                                ] ;
+            rdfs:subClassOf cmm:CooperationStrategy ;
+            <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """The allocation of resources to kin.
+Basic idea: give your family special treatment.
+Virtues: Duty of care, special obligations to kin.
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#MoralElement
+cmm:MoralElement rdf:type owl:Class ;
+                 owl:equivalentClass [ rdf:type owl:Restriction ;
+                                       owl:onProperty cmm:basedOnCooperationStrategy ;
+                                       owl:someValuesFrom cmm:CooperationStrategy
+                                     ] ,
+                                     [ rdf:type owl:Restriction ;
+                                       owl:onProperty cmm:hasNegativeCounterpart ;
+                                       owl:someValuesFrom cmm:NegativeMoralElement
+                                     ] ;
+                 <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#MoralMolecule
+cmm:MoralMolecule rdf:type owl:Class ;
+                  owl:equivalentClass [ rdf:type owl:Restriction ;
+                                        owl:onProperty cmm:hasCombinatorialElement ;
+                                        owl:minQualifiedCardinality "2"^^xsd:nonNegativeInteger ;
+                                        owl:onClass [ rdf:type owl:Class ;
+                                                      owl:unionOf ( cmm:MoralElement
+                                                                    cmm:NegativeMoralElement
+                                                                  )
+                                                    ]
+                                      ] ;
+                  <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Mutualism
+cmm:Mutualism rdf:type owl:Class ;
+              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                    owl:onProperty cmm:generatesMoralElement ;
+                                    owl:someValuesFrom cmm:GroupLoyalty
+                                  ] ;
+              rdfs:subClassOf cmm:CooperationStrategy ;
+              <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Coordination to mutual advantage.
+Basic idea: work together rather than work alone.
+Virtues: Loyalty, unity, solidarity, conformity.
+
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#NegativeMoralElement
+cmm:NegativeMoralElement rdf:type owl:Class ;
+                         <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Neglect
+cmm:Neglect rdf:type owl:Class ;
+            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                  owl:onProperty cmm:hasPositiveCounterpart ;
+                                  owl:someValuesFrom cmm:FamilyValue
+                                ] ;
+            rdfs:subClassOf cmm:NegativeMoralElement ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty cmm:hasCombinatorialElement ;
+                              owl:someValuesFrom cmm:Neglect
+                            ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Possession
+cmm:Possession rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Restriction ;
+                                     owl:onProperty cmm:generatesMoralElement ;
+                                     owl:someValuesFrom cmm:PropertyRight
+                                   ] ;
+               rdfs:subClassOf cmm:CooperationStrategy ;
+               <http://www.ontologydesignpatterns.org/ont/is/exuviae.owl#bibRef> """Recognition of possession.
+Basic idea: respect first possession.
+Virtues: Respect for property, property rights.
+
+
+Moral Molecules: Morality as a Combinatorial System
+Oliver Scott Curry, Mark Alfano, Mark J. Brandt, Christine Pelican""" .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#PropertyRight
+cmm:PropertyRight rdf:type owl:Class ;
+                  owl:equivalentClass [ rdf:type owl:Restriction ;
+                                        owl:onProperty cmm:basedOnCooperationStrategy ;
+                                        owl:someValuesFrom cmm:Possession
+                                      ] ,
+                                      [ rdf:type owl:Restriction ;
+                                        owl:onProperty cmm:hasNegativeCounterpart ;
+                                        owl:someValuesFrom cmm:Theft
+                                      ] ;
+                  rdfs:subClassOf cmm:MoralElement ,
+                                  [ rdf:type owl:Restriction ;
+                                    owl:onProperty cmm:hasCombinatorialElement ;
+                                    owl:someValuesFrom cmm:PropertyRight
+                                  ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Reciprocity
+cmm:Reciprocity rdf:type owl:Class ;
+                owl:equivalentClass [ rdf:type owl:Restriction ;
+                                      owl:onProperty cmm:basedOnCooperationStrategy ;
+                                      owl:someValuesFrom cmm:Exchange
+                                    ] ,
+                                    [ rdf:type owl:Restriction ;
+                                      owl:onProperty cmm:hasNegativeCounterpart ;
+                                      owl:someValuesFrom cmm:Cheating
+                                    ] ;
+                rdfs:subClassOf cmm:MoralElement ,
+                                [ rdf:type owl:Restriction ;
+                                  owl:onProperty cmm:hasCombinatorialElement ;
+                                  owl:someValuesFrom cmm:Reciprocity
+                                ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Situation
+cmm:Situation rdf:type owl:Class .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Theft
+cmm:Theft rdf:type owl:Class ;
+          owl:equivalentClass [ rdf:type owl:Restriction ;
+                                owl:onProperty cmm:hasPositiveCounterpart ;
+                                owl:someValuesFrom cmm:PropertyRight
+                              ] ;
+          rdfs:subClassOf cmm:NegativeMoralElement ,
+                          [ rdf:type owl:Restriction ;
+                            owl:onProperty cmm:hasCombinatorialElement ;
+                            owl:someValuesFrom cmm:Theft
+                          ] .
+
+
+###  http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#Unfairness
+cmm:Unfairness rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Restriction ;
+                                     owl:onProperty cmm:hasPositiveCounterpart ;
+                                     owl:someValuesFrom cmm:Fairness
+                                   ] ;
+               rdfs:subClassOf cmm:NegativeMoralElement ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty cmm:hasCombinatorialElement ;
+                                 owl:someValuesFrom cmm:Unfairness
+                               ] .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
