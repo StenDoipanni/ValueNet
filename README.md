@@ -15,7 +15,7 @@ ValueNet is based on reusable Ontology Design Patterns, it is aligned to the [DO
 
 ## ValueCore
 ValueCore module defines a framal structure (Fillmore's Frame Semantics) to represent entities and relations in Value Situations.
-The module reuses the Description&Situation Ontology Design Pattern, considering Value as a dul:Description, satisfied by the occurrence of some Value frame situation specified as follows.
+The module reuses the [Description&Situation](http://ontologydesignpatterns.org/wiki/Submissions:DescriptionAndSituation) Ontology Design Pattern, considering Value as a dul:Description, satisfied by the occurrence of some Value frame situation specified as follows.
 
 
 ![iswc_valuecore](https://user-images.githubusercontent.com/40241049/171409820-7cf4cb8e-8cc1-4d34-beb7-3f34020b2232.png)
