@@ -39,7 +39,7 @@ Three main types of vn:ValueSituation, subclasses of dul:Situation, are modeled:
 MFTriggers operationalizes Graham and Haidt’s Moral Foundation Theory, providing an explicit semantics to its moral values and violations.contains more than 12000 triples linking moral values to entities from existing lexical and factual web semantics resources, such as FrameNet, VerbNet, WordNet, and DBpedia.
 
 
-# Explore the MFTriggers Resource
+### Explore the MFTriggers Resource
 
 Here some useful queries to explore the resource. <br/>
 The queries can be performed on the [Framester endpoint](http://etna.istc.cnr.it/framester2/sparql) <br/>
