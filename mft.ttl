@@ -1,0 +1,314 @@
+@prefix : <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix schwartz: <https://github.com/spice-h2020/SON/blob/main/SchwartzValues/ontology.owl> .
+@base <https://w3id.org/spice/SON/HaidtValues> .
+
+<https://w3id.org/spice/SON/HaidtValues> rdf:type owl:Ontology ;
+                                          owl:versionIRI <https://w3id.org/spice/SON/HaidtValues/0.0.2> ;
+                                          rdfs:comment "Designed by Stefano De Giorgis and Rossana Damiano." ;
+                                          haidt:bibRef "Ontological version of the Moral Foundation Theory by Peter Ditto, Jesse Graham, Jonathan Haidt, Ravi Iyer, Spassea Koleva, Matt Motyl, Gary Sherman, Sean P. Wojcik." .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  https://w3id.org/spice/SON/HaidtValues#bibRef
+haidt:bibRef rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  https://w3id.org/spice/SON/HaidtValues#abideTo
+haidt:abideTo rdf:type owl:ObjectProperty .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#actsFollowing
+haidt:actsFollowing rdf:type owl:ObjectProperty .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#follows
+haidt:follows rdf:type owl:ObjectProperty ;
+              owl:propertyDisjointWith haidt:violates .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#hasComponent
+haidt:hasComponent rdf:type owl:ObjectProperty .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#opposedTo
+haidt:opposedTo rdf:type owl:ObjectProperty ,
+                         owl:SymmetricProperty .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#performs
+haidt:performs rdf:type owl:ObjectProperty .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#prescripts
+haidt:prescripts rdf:type owl:ObjectProperty .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#satisfiedBy
+haidt:satisfiedBy rdf:type owl:ObjectProperty ;
+                  owl:inverseOf haidt:satisfies .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#satisfies
+haidt:satisfies rdf:type owl:ObjectProperty .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#violates
+haidt:violates rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action
+<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action> rdf:type owl:Class .
+
+
+###  http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent
+<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> rdf:type owl:Class .
+
+
+###  http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event
+<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> rdf:type owl:Class .
+
+
+###  http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Norm
+<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Norm> rdf:type owl:Class .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Authority
+haidt:Authority rdf:type owl:Class ;
+                owl:equivalentClass [ rdf:type owl:Restriction ;
+                                      owl:onProperty haidt:opposedTo ;
+                                      owl:someValuesFrom haidt:Subversion
+                                    ] ;
+                rdfs:subClassOf haidt:Value .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Authority_vs_Subversion
+haidt:Authority_vs_Subversion rdf:type owl:Class ;
+                              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                    owl:onProperty haidt:hasComponent ;
+                                                    owl:someValuesFrom haidt:Authority
+                                                  ] ,
+                                                  [ rdf:type owl:Restriction ;
+                                                    owl:onProperty haidt:hasComponent ;
+                                                    owl:someValuesFrom haidt:Subversion
+                                                  ] ;
+                              rdfs:subClassOf haidt:DyadicOpposition .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Betrayal
+haidt:Betrayal rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Restriction ;
+                                     owl:onProperty haidt:violates ;
+                                     owl:someValuesFrom haidt:Loyalty
+                                   ] ;
+               rdfs:subClassOf haidt:Violation .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Care
+haidt:Care rdf:type owl:Class ;
+           owl:equivalentClass [ rdf:type owl:Restriction ;
+                                 owl:onProperty haidt:opposedTo ;
+                                 owl:someValuesFrom haidt:Harm
+                               ] ;
+           rdfs:subClassOf haidt:Value .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Care_vs_Harm
+haidt:Care_vs_Harm rdf:type owl:Class ;
+                   owl:equivalentClass [ rdf:type owl:Restriction ;
+                                         owl:onProperty haidt:hasComponent ;
+                                         owl:someValuesFrom haidt:Care
+                                       ] ,
+                                       [ rdf:type owl:Restriction ;
+                                         owl:onProperty haidt:hasComponent ;
+                                         owl:someValuesFrom haidt:Harm
+                                       ] ;
+                   rdfs:subClassOf haidt:DyadicOpposition .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Cheating
+haidt:Cheating rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Restriction ;
+                                     owl:onProperty haidt:violates ;
+                                     owl:someValuesFrom haidt:Fairness
+                                   ] ;
+               rdfs:subClassOf haidt:Violation .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Degradation
+haidt:Degradation rdf:type owl:Class ;
+                  owl:equivalentClass [ rdf:type owl:Restriction ;
+                                        owl:onProperty haidt:violates ;
+                                        owl:someValuesFrom haidt:Sanctity
+                                      ] ;
+                  rdfs:subClassOf haidt:Violation .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#DyadicOpposition
+haidt:DyadicOpposition rdf:type owl:Class ;
+                       owl:equivalentClass [ rdf:type owl:Restriction ;
+                                             owl:onProperty haidt:hasComponent ;
+                                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                             owl:onClass haidt:Violation
+                                           ] ,
+                                           [ rdf:type owl:Restriction ;
+                                             owl:onProperty haidt:hasComponent ;
+                                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                             owl:onClass [ owl:intersectionOf ( haidt:Value
+                                                                                [ rdf:type owl:Restriction ;
+                                                                                  owl:onProperty haidt:opposedTo ;
+                                                                                  owl:someValuesFrom haidt:Violation
+                                                                                ]
+                                                                              ) ;
+                                                           rdf:type owl:Class
+                                                         ]
+                                           ] ;
+                       owl:disjointWith haidt:Violation ;
+                       rdfs:comment "The dyadic opposition between a Prescription and its Violation." .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Fairness
+haidt:Fairness rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Restriction ;
+                                     owl:onProperty haidt:opposedTo ;
+                                     owl:someValuesFrom haidt:Cheating
+                                   ] ;
+               rdfs:subClassOf haidt:Value .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Fairness_vs_Cheating
+haidt:Fairness_vs_Cheating rdf:type owl:Class ;
+                           owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                 owl:onProperty haidt:hasComponent ;
+                                                 owl:someValuesFrom haidt:Cheating
+                                               ] ,
+                                               [ rdf:type owl:Restriction ;
+                                                 owl:onProperty haidt:hasComponent ;
+                                                 owl:someValuesFrom haidt:Fairness
+                                               ] ;
+                           rdfs:subClassOf haidt:DyadicOpposition .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Harm
+haidt:Harm rdf:type owl:Class ;
+           owl:equivalentClass [ rdf:type owl:Restriction ;
+                                 owl:onProperty haidt:violates ;
+                                 owl:someValuesFrom haidt:Care
+                               ] ;
+           rdfs:subClassOf haidt:Violation .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Liberty
+haidt:Liberty rdf:type owl:Class ;
+              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                    owl:onProperty haidt:opposedTo ;
+                                    owl:someValuesFrom haidt:Oppression
+                                  ] ;
+              rdfs:subClassOf haidt:Value .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Liberty_vs_Oppression
+haidt:Liberty_vs_Oppression rdf:type owl:Class ;
+                            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                  owl:onProperty haidt:hasComponent ;
+                                                  owl:someValuesFrom haidt:Liberty
+                                                ] ,
+                                                [ rdf:type owl:Restriction ;
+                                                  owl:onProperty haidt:hasComponent ;
+                                                  owl:someValuesFrom haidt:Oppression
+                                                ] ;
+                            rdfs:subClassOf haidt:DyadicOpposition .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Loyalty
+haidt:Loyalty rdf:type owl:Class ;
+              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                    owl:onProperty haidt:opposedTo ;
+                                    owl:someValuesFrom haidt:Betrayal
+                                  ] ;
+              rdfs:subClassOf haidt:Value .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Loyalty_vs_Betrayal
+haidt:Loyalty_vs_Betrayal rdf:type owl:Class ;
+                          owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                owl:onProperty haidt:hasComponent ;
+                                                owl:someValuesFrom haidt:Betrayal
+                                              ] ,
+                                              [ rdf:type owl:Restriction ;
+                                                owl:onProperty haidt:hasComponent ;
+                                                owl:someValuesFrom haidt:Loyalty
+                                              ] ;
+                          rdfs:subClassOf haidt:DyadicOpposition .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Oppression
+haidt:Oppression rdf:type owl:Class ;
+                 owl:equivalentClass [ rdf:type owl:Restriction ;
+                                       owl:onProperty haidt:violates ;
+                                       owl:someValuesFrom haidt:Liberty
+                                     ] ;
+                 rdfs:subClassOf haidt:Violation .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Sanctity
+haidt:Sanctity rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Restriction ;
+                                     owl:onProperty haidt:opposedTo ;
+                                     owl:someValuesFrom haidt:Degradation
+                                   ] ;
+               rdfs:subClassOf haidt:Value .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Sanctity_vs_Degradation
+haidt:Sanctity_vs_Degradation rdf:type owl:Class ;
+                              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                    owl:onProperty haidt:hasComponent ;
+                                                    owl:someValuesFrom haidt:Degradation
+                                                  ] ,
+                                                  [ rdf:type owl:Restriction ;
+                                                    owl:onProperty haidt:hasComponent ;
+                                                    owl:someValuesFrom haidt:Sanctity
+                                                  ] ;
+                              rdfs:subClassOf haidt:DyadicOpposition .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Subversion
+haidt:Subversion rdf:type owl:Class ;
+                 owl:equivalentClass [ rdf:type owl:Restriction ;
+                                       owl:onProperty haidt:violates ;
+                                       owl:someValuesFrom haidt:Authority
+                                     ] ;
+                 rdfs:subClassOf haidt:Violation .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Value
+haidt:Value rdf:type owl:Class ;
+            rdfs:comment "Positive values shaping some behaviour." .
+
+
+###  https://w3id.org/spice/SON/HaidtValues#Violation
+haidt:Violation rdf:type owl:Class ;
+                owl:equivalentClass [ rdf:type owl:Restriction ;
+                                      owl:onProperty haidt:violates ;
+                                      owl:someValuesFrom <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Norm>
+                                    ] ;
+                rdfs:comment "The Violation of some Value. They could also be seen as \"negative Values\"" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
