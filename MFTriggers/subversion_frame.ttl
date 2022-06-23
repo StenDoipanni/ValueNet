@@ -1,0 +1,290 @@
+
+
+
+
+@prefix vcvf: <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/SubversionFrame.owl#> .
+@prefix fe: <https://w3id.org/framester/framenet/abox/fe/> .
+@prefix vn: <https://w3id.org/framester/vn/vn31/data/> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix gfe: <https://w3id.org/framester/framenet/abox/gfe/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix opla: <http://ontologydesignpatterns.org/opla#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix pbdata: <https://w3id.org/framester/pb/pbdata/> .
+@prefix fschema: <https://w3id.org/framester/schema/> .
+@prefix pbschema: <https://w3id.org/framester/pb/pbschema/> .
+@prefix wntroperole: <https://w3id.org/framester/wn/wn30/wordnet-verbnountropes/> .
+@prefix framesterrole: <https://w3id.org/framester/data/framesterrole/> .
+
+
+<http://www.ontologydesignpatterns.org/ont/values/SubversionFrame.owl> rdf:type owl:Ontology ;
+	owl:imports <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl> .
+
+
+
+# This is the frame graph for the "Subversion" value as conceptualized in Haidt Moral Foundation Theory.
+
+# LEGENDA
+# This graph contains Framester frames,
+
+
+#FrameNet frames, FrameNet lexical units, some core fe, framestersyn, wnsyn, general fe and some fe, entities retrieved via a skos:closeMatch to FrameNet frames, FrameNet lexical units, framestersyn and wnsyn.
+
+# Still lacking and eventually to be introduced: general frame elements, frame elements, roles, arguments etc.
+
+
+
+# Framester frames
+
+<https://w3id.org/framester/data/framestercore/CommittingCrime> vcvf:triggers haidt:Subversion .
+
+
+
+
+# wnsyn for CommittingCrime frame
+
+<https://w3id.org/framester/wn/wn30/instances/synset-assault-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-battery-noun-7> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-burglary-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-felony-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-fraud-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-highjacking-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-kidnapping-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-larceny-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-rape-noun-3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-robbery-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-sexual_assault-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-statutory_rape-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-treason-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-carjacking-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-embezzlement-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-heist-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-piracy-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-shoplifting-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-abduction-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-perpetrate-verb-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-crime-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-perpetration-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-pilferage-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-mugging-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-barratry-noun-4> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-forgery-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-housebreaking-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-fraud_in_the_inducement-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-resisting_arrest-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-date_rape-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-fraud_in_fact-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-hijack-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-highway_robbery-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-armed_robbery-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-caper-noun-3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-capture-noun-4> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-cybercrime-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-dacoity-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-rolling-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-constructive_fraud-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-make-verb-24> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-election_fraud-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-recommit-verb-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-attack-noun-5> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-capital_offense-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-Had_crime-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-mayhem-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-misdemeanor-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-perpetrator-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-statutory_offense-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-Tazir_crime-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-thuggery-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-vice_crime-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-victimless_crime-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-war_crime-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-grand_larceny-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-intrinsic_fraud-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-swindle-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-skimming-noun-3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-biopiracy-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-breach_of_trust_with_fraudulent_intent-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-petit_larceny-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-plunderage-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-raid-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-rustling-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-aggravated_assault-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-barratry-noun-3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-bribery-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-extortion-noun-3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-extrinsic_fraud-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-fraud_in_the_factum-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-identity_theft-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-mail_fraud-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-molestation-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-racketeering-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-barratry-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-blackmail-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-bunco-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-commercial_bribery-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-disorderly_conduct-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-false_pretense-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-fraud_in_law-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-holdout-noun-3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-home_invasion-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecent_exposure-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-perjury-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-protection-noun-7> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-pyramiding-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-scam-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-sedition-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-shakedown-noun-3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-shell_game-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-sting_operation-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-swiz-noun-1> vcvf:triggers haidt:Subversion .
+
+# framestersyn for CommittingCrime frame> vcvf:triggers haidt:Subversion .
+
+<https://w3id.org/framester/data/framestersyn/Assault.n.2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Battery.n.7> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Burglary.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Felony.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Fraud.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Highjacking.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Kidnapping.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Larceny.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Rape.n.3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Robbery.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Sexual_assault.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Statutory_rape.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Treason.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Carjacking.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Embezzlement.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Heist.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Piracy.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Shoplifting.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Abduction.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Perpetrate.v.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Crime.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Perpetration.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Pilferage.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Mugging.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Barratry.n.4> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Forgery.n.2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Housebreaking.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Fraud_in_the_inducement.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Resisting_arrest.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Date_rape.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Fraud_in_fact.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Hijack.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Highway_robbery.n.2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Armed_robbery.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Caper.n.3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Capture.n.4> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Cybercrime.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Dacoity.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Rolling.n.2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Constructive_fraud.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Make.v.24> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Election_fraud.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Recommit.v.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Attack.n.5> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Capital_offense.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Had_crime.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Mayhem.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Misdemeanor.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Perpetrator.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Statutory_offense.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Tazir_crime.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Thuggery.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Vice_crime.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Victimless_crime.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/War_crime.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Grand_larceny.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Intrinsic_fraud.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Swindle.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Skimming.n.3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Biopiracy.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Breach_of_trust_with_fraudulent_intent.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Petit_larceny.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Plunderage.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Raid.n.2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Rustling.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Aggravated_assault.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Barratry.n.3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Bribery.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Extortion.n.3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Extrinsic_fraud.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Fraud_in_the_factum.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Identity_theft.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Mail_fraud.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Molestation.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Racketeering.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Barratry.n.2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Blackmail.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Bunco.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Commercial_bribery.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Disorderly_conduct.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/False_pretense.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Fraud_in_law.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Holdout.n.3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Home_invasion.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Indecent_exposure.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Perjury.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Protection.n.7> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Pyramiding.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Scam.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Sedition.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Shakedown.n.3> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Shell_game.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Sting_operation.n.1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/data/framestersyn/Swiz.n.1> vcvf:triggers haidt:Subversion .
+
+
+# manually added while building other value frames (in particular Differentiation frame analysis)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-unlawfulness-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-protest-verb-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-chaos-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-revolutionary-adjectivesatellite-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-Rebel-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-anarchy-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-chaos-noun-1> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-rebellion-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-disobedience-noun-1> vcvf:triggers haidt:Subversion .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-subversion-noun-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-dissentient-adjectivesatellite-2> vcvf:triggers haidt:Subversion .
+<https://w3id.org/framester/wn/wn30/instances/synset-resist-verb-6> vcvf:triggers haidt:Subversion .
+
+
+# verbnet
+
+
+<https://w3id.org/framester/vn/vn31/data/Protest_71000000> vcvf:triggers haidt:Subversion .
+
+
+
+
+# dbpedia
+
+<http://dbpedia.org/resource/Rebellion> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Riot> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Protest> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Reactionary> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Fight_the_Power> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Demonstration_(protest)> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Civil_disorder> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Revolution> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Anarchy> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Civil_disobedience> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Nonviolent_resistance> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Anarchism> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Subversion> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Dissident> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Terrorism> vcvf:triggers haidt:Subversion .
+<http://dbpedia.org/resource/Resistance_movement> vcvf:triggers haidt:Subversion .

@@ -1,0 +1,505 @@
+
+@prefix vcvf: <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/OppressionFrame.owl#> .
+@prefix fe: <https://w3id.org/framester/framenet/abox/fe/> .
+@prefix vn: <https://w3id.org/framester/vn/vn31/data/> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix gfe: <https://w3id.org/framester/framenet/abox/gfe/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix opla: <http://ontologydesignpatterns.org/opla#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix pbdata: <https://w3id.org/framester/pb/pbdata/> .
+@prefix fschema: <https://w3id.org/framester/schema/> .
+@prefix pbschema: <https://w3id.org/framester/pb/pbschema/> .
+@prefix wntroperole: <https://w3id.org/framester/wn/wn30/wordnet-verbnountropes/> .
+@prefix framesterrole: <https://w3id.org/framester/data/framesterrole/> .
+
+
+<http://www.ontologydesignpatterns.org/ont/values/OppressionFrame.owl> rdf:type owl:Ontology ;
+	owl:imports <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl> .
+
+
+
+# This is the frame graph for the "Oppression" value as conceptualized in Haidt Moral Foundation Theory.
+
+# LEGENDA
+# This graph contains Framester frames, FrameNet frames, FrameNet lexical units, framestersyn, wnsyn,
+
+
+#some core fe, general fe and some fe, entities retrieved via a skos:closeMatch to FrameNet frames, FrameNet lexical units, framestersyn and wnsyn.
+
+# Still lacking and eventually to be introduced: general frame elements, frame elements, roles, arguments etc.
+
+
+
+
+# Framester frames
+
+<https://w3id.org/framester/data/framestercore/InhibitMovement> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestercore/Arrest> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestercore/Detaining> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestercore/Prison> vcvf:triggers haidt:Oppression .
+
+
+# FrameNet frame
+
+<https://w3id.org/framester/framenet/abox/frame/Inhibit_movement> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/frame/Arrest> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/frame/Detaining> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/frame/Prison> vcvf:triggers haidt:Oppression .
+
+
+# wnsyn for InhibitMovement frame (manually selected)
+
+
+<https://w3id.org/framester/wn/wn30/instances/synset-captivity-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-confine-verb-5> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-confinement-noun-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprison-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrain-verb-4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-intern-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep-verb-21> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-boundary-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-cage-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-jail-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrict-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-lock-verb-4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-shackle-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-tie-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-reduce-verb-11> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-bind_over-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-boundary-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-baffle-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-clog-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-straiten-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrainer-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-enclose-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-detention-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-hamper-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-rule-verb-7> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-bridle-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-clamp_down-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-curb-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-draw_the_line-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-gate-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-inhibit-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-limit-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-limitation-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-limiter-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-mark_off-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restriction-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-stiffen-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-durance-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-hold-noun-7> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprison-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-internment-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-life_imprisonment-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-prison_guard-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-trap-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-detainee-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep_in-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-constraint-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-solitary_confinement-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-iron_cage-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-cage-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-inhibitory-adjectivesatellite-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrictive-adjective-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-snaffle-verb-2> vcvf:triggers haidt:Oppression .
+
+
+# framestersyn for InhibitMovement frame (manually selected)
+
+
+<https://w3id.org/framester/data/framestersyn/Captivity.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Confine.v.5> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Confinement.n.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Imprison.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Restrain.v.4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Intern.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Keep.v.21> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Boundary.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Cage.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Jail.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Restrict.v.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Lock.v.4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Shackle.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Tie.v.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Reduce.v.11> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Bind_over.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Boundary.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Baffle.v.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Clog.v.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Straiten.v.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Restrainer.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Enclose.v.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Detention.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Hamper.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Rule.v.7> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Bridle.v.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Clamp_down.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Curb.v.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Draw_the_line.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Gate.v.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Inhibit.v.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Limit.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Limitation.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Limiter.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Mark_off.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Restriction.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Stiffen.v.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Durance.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Hold.n.7> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Imprison.v.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Internment.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Life_imprisonment.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Prison_guard.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Trap.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Detainee.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Keep_in.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Constraint.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Solitary_confinement.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Iron_cage.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Cage.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Inhibitory.as.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Restrictive.a.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Snaffle.v.2> vcvf:triggers haidt:Oppression .
+
+
+# wnsyn for Arrest frame (manually filtered)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-collar-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehension-noun-4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-summon-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehender-noun-2> vcvf:triggers haidt:Oppression .
+
+
+# framestersyn for Arrest (manually filtered)
+
+<https://w3id.org/framester/data/framestersyn/Collar.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Apprehension.n.4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Summon.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Apprehender.n.2> vcvf:triggers haidt:Oppression .
+
+
+
+# wnsyn for Detaining frame (manually selected)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-confine-verb-5> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprison-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-custody-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprisonment-noun-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-intern-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep-verb-21> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-cage-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-bind_over-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-straiten-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-detention-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-hold-noun-7> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprison-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-internment-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-trap-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-detainee-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-false_imprisonment-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-internee-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep_in-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-lockdown-noun-1> vcvf:triggers haidt:Oppression .
+
+
+# framestersyn for Detaining frame (manually selected)
+
+<https://w3id.org/framester/data/framestersyn/Confine.v.5> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Imprison.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Custody.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Imprisonment.n.3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Intern.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Keep.v.21> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Cage.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Bind_over.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Straiten.v.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Detention.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Hold.n.7> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Imprison.v.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Internment.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Trap.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Detainee.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/False_imprisonment.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Internee.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Keep_in.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Lockdown.n.1> vcvf:triggers haidt:Oppression .
+
+
+# wnsyn for Prison frame (manually filtered)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-imprison-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-correctional_institution-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-penitentiary-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-brig-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-jail-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-prison-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-detention_home-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-lockup-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-workhouse-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-holding_cell-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-panopticon-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-nick-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-house_of_correction-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-bastille-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-chokey-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-reformatory-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-state_prison-noun-1> vcvf:triggers haidt:Oppression .
+
+
+# framestersyn for Prison frame (manually filtered)
+
+<https://w3id.org/framester/data/framestersyn/Imprison.v.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Correctional_institution.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Penitentiary.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Brig.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Jail.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Prison.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Detention_home.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Lockup.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Workhouse.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Holding_cell.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Panopticon.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Nick.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/House_of_correction.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Bastille.n.2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Chokey.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/Reformatory.n.1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/data/framestersyn/State_prison.n.1> vcvf:triggers haidt:Oppression .
+
+# Inhibit_movement, Arrest, Prison, Detaining FrameNet lexical lunits
+
+<https://w3id.org/framester/framenet/abox/lu/detain.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/under_arrest.prep> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/slammer.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/joint.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/intern.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/jail.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/pen.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/apprehension.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/bust.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/immure.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/lock.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/nab.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/brig.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/apprehend.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/penitentiary.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/at_large.adj> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/shut_up.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/prison.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/constraint.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/internment.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/jailhouse.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/on_the_loose.prep> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/bust.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/tie.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/confine.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/collar.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/constrain.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/arrest.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/at_large.a> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/imprison.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/cop.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/restrict.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/correctional_institution.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/arrest.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/custody.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/summons.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/under_arrest.adj> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/up_shut.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/confinement.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/book.v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/stockade.n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/framenet/abox/lu/hold.v> vcvf:triggers haidt:Oppression .
+
+# Inhibit_movement, Arrest, Prison, Detaining FrameNet skos:closeMatch
+
+<https://w3id.org/framester/vn/vn31/data/Book_13050100> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Shut_up_42030000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Hold_29050000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Imprison_90100000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Nab_10050000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Lock_22040000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Confine_92000000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Cage_90100000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Restrict_76000000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Detain_92000000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Tie_22040000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Tie_22010000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Confine_76000000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-draw-verb-17> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00014183n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-intern-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-flop-noun-3> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00051781n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00094416v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00090421v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00083903v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00046183n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00090033v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00089830v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-ticket-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-tie-verb-3> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00085582v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-constraint-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-classify-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-lockdown-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/cage.01> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00083502v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep_in-verb-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00047500n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-ticket-noun-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/detain.01> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-prevent-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-localize-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-free-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/book.01> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-confinement-noun-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-bust-noun-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-draw-verb-36> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrictive-adjectivesatellite-2> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00094955v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-iron_cage-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-trap-verb-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00072404n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00085581v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00019579n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprison-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-cage-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/lock.02> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00090704v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/restrict.01> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-amerce-verb-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00005132n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-detainee-noun-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00026629n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-lock-verb-4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/lock.05> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00024587n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00092911v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00083775v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00085052v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-durance-noun-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00093323v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00005136n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00088673v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00089384v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00021754n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-break-verb-4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprisonment-noun-3> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00082728v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/imprison.01> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehension-noun-4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-raid-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/nab.01> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00083773v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep-verb-21> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-captivity-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-trap-noun-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/hold.02> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00083834v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-prison_guard-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-summon-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-amerce-verb-2> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00089829v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/tie.01> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00085580v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-taboo-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-life_imprisonment-noun-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00024586n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/lock.01> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-book-verb-3> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00094718v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-cage-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-tear-verb-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00085009v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-classification-noun-4> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-detention-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/apprehend.01> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00044392n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00075836n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-collar-verb-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00084314v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00014185n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00089819v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-amerciable-adjectivesatellite-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-derestrict-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-book-verb-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00090056v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/arrest.02> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/arrest.01> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00088818v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00032849n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehender-noun-2> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00014575n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-hold-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-straiten-verb-2> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00047171n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-pus-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-jail-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrict-verb-3> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00086650v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-suppurate-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/bust.05> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00022062n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-custody-noun-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-hold-noun-7> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-solitary_confinement-noun-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00072737n> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00085675v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00089642v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/pb/pbdata/confine.01> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-intern-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-confine-verb-5> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00037276n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-taboo-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-false_imprisonment-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrict-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-enclose-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-internment-noun-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00047174n> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-internee-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprison-verb-1> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00087262v> vcvf:triggers haidt:Oppression .
+<http://babelnet.org/rdf/s00091637v> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-restrain-verb-3> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-at_large-adjectivesatellite-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-bind_over-verb-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-scant-verb-2> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-oppress-verb-1> vcvf:triggers haidt:Oppression .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-fascist-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-supremacist-noun-1> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/wn/wn30/instances/synset-coerce-verb-1> vcvf:triggers haidt:Oppression .
+
+
+
+# verbnet
+
+<https://w3id.org/framester/vn/vn31/data/Force_59000000> vcvf:triggers haidt:Oppression .
+<https://w3id.org/framester/vn/vn31/data/Capture_10050000> vcvf:triggers haidt:Oppression .
+
+
+
+
+# dbpedia
+
+
+<http://dbpedia.org/resource/Oppression> vcvf:triggers haidt:Oppression .
+<http://dbpedia.org/resource/Adolf_Hitler> vcvf:triggers haidt:Oppression .
+<http://dbpedia.org/resource/Dictator> vcvf:triggers haidt:Oppression .
+<http://dbpedia.org/resource/Fascism> vcvf:triggers haidt:Oppression .
+<http://dbpedia.org/resource/White_supremacy> vcvf:triggers haidt:Oppression .
+<http://dbpedia.org/resource/Curfew> vcvf:triggers haidt:Oppression .

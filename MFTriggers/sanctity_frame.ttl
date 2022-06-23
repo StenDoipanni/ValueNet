@@ -1,0 +1,118 @@
+
+
+@prefix vcvf: <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/SanctityFrame.owl#> .
+@prefix fe: <https://w3id.org/framester/framenet/abox/fe/> .
+@prefix vn: <https://w3id.org/framester/vn/vn31/data/> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix gfe: <https://w3id.org/framester/framenet/abox/gfe/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix opla: <http://ontologydesignpatterns.org/opla#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix pbdata: <https://w3id.org/framester/pb/pbdata/> .
+@prefix fschema: <https://w3id.org/framester/schema/> .
+@prefix pbschema: <https://w3id.org/framester/pb/pbschema/> .
+@prefix wntroperole: <https://w3id.org/framester/wn/wn30/wordnet-verbnountropes/> .
+@prefix framesterrole: <https://w3id.org/framester/data/framesterrole/> .
+
+
+<http://www.ontologydesignpatterns.org/ont/values/SanctityFrame.owl> rdf:type owl:Ontology ;
+	owl:imports <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl> .
+
+
+
+# This is the frame graph for the "Sanctity" value as conceptualized in Haidt Moral Foundation Theory.
+
+# LEGENDA
+# This graph contains some wnsyn manually extracted
+
+
+#Framester frames, FrameNet frames, FrameNet lexical units, some core fe, framestersyn, wnsyn, general fe and some fe, entities retrieved via a skos:closeMatch to FrameNet frames, FrameNet lexical units, framestersyn and wnsyn.
+
+# Still lacking and eventually to be introduced: general frame elements, frame elements, roles, arguments etc.
+
+
+
+
+<https://w3id.org/framester/wn/wn30/instances/synset-saintliness-noun-1> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-candor-noun-2> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-frugality-noun-1> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-parsimony-noun-1> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-holiness-noun-1> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-saving_grace-noun-2> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral-adjective-1> vcvf:triggers haidt:Sanctity .
+
+<http://www.w3.org/2006/03/wn/wn30/instances/synset-soul-noun-1> vcvf:triggers haidt:Sanctity .
+<http://www.w3.org/2006/03/wn/wn30/instances/synset-bless-verb-1> vcvf:triggers haidt:Sanctity .
+<http://www.w3.org/2006/03/wn/wn30/instances/synset-Christian-adjective-1> vcvf:triggers haidt:Sanctity .
+<http://www.w3.org/2006/03/wn/wn30/instances/synset-clergy-noun-1> vcvf:triggers haidt:Sanctity .
+<http://www.w3.org/2006/03/wn/wn30/instances/synset-Christianity-noun-1> vcvf:triggers haidt:Sanctity .
+<http://www.w3.org/2006/03/wn/wn30/instances/synset-religion-noun-1> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-Holy%20Eucharist-noun-1> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-God-noun-1> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/wn/wn30/instances/synset-sacredness-noun-1> vcvf:triggers haidt:Sanctity .
+
+# verbnet
+
+<https://w3id.org/framester/vn/vn31/data/Pray_32020100> vcvf:triggers haidt:Sanctity .
+<https://w3id.org/framester/vn/vn31/data/Bless_33000000> vcvf:triggers haidt:Sanctity .
+
+
+
+
+# dbpedia
+
+
+<http://dbpedia.org/resource/Soul> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Prayer> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/14th_Dalai_Lama> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Blessing> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Faith_healing> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Christian> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Jesus> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/The_Salvation_Army> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Clergy> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Divination> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Allah> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Christ> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Spirituality> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Sabbath_in_Christianity> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Pastor> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Christianity> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Sunnah> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Lord> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/God> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Faith> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Manifestation_of_God> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/God_the_Father> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Members_Church_of_God_International> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Quran> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Promised_Land> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Holy_Spirit> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Missionary> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Confession_(religion)> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Torah> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Nun> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Easter> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Martyr> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Eternal_life_(Christianity)> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Muslim> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Eucharist> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Sacred> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Kaaba> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Christian_values> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Divine_grace> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Liberty_(goddess)> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Tao> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Paganism> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Atheism> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Sunni_Islam> vcvf:triggers haidt:Sanctity .
+<http://dbpedia.org/resource/Baptism> vcvf:triggers haidt:Sanctity .

@@ -1,0 +1,132 @@
+
+
+
+
+@prefix vcvf: <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl#> .
+@prefix cmm: <http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl#> .
+@prefix haidt: <https://w3id.org/spice/SON/HaidtValues#> .
+@prefix : <http://www.ontologydesignpatterns.org/ont/values/BetrayalFrame.owl#> .
+@prefix fe: <https://w3id.org/framester/framenet/abox/fe/> .
+@prefix vn: <https://w3id.org/framester/vn/vn31/data/> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix gfe: <https://w3id.org/framester/framenet/abox/gfe/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix opla: <http://ontologydesignpatterns.org/opla#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix pbdata: <https://w3id.org/framester/pb/pbdata/> .
+@prefix fschema: <https://w3id.org/framester/schema/> .
+@prefix pbschema: <https://w3id.org/framester/pb/pbschema/> .
+@prefix wntroperole: <https://w3id.org/framester/wn/wn30/wordnet-verbnountropes/> .
+@prefix framesterrole: <https://w3id.org/framester/data/framesterrole/> .
+
+
+<http://www.ontologydesignpatterns.org/ont/values/BetrayalFrame.owl> rdf:type owl:Ontology ;
+	owl:imports <http://www.semanticweb.org/sdg/ontologies/2022/0/valuecore_with_value_frames.owl> .
+
+
+
+# This is the frame graph for the "Betrayal" value as conceptualized in Haidt Moral Foundation Theory.
+
+# LEGENDA
+# This graph contains Framester frames,
+
+
+#FrameNet frames, FrameNet lexical units, some core fe, framestersyn, wnsyn, general fe and some fe, entities retrieved via a skos:closeMatch to FrameNet frames, FrameNet lexical units, framestersyn and wnsyn.
+
+# Still lacking and eventually to be introduced: general frame elements, frame elements, roles, arguments etc.
+
+
+# Framester frames
+
+<https://w3id.org/framester/data/framestercore/RevealSecret> vcvf:triggers haidt:Betrayal .
+
+
+
+# wnsyn for RevealSecret frame (manually filtered)
+
+
+<https://w3id.org/framester/wn/wn30/instances/synset-leak-verb-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-unwrap-verb-2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-giveaway-noun-2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-leaker-noun-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-sustain-verb-6> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-betray-verb-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-break-verb-46> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-blow-verb-18> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-display-noun-4> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-spring-verb-5> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-out-verb-2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-leak-noun-5> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-bigmouthed-adjectivesatellite-1> vcvf:triggers haidt:Betrayal .
+
+
+# framestersyn for RevealSecret frame (manually filtered)
+
+<https://w3id.org/framester/data/framestersyn/Leak.v.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Unwrap.v.2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Giveaway.n.2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Leaker.n.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Sustain.v.6> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Betray.v.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Break.v.46> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Blow.v.18> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Display.n.4> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Spring.v.5> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Out.v.2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Leak.n.5> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Bigmouthed.as.1> vcvf:triggers haidt:Betrayal .
+
+
+
+# wnsyn for
+
+
+
+
+# manually added by filtering other value frames
+
+<https://w3id.org/framester/wn/wn30/instances/synset-devious-adjectivesatellite-2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Devious.as.2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-disingenuous-adjective-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Disingenuous.a.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Beguiling.as.2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-beguiling-adjectivesatellite-2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-deceitful-adjectivesatellite-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Deceitful.as.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-conspire-verb-2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Conspire.v.2> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-conspiracy-noun-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Conspiracy.n.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-conspiracy_of_silence-noun-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Conspiracy_of_silence.n.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Play_along.v.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-play_along-verb-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Conspiratorial.a.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-conspiratorial-adjective-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-treason-noun-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Treason.n.1> vcvf:triggers haidt:Betrayal .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-traitor-noun-1> vcvf:triggers haidt:Betrayal .
+
+
+
+
+# manually added while building other value frames
+
+<https://w3id.org/framester/wn/wn30/instances/synset-trap-verb-1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/data/framestersyn/Breach_of_trust_with_fraudulent_intent.n.1> vcvf:triggers haidt:Betrayal .
+<https://w3id.org/framester/wn/wn30/instances/synset-breach_of_trust_with_fraudulent_intent-noun-1> vcvf:triggers haidt:Betrayal .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-infidelity-noun-1> vcvf:triggers haidt:Betrayal .
+
+
+# dbpedia
+
+<http://dbpedia.org/resource/Distrust> vcvf:triggers haidt:Betrayal .
+<http://dbpedia.org/resource/Treason> vcvf:triggers haidt:Betrayal .
