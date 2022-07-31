@@ -62,6 +62,22 @@ MM is the ontological transposition of Curry's Moral Molecules theory, consideri
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Ontology Prefixes
+
+To explore in detail all the modules we list here some useful prefixes which can be used to query the Framester endpoint.
+
+```
+DOLCE foundational ontology
+dul : <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl/>
+Framester schema
+fschema : <https://w3id.org/framester/schema/>
+MFT module
+mft : <https://w3id.org/spice/SON/HaidtValues#>
+BHV module
+bhv : <https://w3id.org/spice/SON/SchwartzValues#>
+ValueCore module
+vc : <http://www.ontologydesignpatterns.org/ont/values/valuecore.owl#>
+```
 
 ### Explore the MFTriggers Resource
 
