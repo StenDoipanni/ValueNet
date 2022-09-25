@@ -9,10 +9,10 @@ ValueNet is based on reusable Ontology Design Patterns, it is aligned to the [DO
 
 The current version of ValueNet includes:
 
-[ValueCore](http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl) ``http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl``
-[BHV](https://w3id.org/spice/SON/SchwartzValues) ``https://w3id.org/spice/SON/SchwartzValues``
-[MFT](https://w3id.org/spice/SON/HaidtValues) ``https://w3id.org/spice/SON/HaidtValues``
-[MFTriggers](http://www.ontologydesignpatterns.org/ont/ClosureHaidtValuesFrames.owl) ``http://www.ontologydesignpatterns.org/ont/ClosureHaidtValuesFrames.owl``
+[ValueCore](http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl) ``http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl`` <br/>
+[BHV](https://w3id.org/spice/SON/SchwartzValues) ``https://w3id.org/spice/SON/SchwartzValues`` <br/>
+[MFT](https://w3id.org/spice/SON/HaidtValues) ``https://w3id.org/spice/SON/HaidtValues`` <br/>
+[MFTriggers](http://www.ontologydesignpatterns.org/ont/ClosureHaidtValuesFrames.owl) ``http://www.ontologydesignpatterns.org/ont/ClosureHaidtValuesFrames.owl`` <br/>
 
 Furthermore, some additional modules are being developed:
 
