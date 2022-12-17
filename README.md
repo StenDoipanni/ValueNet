@@ -14,8 +14,8 @@ The current version of ValueNet includes:
 [BHV Triggers]() <br/>
 [MFT](https://w3id.org/spice/SON/HaidtValues) ``https://w3id.org/spice/SON/HaidtValues`` <br/>
 [MFTriggers](http://www.ontologydesignpatterns.org/ont/ClosureHaidtValuesFrames.owl) ``http://www.ontologydesignpatterns.org/ont/ClosureHaidtValuesFrames.owl`` <br/>
-[FolkValues](http://www.ontologydesignpatterns.org/ont/values/valuemerge_rev.owl) ``http://www.ontologydesignpatterns.org/ont/values/valuemerge_rev.owl``
-[ThatsAllFolks](http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl) ``http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl''
+[FolkValues](http://www.ontologydesignpatterns.org/ont/values/valuemerge_rev.owl) ``http://www.ontologydesignpatterns.org/ont/values/valuemerge_rev.owl`` <br/>
+[ThatsAllFolks](http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl) ``http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl`` <br/>
 
 Furthermore, some additional modules are being developed:
 
