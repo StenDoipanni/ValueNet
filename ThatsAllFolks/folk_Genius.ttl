@@ -1,0 +1,47 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Genius
+
+
+# genius lu
+
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Genius> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/genius> vcvf:triggers folk:Genius .
+<http://fr.wiktionary.org/wiki/genius> vcvf:triggers folk:Genius .
+<http://umbel.org/umbel/sc/Genius> vcvf:triggers folk:Genius .
+<http://wikidata.dbpedia.org/resource/Q185030> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/Geniocracy> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/geniocracy> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/geniuslike> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/nongenius> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/scenius> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/SubGenius> vcvf:triggers folk:Genius .
+<http://en.wiktionary.org/wiki/supergenius> vcvf:triggers folk:Genius .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/genius> vcvf:triggers folk:Genius .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/creating_idea> vcvf:triggers folk:Genius .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/geniocracy> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/geniuslike> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nongenius> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/scenius> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/subgenius> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/supergenius> vcvf:triggers folk:Genius .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/genii/n/wikt/en_1> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/genious/a> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/genious/n> vcvf:triggers folk:Genius .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/geniuses/n> vcvf:triggers folk:Genius .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/creating_idea> vcvf:triggers folk:Genius .

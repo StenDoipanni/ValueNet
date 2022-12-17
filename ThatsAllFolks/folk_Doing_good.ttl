@@ -1,0 +1,27 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Doing_good
+
+
+# benefactor lu
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/benefactor> vcvf:triggers folk:Doing_good .
+<http://fr.wiktionary.org/wiki/benefactor> vcvf:triggers folk:Doing_good .
+<http://umbel.org/umbel/sc/Benefactor> vcvf:triggers folk:Doing_good .
+<http://en.wiktionary.org/wiki/benefactoress> vcvf:triggers folk:Doing_good .
+<http://en.wiktionary.org/wiki/benefactress> vcvf:triggers folk:Doing_good .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/benefactor> vcvf:triggers folk:Doing_good .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/benefactoress> vcvf:triggers folk:Doing_good .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/benefactress> vcvf:triggers folk:Doing_good .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/benefactors/n> vcvf:triggers folk:Doing_good .
+# hasSubEvent	[]
+# usedFor	[]

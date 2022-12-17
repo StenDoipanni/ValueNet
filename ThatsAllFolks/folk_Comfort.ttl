@@ -1,0 +1,168 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Comfort
+
+
+# comfort lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/comfort> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/comfort> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfortless> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfortable> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/comfortable> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/Comforter> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comforter> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/comforter> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/Comforter_BedCover> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/discomfort> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/discomfort> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/cold_comfort> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfort_woman> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfort_zone> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfortative> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfortest> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/comfortest> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comforteth> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/comforteth> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfortfic> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comforting> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/comforting> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfortment> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/comfortsome> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/creature_comfort> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/letter_of_comfort> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/miscomfort> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/uncomfort> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/cooling_off> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/Child> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/Child.> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/child> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/child> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/HumanChild> vcvf:triggers folk:Comfort .
+<http://dbpedia.org/resource/Couch> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/couch> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/couch> vcvf:triggers folk:Comfort .
+<http://wikidata.dbpedia.org/resource/Q131514> vcvf:triggers folk:Comfort .
+<http://dbpedia.org/resource/A_House> vcvf:triggers folk:Comfort .
+<http://dbpedia.org/resource/House> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/house> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/House> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/house> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/House_Modern> vcvf:triggers folk:Comfort .
+<http://wikidata.dbpedia.org/resource/Q3947> vcvf:triggers folk:Comfort .
+<http://wikidata.dbpedia.org/resource/Q770384> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/room> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/room> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/RoomInAConstruction> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/sofa> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/sofa> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/Sofa_PieceOfFurniture> vcvf:triggers folk:Comfort .
+<http://dbpedia.org/resource/SEAT> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/SEAT> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/seat> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/seat> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/SeatingDevice> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/SeatingDeviceSeat> vcvf:triggers folk:Comfort .
+<http://wikidata.dbpedia.org/resource/Q188217> vcvf:triggers folk:Comfort .
+<http://dbpedia.org/resource/Sock> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/sock> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/sock> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/Sock> vcvf:triggers folk:Comfort .
+<http://wikidata.dbpedia.org/resource/Q43663> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/accommodations> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/accommodations> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/carpeting> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/carpeting> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/CoolingDevice> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/heater> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/heater> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/linen> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/linen> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/LinenCloth> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/sofabed> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/stuffed-animal> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/stuffed_animal> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/StuffedAnimal> vcvf:triggers folk:Comfort .
+<http://dbpedia.org/resource/Toilet_seat> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/toilet_seat> vcvf:triggers folk:Comfort .
+<http://wikidata.dbpedia.org/resource/Q116191> vcvf:triggers folk:Comfort .
+<http://en.wiktionary.org/wiki/cushion> vcvf:triggers folk:Comfort .
+<http://fr.wiktionary.org/wiki/cushion> vcvf:triggers folk:Comfort .
+<http://umbel.org/umbel/sc/Cushion_PartOfFurniture> vcvf:triggers folk:Comfort .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfort> vcvf:triggers folk:Comfort .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_down> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_on_chair> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cooling_off> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sating_hunger> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfying_appetites_with_minimum_effort> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/staying_in_bed> vcvf:triggers folk:Comfort .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortless> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortable> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforter> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/discomfort> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cold_comfort> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfort_woman> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfort_zone> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortative> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortest> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforteth> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortfic> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforting> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortment> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortsome> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/creature_comfort> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/letter_of_comfort> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/miscomfort> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/uncomfort> vcvf:triggers folk:Comfort .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforts/v> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforted/v> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortedest/v> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortedst/v> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortest/v> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforteth/v> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforting/v> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforts/n> vcvf:triggers folk:Comfort .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/child> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/couch> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/house> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/room> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sofa> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/seat> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sock> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/accommodations> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/carpeting> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cooling_device> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ergonomic_chair> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/first_class_airline_seat> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/heated_towel_rack> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/heater> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hide_bed_sofa> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/linen> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sofabed> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/stuffed_animal> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/toilet_seat> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_violin> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/starting_fire> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cleaning_room> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/competing_against> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/eating_ice_cream> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/flying_in_airplane> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/getting_warm> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/loving_another> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/tying_shoelace> vcvf:triggers folk:Comfort .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cushion> vcvf:triggers folk:Comfort .

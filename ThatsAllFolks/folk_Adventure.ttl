@@ -1,0 +1,423 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Adventure
+
+
+# Adventure lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/adventure> vcvf:triggers folk:Adventure .
+<http://fr.wiktionary.org/wiki/adventure> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventureful> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventureless> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventurement> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventurer> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventuresome> vcvf:triggers folk:Adventure .
+<http://fr.wiktionary.org/wiki/adventuresome> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventuress> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventurest> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventureth> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventurish> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventurism> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/adventurist> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/coadventure> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/ecoadventure> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/misadventure> vcvf:triggers folk:Adventure .
+<http://fr.wiktionary.org/wiki/misadventure> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/nonadventure> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/hiking> vcvf:triggers folk:Adventure .
+<http://fr.wiktionary.org/wiki/hiking> vcvf:triggers folk:Adventure .
+<http://umbel.org/umbel/sc/HikingEvent> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/hiking> vcvf:triggers folk:Adventure .
+<http://fr.wiktionary.org/wiki/hiking> vcvf:triggers folk:Adventure .
+<http://umbel.org/umbel/sc/HikingEvent> vcvf:triggers folk:Adventure .
+<http://dbpedia.org/resource/Surfing> vcvf:triggers folk:Adventure .
+<http://en.wiktionary.org/wiki/surfing> vcvf:triggers folk:Adventure .
+<http://fr.wiktionary.org/wiki/surfing> vcvf:triggers folk:Adventure .
+<http://umbel.org/umbel/sc/Surfing> vcvf:triggers folk:Adventure .
+<http://wikidata.dbpedia.org/resource/Q159992> vcvf:triggers folk:Adventure .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventure> vcvf:triggers folk:Adventure .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hiking> vcvf:triggers folk:Adventure .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventureful> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventureless> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventurement> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventurer> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventuresome> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventuress> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventurest> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventureth> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventurish> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventurism> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventurist> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coadventure> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ecoadventure> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misadventure> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonadventure> vcvf:triggers folk:Adventure .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventured/v> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventures/n> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventures/v> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventurest/v> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventureth/v> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adventuring/v> vcvf:triggers folk:Adventure .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hiking> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/climbing_mountain> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/joining_army> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surfing> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_out_on_town> vcvf:triggers folk:Adventure .
+
+
+
+# Daring frame
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-daring> vcvf:triggers folk:Adventure .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_hazard_114541852> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_opportunity_114483917> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_risk_100802238> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_speculation_113342692> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_crapshoot_100802785> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_brass_ring_114484378> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_stake_113343526> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_day_114484516> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_fresh_start_114484646> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_hearing_114484778> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_hunting_ground_114484969> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_occasion_114485064> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_opening_114485249> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_room_114485436> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_say_114485526> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_shot_114485673> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_street_114485811> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_throw_114485990> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_venture_101117164> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_adventurer_109606009> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_chance_100802629> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_gamble_100802962> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_gambler_110119200> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_bazaar_101118182> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_book_fair_101118338> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_car_boot_sale_101118614> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_clearance_sale_101118776> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_closeout_101118890> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_craft_fair_101118495> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_fire_sale_101119116> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_fire_sale_101119012> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_garage_sale_101119250> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_going-out-of-business_sale_101119401> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_realization_101119620> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_rummage_sale_101119850> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_sale_101117723> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_selloff_101119949> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_white_sale_101120176> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_long_shot_100803091> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_doubling_100803394> vcvf:triggers folk:Adventure .
+<http://yago-knowledge.org/resource/wordnet_raise_100803208> vcvf:triggers folk:Adventure .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-make_bold-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-opportunity-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/pb/pbdata/chance.01> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/pb/pbdata/dare.01> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/pb/pbdata/risk.01> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/pb/pbdata/stake.02> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/pb/pbdata/undertake.01> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/pb/pbdata/venture.01> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/pb/pbdata/venture.02> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_for_broke-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculation-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-crapshoot-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-dare-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-brass_ring-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-stake-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-street-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck_it-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-day-noun-9> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fresh_start-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-room-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-say-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-throw-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-opening-noun-6> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-adventurer-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-hunting_ground-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-shot-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-occasion-noun-5> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-chance-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gambler-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-hearing-noun-2> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00030747n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00066412n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00070393n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00051937n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00001574n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00017621n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00090511v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00034663n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00066060n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00037168n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00069438n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00073240n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00023569n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00058538n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00077091n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00019642n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00079765n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00090231v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00037166n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00012174n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00059097n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00034664n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00086279v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00007098n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00082408v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00040913n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00019666n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00023501n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00023463n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00045256n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00012070n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00083379v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00012800n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00019952n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00068234n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00010111n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00024620n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00025171n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00074598n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00088956v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00017623n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00048551n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00025424n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00028345n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00081089n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00009256n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00037285n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00082409v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00086280v> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearance_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-craft_fair-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-closeout-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-book_fair-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-realization-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-sale-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-long_shot-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-raise-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-car_boot_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubling-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-garage_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-bazaar-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-going-out-of-business_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-selloff-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-rummage_sale-noun-1> vcvf:triggers folk:Adventure .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Reason.daring> vcvf:triggers folk:Adventure .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Manner.daring> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Time.daring> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Place.daring> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.daring> vcvf:triggers folk:Adventure .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Daring> vcvf:triggers folk:Adventure .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Action.daring> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Agent.daring> vcvf:triggers folk:Adventure .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Venture_94100000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Chance_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Gamble_70000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Gamble_94100000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Hazard_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Take_a_chance_70000000> vcvf:triggers folk:Adventure .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-make_bold-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-opportunity-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_for_broke-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculation-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-crapshoot-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-brass_ring-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-stake-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-day-noun-9> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fresh_start-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-hearing-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-hunting_ground-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-occasion-noun-5> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-opening-noun-6> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-room-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-say-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-shot-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-street-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-throw-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck_it-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-adventurer-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-chance-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gambler-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-bazaar-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-book_fair-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-car_boot_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearance_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-closeout-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-craft_fair-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-garage_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-going-out-of-business_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-realization-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-rummage_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-sale-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-selloff-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_sale-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-long_shot-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubling-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-raise-noun-3> vcvf:triggers folk:Adventure .
+
+
+# AttemptMeans frame
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-attempt_means> vcvf:triggers folk:Adventure .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_trier_110728998> vcvf:triggers folk:Adventure .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-endeavor-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-undertaking-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-try-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_for_broke-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-tug-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculation-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-give_it_a_whirl-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-buck-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-stake-noun-4> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-struggle-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck_it-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-struggler-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-grope-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-trier-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_a_dare-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fight-verb-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-adventurer-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-have_a_go-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_pains-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gambler-noun-2> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00088159v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00087335v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00021340n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00088852v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00091607v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00090111v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00082844v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00088344v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00087916v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00088851v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00083808v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00092416v> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00007012n> vcvf:triggers folk:Adventure .
+<http://babelnet.org/rdf/s00089063v> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-kill_oneself-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-trouble_oneself-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-competitiveness-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-extend_oneself-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-flounder-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-laborer-noun-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-energy-noun-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-strive-verb-2> vcvf:triggers folk:Adventure .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Particular_iteration.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Duration.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Outcome.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Depictive.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Domain.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.attempt_means> vcvf:triggers folk:Adventure .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Manner.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Place.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Degree.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Time.attempt_means> vcvf:triggers folk:Adventure .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Attempt_means> vcvf:triggers folk:Adventure .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Means.attempt_means> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/framenet/abox/fe/Agent.attempt_means> vcvf:triggers folk:Adventure .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Venture_94100000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Attempt_61000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Try_61000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Chance_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Gamble_70000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Gamble_94100000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Hazard_94000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Take_a_chance_70000000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Labour_73100000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Fight_36041000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Struggle_36041000> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/vn/vn31/data/Bother_31038000> vcvf:triggers folk:Adventure .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-endeavor-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-try-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_for_broke-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-trier-noun-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-tug-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-give_it_a_whirl-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-buck-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-fight-verb-3> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-grope-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-have_a_go-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_a_dare-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-struggle-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck_it-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_pains-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-extend_oneself-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-flounder-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-kill_oneself-verb-1> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-strive-verb-2> vcvf:triggers folk:Adventure .
+<https://w3id.org/framester/wn/wn30/instances/synset-trouble_oneself-verb-1> vcvf:triggers folk:Adventure .

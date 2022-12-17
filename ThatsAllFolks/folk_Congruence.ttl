@@ -1,0 +1,83 @@
+
+
+
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Congruence
+
+
+# congruence lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/congruence> vcvf:triggers folk:Congruence .
+<http://fr.wiktionary.org/wiki/congruence> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/incongruence> vcvf:triggers folk:Congruence .
+<http://fr.wiktionary.org/wiki/incongruence> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/noncongruence> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/precongruence> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/supercongruence> vcvf:triggers folk:Congruence .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/congruence> vcvf:triggers folk:Congruence .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/incongruence> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/noncongruence> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/precongruence> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/supercongruence> vcvf:triggers folk:Congruence .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/congruences/n> vcvf:triggers folk:Congruence .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# coherent lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/coherent> vcvf:triggers folk:Congruence .
+<http://fr.wiktionary.org/wiki/coherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/incoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/anticoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/coherentism> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/coherentist> vcvf:triggers folk:Congruence .
+<http://fr.wiktionary.org/wiki/coherentist> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/coherentization> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/coherently> vcvf:triggers folk:Congruence .
+<http://fr.wiktionary.org/wiki/coherently> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/decoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/discoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/noncoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/quasicoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/semicoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/supercoherent> vcvf:triggers folk:Congruence .
+<http://en.wiktionary.org/wiki/uncoherent> vcvf:triggers folk:Congruence .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coherent> vcvf:triggers folk:Congruence .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/incoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/anticoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coherentism> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coherentist> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coherentization> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coherently> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/discoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/noncoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/quasicoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/semicoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/supercoherent> vcvf:triggers folk:Congruence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/uncoherent> vcvf:triggers folk:Congruence .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]

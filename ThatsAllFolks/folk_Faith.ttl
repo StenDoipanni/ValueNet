@@ -1,0 +1,68 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Faith
+
+
+# faith lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/Faith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faith> vcvf:triggers folk:Faith .
+<http://fr.wiktionary.org/wiki/faith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithful> vcvf:triggers folk:Faith .
+<http://fr.wiktionary.org/wiki/faithful> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/interfaith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/antifaith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faith-based> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faith-lift> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithbreach> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithed> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faitheist> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithing> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithism> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithist> vcvf:triggers folk:Faith .
+<http://dbpedia.org/resource/Faithless> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithless> vcvf:triggers folk:Faith .
+<http://wikidata.dbpedia.org/resource/Q542071> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithly> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithworthy> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/faithy> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/intrafaith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/misfaith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/multifaith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/nonfaith> vcvf:triggers folk:Faith .
+<http://en.wiktionary.org/wiki/unfaith> vcvf:triggers folk:Faith .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faith> vcvf:triggers folk:Faith .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithful> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/interfaith> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antifaith> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faith_based> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faith_lift> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithbreach> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithed> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faitheist> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithing> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithism> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithist> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithless> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithly> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithworthy> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithy> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intrafaith> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misfaith> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multifaith> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonfaith> vcvf:triggers folk:Faith .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unfaith> vcvf:triggers folk:Faith .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faiths/n> vcvf:triggers folk:Faith .
+# hasSubEvent	[]
+# usedFor	[]

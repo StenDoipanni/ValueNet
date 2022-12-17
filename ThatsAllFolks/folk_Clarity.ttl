@@ -1,0 +1,237 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Clarity
+
+
+# clarity lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/clarity> vcvf:triggers folk:Clarity .
+<http://fr.wiktionary.org/wiki/clarity> vcvf:triggers folk:Clarity .
+<http://en.wiktionary.org/wiki/disclarity> vcvf:triggers folk:Clarity .
+<http://en.wiktionary.org/wiki/hyperclarity> vcvf:triggers folk:Clarity .
+<http://en.wiktionary.org/wiki/inclarity> vcvf:triggers folk:Clarity .
+<http://en.wiktionary.org/wiki/unclarity> vcvf:triggers folk:Clarity .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/clarity> vcvf:triggers folk:Clarity .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/determining_truth> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/illustrating_point> vcvf:triggers folk:Clarity .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/disclarity> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperclarity> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inclarity> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unclarity> vcvf:triggers folk:Clarity .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/clairty/n> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/clarities/n> vcvf:triggers folk:Clarity .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/illustrating_point> vcvf:triggers folk:Clarity .
+
+
+# Obviousness frame
+
+<https://w3id.org/framester/data/framestercore/Obviousnes> vcvf:triggers folk:Clarity .
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-obviousness> vcvf:triggers folk:Clarity .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_clarity_104820258> vcvf:triggers folk:Clarity .
+<http://yago-knowledge.org/resource/wordnet_explicitness_104822032> vcvf:triggers folk:Clarity .
+<http://yago-knowledge.org/resource/wordnet_monosemy_104820908> vcvf:triggers folk:Clarity .
+<http://yago-knowledge.org/resource/wordnet_preciseness_104821451> vcvf:triggers folk:Clarity .
+<http://yago-knowledge.org/resource/wordnet_focus_104821084> vcvf:triggers folk:Clarity .
+<http://yago-knowledge.org/resource/wordnet_unambiguity_104821802> vcvf:triggers folk:Clarity .
+<http://yago-knowledge.org/resource/wordnet_perspicuity_104821615> vcvf:triggers folk:Clarity .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-unclear-adjective-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-attest-verb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearly-adverb-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clarity-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-visible-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-intelligibly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-show-verb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-show-verb-10> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-confusing-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-apparent-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unclearly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-show-verb-8> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-distinctly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-audible-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-obvious-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-obviously-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unintelligibly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-audibly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unmistakable-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-visibly-adverb-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-blurred-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-explicitness-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-frank-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-viewable-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-panoptic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-demonstrable-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-monosemy-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-open-and-shut-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear-cut-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-vivid-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-broad-adjectivesatellite-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-megascopic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-prima_facie-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-writ_large-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-obscure-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-sounding-adjectivesatellite-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-macroscopic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-sonic-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-preciseness-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-focus-noun-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-microscopic-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unambiguity-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-attest-verb-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-circumpolar-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-register-verb-7> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-subgross-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-axiomatic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-perspicuity-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-surcharge-verb-7> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-explanatory-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-transparent-adjectivesatellite-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-attestation-noun-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-in_sight-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-ocular-adjectivesatellite-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clunky-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-limpid-adjectivesatellite-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-telescopic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-visibly-adverb-1> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00078957n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00019667n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00032335n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00114739r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00082916v> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00117392r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00114318r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00117461r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00085517v> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00093684v> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00099802a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00114742r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00117571r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00110277a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00000502n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00035563n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00086557v> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00107706a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00019459n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00104788a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00078938n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00114740r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00092676v> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00114319r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00105385a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00061747n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00097752a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00112446a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00113007a> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00055751n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00116623r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00094619v> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00114442r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00093683v> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00007035n> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00117570r> vcvf:triggers folk:Clarity .
+<http://babelnet.org/rdf/s00114741r> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-concenter-verb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-obscureness-noun-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-invisible-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unclearness-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaudible-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-visible-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unobvious-adjective-1> vcvf:triggers folk:Clarity .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Group.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Location_of_protagonist.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Time.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Particular_iteration.obviousness> vcvf:triggers folk:Clarity .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Perceiver.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Direction.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Evidence.obviousness> vcvf:triggers folk:Clarity .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Obviousness> vcvf:triggers folk:Clarity .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Phenomenon.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Attribute.obviousness> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/framenet/abox/fe/Degree.obviousness> vcvf:triggers folk:Clarity .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Show_48010200> vcvf:triggers folk:Clarity .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-unclear-adjective-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearly-adverb-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clarity-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-show-verb-10> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-visible-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-apparently-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-intelligibly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-confusing-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-apparent-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-obviously-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unclearly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-plainly-adverb-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-show-verb-8> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-distinctly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-audible-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-obvious-adjective-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-audibly-adverb-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unmistakable-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-visibly-adverb-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-attest-verb-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-blurred-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-explicitness-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-frank-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-viewable-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-panoptic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-demonstrable-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-monosemy-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-open-and-shut-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear-cut-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-vivid-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-broad-adjectivesatellite-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-megascopic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-prima_facie-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-writ_large-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-obscure-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-sounding-adjectivesatellite-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-macroscopic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-sonic-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-preciseness-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-focus-noun-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-microscopic-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unambiguity-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-circumpolar-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-register-verb-7> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-subgross-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-axiomatic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-perspicuity-noun-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-surcharge-verb-7> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-explanatory-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-transparent-adjectivesatellite-4> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-in_sight-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-ocular-adjectivesatellite-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-clunky-adjectivesatellite-2> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-limpid-adjectivesatellite-3> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-telescopic-adjectivesatellite-1> vcvf:triggers folk:Clarity .
+<https://w3id.org/framester/wn/wn30/instances/synset-visibly-adverb-1> vcvf:triggers folk:Clarity .

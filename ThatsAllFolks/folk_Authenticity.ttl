@@ -1,0 +1,78 @@
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Authenticity
+
+
+# authenticity lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/authenticity> vcvf:triggers folk:Authenticity .
+<http://fr.wiktionary.org/wiki/authenticity> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/inauthenticity> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/nonauthenticity> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/unauthenticity> vcvf:triggers folk:Authenticity .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticity> vcvf:triggers folk:Authenticity .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inauthenticity> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonauthenticity> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unauthenticity> vcvf:triggers folk:Authenticity .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticities/n> vcvf:triggers folk:Authenticity .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# authentic lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/authentic> vcvf:triggers folk:Authenticity .
+<http://fr.wiktionary.org/wiki/authentic> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authenticate> vcvf:triggers folk:Authenticity .
+<http://fr.wiktionary.org/wiki/authenticate> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authenticity> vcvf:triggers folk:Authenticity .
+<http://fr.wiktionary.org/wiki/authenticity> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/unauthentic> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authentical> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authentically> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authenticism> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authenticist> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authenticize> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/authenticness> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/hyperauthentic> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/inauthentic> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/nonauthentic> vcvf:triggers folk:Authenticity .
+<http://en.wiktionary.org/wiki/superauthentic> vcvf:triggers folk:Authenticity .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authentic> vcvf:triggers folk:Authenticity .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticate> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticity> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unauthentic> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authentical> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authentically> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticism> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticist> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticize> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticly> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/authenticness> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperauthentic> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inauthentic> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonauthentic> vcvf:triggers folk:Authenticity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superauthentic> vcvf:triggers folk:Authenticity .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]

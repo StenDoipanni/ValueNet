@@ -1,0 +1,241 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Challenge
+
+
+# challenge lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/challenge> vcvf:triggers folk:Challenge .
+<http://fr.wiktionary.org/wiki/challenge> vcvf:triggers folk:Challenge .
+<http://umbel.org/umbel/sc/Challenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/Challenger> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/challenger> vcvf:triggers folk:Challenge .
+<http://fr.wiktionary.org/wiki/challenger> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/challengeable> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/challengee> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/challengest> vcvf:triggers folk:Challenge .
+<http://fr.wiktionary.org/wiki/challengest> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/challengeth> vcvf:triggers folk:Challenge .
+<http://fr.wiktionary.org/wiki/challengeth> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/counterchallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/dechallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/megachallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/mischallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/multichallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/nonchallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/overchallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/postchallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/rechallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/subchallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/superchallenge> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/underchallenge> vcvf:triggers folk:Challenge .
+<http://dbpedia.org/resource/Puzzle> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/puzzle> vcvf:triggers folk:Challenge .
+<http://fr.wiktionary.org/wiki/puzzle> vcvf:triggers folk:Challenge .
+<http://umbel.org/umbel/sc/Puzzle_Generic> vcvf:triggers folk:Challenge .
+<http://wikidata.dbpedia.org/resource/Q13698> vcvf:triggers folk:Challenge .
+<http://dbpedia.org/resource/Surfing> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/surfing> vcvf:triggers folk:Challenge .
+<http://fr.wiktionary.org/wiki/surfing> vcvf:triggers folk:Challenge .
+<http://umbel.org/umbel/sc/Surfing> vcvf:triggers folk:Challenge .
+<http://wikidata.dbpedia.org/resource/Q159992> vcvf:triggers folk:Challenge .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challenge> vcvf:triggers folk:Challenge .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challenger> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengeable> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengee> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengest> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengeth> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/counterchallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dechallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/megachallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mischallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multichallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonchallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overchallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/postchallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rechallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/subchallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superchallenge> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/underchallenge> vcvf:triggers folk:Challenge .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challenged/v> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challenges/n> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challenges/v> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengest/v> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengeth/v> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challenging/v> vcvf:triggers folk:Challenge .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/tell_story> vcvf:triggers folk:Challenge .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/puzzle> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_hockey> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/climbing_mountain> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/competing_against> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_game_of_chess> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/running_in_marathon> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surfing> vcvf:triggers folk:Challenge .
+
+
+
+# challenging lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/challenging> vcvf:triggers folk:Challenge .
+<http://fr.wiktionary.org/wiki/challenging> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/unchallenging> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/challengingly> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/challengingness> vcvf:triggers folk:Challenge .
+<http://en.wiktionary.org/wiki/nonchallenging> vcvf:triggers folk:Challenge .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challenging> vcvf:triggers folk:Challenge .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unchallenging> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengingly> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengingness> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonchallenging> vcvf:triggers folk:Challenge .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/challengings/n> vcvf:triggers folk:Challenge .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_game_of_chess> vcvf:triggers folk:Challenge .
+
+
+
+# Difficulty frame
+
+<https://w3id.org/framester/data/framestercore/Difficult> vcvf:triggers folk:Challenge .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-difficulty> vcvf:triggers folk:Challenge .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_challenge_113932948> vcvf:triggers folk:Challenge .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-easily-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-impossible-adjective-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-possible-adjective-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-rugged-adjectivesatellite-4> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-difficult-adjective-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-easy-adjective-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-arduous-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-troublesome-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-thorny-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-trivially-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-arduously-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-catchy-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-ambitious-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-baffling-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-challenge-noun-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-fiddling-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-insignificant-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/pb/pbdata/challenge.01> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-nasty-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-delicate-adjectivesatellite-6> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-adverb-5> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-smooth-adjectivesatellite-7> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-fought-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-out-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hopeless-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hands-down-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-casual-adjectivesatellite-9> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-user-friendly-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-elementary-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-cushy-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-trying-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-unachievable-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-awkward-adjectivesatellite-5> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean-adjectivesatellite-14> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-serious-adjectivesatellite-6> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-vexed-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-cinch-noun-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-tall-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-rocky-adjectivesatellite-4> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-herculean-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-painless-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-simplified-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-impracticable-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-fractious-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-impossibly-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-easy-adverb-3> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00101973a> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00101358a> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00115593r> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00115162r> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00114332r> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00012997n> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00115155r> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00017557n> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00117348r> vcvf:triggers folk:Challenge .
+<http://babelnet.org/rdf/s00104687a> vcvf:triggers folk:Challenge .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.difficulty> vcvf:triggers folk:Challenge .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.difficulty> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/framenet/abox/fe/Standard.difficulty> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/framenet/abox/fe/Time.difficulty> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/framenet/abox/fe/Parameter.difficulty> vcvf:triggers folk:Challenge .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Difficulty> vcvf:triggers folk:Challenge .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Activity.difficulty> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/framenet/abox/fe/Experiencer.difficulty> vcvf:triggers folk:Challenge .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-ambitious-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-arduous-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-arduously-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-catchy-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-challenge-noun-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-difficult-adjective-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-easily-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-easy-adjective-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-fiddling-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-impossible-adjective-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-rugged-adjectivesatellite-4> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-trivially-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-baffling-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-thorny-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-troublesome-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-nasty-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-delicate-adjectivesatellite-6> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-adverb-5> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-smooth-adjectivesatellite-7> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-fought-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-out-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hopeless-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-hands-down-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-casual-adjectivesatellite-9> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-awkward-adjectivesatellite-5> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean-adjectivesatellite-14> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-cushy-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-easy-adverb-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-elementary-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-fractious-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-herculean-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-impossibly-adverb-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-impracticable-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-painless-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-rocky-adjectivesatellite-4> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-serious-adjectivesatellite-6> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-simplified-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-tall-adjectivesatellite-3> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-trying-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-unachievable-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-user-friendly-adjectivesatellite-1> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-vexed-adjectivesatellite-2> vcvf:triggers folk:Challenge .
+<https://w3id.org/framester/wn/wn30/instances/synset-unimportant-adjective-1> vcvf:triggers folk:Challenge .

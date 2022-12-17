@@ -1,0 +1,35 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Feasibility
+
+
+# Feasibility lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/feasibility> vcvf:triggers folk:Feasibility .
+<http://fr.wiktionary.org/wiki/feasibility> vcvf:triggers folk:Feasibility .
+<http://en.wiktionary.org/wiki/infeasibility> vcvf:triggers folk:Feasibility .
+<http://fr.wiktionary.org/wiki/infeasibility> vcvf:triggers folk:Feasibility .
+<http://en.wiktionary.org/wiki/unfeasibility> vcvf:triggers folk:Feasibility .
+<http://fr.wiktionary.org/wiki/unfeasibility> vcvf:triggers folk:Feasibility .
+# Framester frames
+
+# ConceptNet concepts	
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/feasibility> vcvf:triggers folk:Feasibility .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/infeasibility> vcvf:triggers folk:Feasibility .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unfeasibility> vcvf:triggers folk:Feasibility .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/feasability/n> vcvf:triggers folk:Feasibility .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/feasibilities/n> vcvf:triggers folk:Feasibility .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/fissibility/n/wikt/en_2> vcvf:triggers folk:Feasibility .
+# hasSubEvent	[]
+# usedFor	[]

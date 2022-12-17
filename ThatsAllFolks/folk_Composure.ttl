@@ -1,0 +1,51 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Composure
+
+
+# composure lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/composure> vcvf:triggers folk:Composure .
+<http://fr.wiktionary.org/wiki/composure> vcvf:triggers folk:Composure .
+<http://en.wiktionary.org/wiki/discomposure> vcvf:triggers folk:Composure .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/composure> vcvf:triggers folk:Composure .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/discomposure> vcvf:triggers folk:Composure .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/composures/n> vcvf:triggers folk:Composure .
+# hasSubEvent	[]
+# usedFor	[]
+
+# calmness lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/calmness> vcvf:triggers folk:Composure .
+<http://fr.wiktionary.org/wiki/calmness> vcvf:triggers folk:Composure .
+<http://en.wiktionary.org/wiki/Reading> vcvf:triggers folk:Composure .
+<http://en.wiktionary.org/wiki/reading> vcvf:triggers folk:Composure .
+<http://fr.wiktionary.org/wiki/Reading> vcvf:triggers folk:Composure .
+<http://fr.wiktionary.org/wiki/reading> vcvf:triggers folk:Composure .
+<http://en.wiktionary.org/wiki/taking_a_bath> vcvf:triggers folk:Composure .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/calmness> vcvf:triggers folk:Composure .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reading> vcvf:triggers folk:Composure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/taking_bath> vcvf:triggers folk:Composure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/enjoying_day> vcvf:triggers folk:Composure .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reaching_tentative_agreement> vcvf:triggers folk:Composure .
+# derivedFrom	[]
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/calmnesses/n> vcvf:triggers folk:Composure .
+# hasSubEvent	[]
+# usedFor	[]

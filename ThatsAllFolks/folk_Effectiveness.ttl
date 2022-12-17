@@ -1,0 +1,417 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Effectiveness
+
+
+# effectiveness lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/effectiveness> vcvf:triggers folk:Effectiveness .
+<http://fr.wiktionary.org/wiki/effectiveness> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/learning> vcvf:triggers folk:Effectiveness .
+<http://fr.wiktionary.org/wiki/learning> vcvf:triggers folk:Effectiveness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectiveness> vcvf:triggers folk:Effectiveness .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/learning> vcvf:triggers folk:Effectiveness .
+# derivedFrom	[]
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectivenesses/n> vcvf:triggers folk:Effectiveness .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# effective lu
+
+
+
+data
+0
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/effective> vcvf:triggers folk:Effectiveness .
+<http://fr.wiktionary.org/wiki/effective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/ineffective> vcvf:triggers folk:Effectiveness .
+<http://fr.wiktionary.org/wiki/ineffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/effectiveness> vcvf:triggers folk:Effectiveness .
+<http://fr.wiktionary.org/wiki/effectiveness> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/coeffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/effectivate> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/effectively> vcvf:triggers folk:Effectiveness .
+<http://fr.wiktionary.org/wiki/effectively> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/effectivity> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/effectivization> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/Effie> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/equieffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/geoeffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/isoeffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/noneffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/pseudoeffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/subeffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/supereffective> vcvf:triggers folk:Effectiveness .
+<http://en.wiktionary.org/wiki/undereffective> vcvf:triggers folk:Effectiveness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effective> vcvf:triggers folk:Effectiveness .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ineffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectiveness> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coeffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectivate> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectively> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectivity> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectivization> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effie> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/equieffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/geoeffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isoeffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/noneffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pseudoeffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/subeffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/supereffective> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/undereffective> vcvf:triggers folk:Effectiveness .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/effectives/n> vcvf:triggers folk:Effectiveness .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Usefulness frame
+
+
+<https://w3id.org/framester/data/framestercore/Usefulness> vcvf:triggers folk:Effectiveness .
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-usefulness> vcvf:triggers folk:Effectiveness .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_utility_105148699> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_value_105856388> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_eigenvalue_105856589> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_detergency_105149127> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_scale_value_105856867> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_instrumentality_105150458> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_argument_106356299> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_serviceability_105150129> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_practicality_105151088> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_use_105149978> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_practicability_105152150> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_helpfulness_105149695> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_function_105149325> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_avail_105149832> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_feasibility_105152364> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_functionality_105151372> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_raison_d'etre_105149589> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_realism_105151869> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_sensibleness_105151701> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_viability_105151576> vcvf:triggers folk:Effectiveness .
+<http://yago-knowledge.org/resource/wordnet_average_105856979> vcvf:triggers folk:Effectiveness .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-running-adjectivesatellite-6> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-superb-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-enormous-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-excellent-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-valuable-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-function-verb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ace-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-useful-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-all_right-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bad-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-utility-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fantastic-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-idyllic-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ineffective-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-value-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-great-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfect-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ideal-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-effective-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-great-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-brilliant-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-useless-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-utilitarian-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfectly-adverb-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pluperfect-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-complete-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-invaluable-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-serve-verb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-idealized-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-rich-adjectivesatellite-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-utilitarian-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ideally-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-utilizable-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-eigenvalue-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-errorless-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-phenomenal-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-rough-and-ready-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-detergency-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-serviceable-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-faultless-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-inutility-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-scale_value-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-glorious-adjectivesatellite-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-avail-verb-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-impressive-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-useable-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reclaimable-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-semiprecious-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-instrumentality-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-precious-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-argument-noun-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-flawless-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-good_enough-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-solid-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-service-verb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-serviceability-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-blue-chip-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-multipurpose-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-practicality-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-service-noun-4> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-cold-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-work-verb-16> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfectible-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncorrupted-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-goodish-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unproductive-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-enormously-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-toothless-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-redeeming-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-down-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-impelling-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-inefficaciously-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-use-noun-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-usefully-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bang-up-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-practicability-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-helpfulness-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-behaved-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-mint-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-worth-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-double-verb-4> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-excellently-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear-adjectivesatellite-13> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-hitting-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-improbable-adjectivesatellite-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-efficaciously-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-operating-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-run-verb-13> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-cut-verb-24> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-practice-verb-4> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-function-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hot-adjectivesatellite-15> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-roll-verb-7> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-wonderfully-adverb-1> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00005603n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00117542r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00093511v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00113946a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00033857n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00087172v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00093172v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00079895n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00090606v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00082711v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00063985n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00079372n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00115215r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00070676n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00115718r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00036822n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00115177r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00007427n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00105004a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00113457a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00064005n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00063988n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00116199r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00026644n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00079370n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00108442a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00046977n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00069475n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00103672a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00079508n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00043635n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00088629v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00113455a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00070507n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00102038a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00115272r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00115910r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00086198v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00107911a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00116562r> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00086711v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00036836n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00047315n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00007451n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00093082v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00095817v> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00017765n> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00104646a> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00113489a> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-raison_d_etre-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-realism-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-average-noun-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-operant-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-worthless-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-viability-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sensibleness-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-feasibility-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-malfunction-verb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-deterge-verb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-functionality-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-avail-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-imperfect-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-outstanding-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-adjectivesatellite-6> vcvf:triggers folk:Effectiveness .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Domain.usefulness> vcvf:triggers folk:Effectiveness .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.usefulness> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/framenet/abox/fe/Time.usefulness> vcvf:triggers folk:Effectiveness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Usefulness> vcvf:triggers folk:Effectiveness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Entity.usefulness> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.usefulness> vcvf:triggers folk:Effectiveness .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Operate_45040000> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/vn/vn31/data/Cut_21011000> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/vn/vn31/data/Serve_54030000> vcvf:triggers folk:Effectiveness .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-ace-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-all_right-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-excellent-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fantastic-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-great-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-idyllic-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-running-adjectivesatellite-6> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-superb-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-valuable-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-function-verb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-useful-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-utility-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ineffective-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-value-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-effective-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ideal-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfect-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfectly-adverb-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pluperfect-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bang-up-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-enormously-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-excellently-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-good_enough-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-goodish-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hot-adjectivesatellite-15> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-redeeming-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-solid-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-behaved-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-wonderfully-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-complete-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-invaluable-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-cut-verb-24> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-double-verb-4> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-idealized-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-operating-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-rich-adjectivesatellite-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-roll-verb-7> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-run-verb-13> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-service-verb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-utilitarian-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-work-verb-16> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ideally-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-utilizable-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-eigenvalue-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-errorless-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-rough-and-ready-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-detergency-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-serviceable-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-faultless-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-scale_value-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-impressive-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-useable-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reclaimable-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-semiprecious-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-instrumentality-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-precious-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-argument-noun-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-flawless-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-serviceability-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-blue-chip-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-multipurpose-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-practicality-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-cold-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfectible-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncorrupted-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unproductive-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-toothless-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-down-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-impelling-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-inefficaciously-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-use-noun-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-usefully-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-practicability-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-helpfulness-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-mint-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-worth-adjectivesatellite-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear-adjectivesatellite-13> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-hitting-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-efficaciously-adverb-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-function-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-functioning-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-avail-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-feasibility-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-functionality-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-raison_d_etre-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-realism-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sensibleness-noun-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-viability-noun-2> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-superior-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-operative-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-average-noun-3> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-operant-adjectivesatellite-1> vcvf:triggers folk:Effectiveness .
+
+
+# ActuallyOccurringEntity frame
+
+
+<https://w3id.org/framester/data/framestercore/ActuallyOccurringEntity> vcvf:triggers folk:Effectiveness .
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-actually_occurring_entity> vcvf:triggers folk:Effectiveness .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-effective-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-actual-adjective-1> vcvf:triggers folk:Effectiveness .
+<http://babelnet.org/rdf/s00096397a> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-potential-adjective-1> vcvf:triggers folk:Effectiveness .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element	[]
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Actually_occurring_entity> vcvf:triggers folk:Effectiveness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Type.actually_occurring_entity> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/framenet/abox/fe/Instance.actually_occurring_entity> vcvf:triggers folk:Effectiveness .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-actual-adjective-1> vcvf:triggers folk:Effectiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-effective-adjectivesatellite-5> vcvf:triggers folk:Effectiveness .

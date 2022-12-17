@@ -1,0 +1,194 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Distinctiveness
+
+
+# distinctiveness lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/distinctiveness> vcvf:triggers folk:Distinctiveness .
+<http://fr.wiktionary.org/wiki/distinctiveness> vcvf:triggers folk:Distinctiveness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/distinctiveness> vcvf:triggers folk:Distinctiveness .
+# causes	[]
+# derivedFrom	[]
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/distinctivenesses/n> vcvf:triggers folk:Distinctiveness .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Idiosyncrasy frame
+
+<https://w3id.org/framester/data/framestercore/Idiosyncrasy> vcvf:triggers folk:Distinctiveness .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-idiosyncrasy> vcvf:triggers folk:Distinctiveness .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_idiosyncrasy_104764242> vcvf:triggers folk:Distinctiveness .
+<http://yago-knowledge.org/resource/wordnet_curio_103149951> vcvf:triggers folk:Distinctiveness .
+<http://yago-knowledge.org/resource/wordnet_peculiarity_104763925> vcvf:triggers folk:Distinctiveness .
+<http://yago-knowledge.org/resource/wordnet_collector's_item_103069567> vcvf:triggers folk:Distinctiveness .
+<http://yago-knowledge.org/resource/wordnet_bric-a-brac_102897692> vcvf:triggers folk:Distinctiveness .
+<http://yago-knowledge.org/resource/wordnet_collectible_103069213> vcvf:triggers folk:Distinctiveness .
+<http://yago-knowledge.org/resource/wordnet_chachka_102998696> vcvf:triggers folk:Distinctiveness .
+<http://yago-knowledge.org/resource/wordnet_rariora_104054566> vcvf:triggers folk:Distinctiveness .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-idiosyncrasy-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-eldritch-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-idiosyncratic-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-particular-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-alone-adjectivesatellite-4> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-curio-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-peculiarity-noun-2> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-collector_s_item-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-peculiar-adjectivesatellite-4> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncannily-adverb-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-peculiarly-adverb-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bric-a-brac-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-collectible-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-preternatural-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjectivesatellite-6> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-particularly-adverb-2> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00027769n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00115814r> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00024486n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00020638n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00013046n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00058633n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00116536r> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00020624n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00117386r> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00017452n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00035577n> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00066200n> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-chachka-noun-2> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-oddity-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-rariora-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unique-adjectivesatellite-4> vcvf:triggers folk:Distinctiveness .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.idiosyncrasy> vcvf:triggers folk:Distinctiveness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Idiosyncrasy> vcvf:triggers folk:Distinctiveness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Entity.idiosyncrasy> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/framenet/abox/fe/Idiosyncrasy.idiosyncrasy> vcvf:triggers folk:Distinctiveness .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-idiosyncrasy-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-alone-adjectivesatellite-4> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-curio-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-eldritch-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-idiosyncratic-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-particular-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-peculiarity-noun-2> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-collector_s_item-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bric-a-brac-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-collectible-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-particularly-adverb-2> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-peculiarly-adverb-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncannily-adverb-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-chachka-noun-2> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-definite-adjective-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-supernatural-adjective-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-rariora-noun-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-individual-adjective-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-specific-adjective-1> vcvf:triggers folk:Distinctiveness .
+
+
+
+# BeyondCompare frame
+
+
+<https://w3id.org/framester/data/framestercore/BeyondCompare> vcvf:triggers folk:Distinctiveness .
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-beyond_compare> vcvf:triggers folk:Distinctiveness .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-comparable-adjective-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-alone-adjectivesatellite-4> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incomparable-adjective-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-matchless-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incommensurable-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-all-time-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incomparably-adverb-1> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00104843a> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00115868r> vcvf:triggers folk:Distinctiveness .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Domain.beyond_compare> vcvf:triggers folk:Distinctiveness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Beyond_compare> vcvf:triggers folk:Distinctiveness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Standard.beyond_compare> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/framenet/abox/fe/Variable.beyond_compare> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/framenet/abox/fe/Competitors.beyond_compare> vcvf:triggers folk:Distinctiveness .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-alone-adjectivesatellite-4> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-matchless-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incomparable-adjective-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incommensurable-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-all-time-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incomparably-adverb-1> vcvf:triggers folk:Distinctiveness .
+
+
+# SoleInstance frame
+
+
+<https://w3id.org/framester/data/framestercore/SoleInstance> vcvf:triggers folk:Distinctiveness .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-sole_instance> vcvf:triggers folk:Distinctiveness .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-multiple-adjective-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-single-adjective-3> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-alone-adverb-2> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-lone-adjectivesatellite-3> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-matchless-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sui_generis-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-uninominal-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-one-man-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-azygous-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unary-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-singular-adjectivesatellite-6> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00110667a> vcvf:triggers folk:Distinctiveness .
+<http://babelnet.org/rdf/s00114235r> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-single-adjectivesatellite-6> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-alone-adjectivesatellite-2> vcvf:triggers folk:Distinctiveness .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element	[]
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Sole_instance> vcvf:triggers folk:Distinctiveness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Item.sole_instance> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/framenet/abox/fe/Type.sole_instance> vcvf:triggers folk:Distinctiveness .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-alone-adverb-2> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-lone-adjectivesatellite-3> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-matchless-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-single-adjective-3> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sui_generis-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-azygous-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-one-man-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-singular-adjectivesatellite-6> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unary-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-uninominal-adjectivesatellite-1> vcvf:triggers folk:Distinctiveness .

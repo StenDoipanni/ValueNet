@@ -1,0 +1,143 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Famous
+
+
+# famous lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/famous> vcvf:triggers folk:Famous .
+<http://fr.wiktionary.org/wiki/famous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/cosfamous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/e-famous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/famoused> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/famousish> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/famously> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/famousness> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/microfamous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/nonfamous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/semifamous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/superfamous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/uber-famous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/ultrafamous> vcvf:triggers folk:Famous .
+<http://en.wiktionary.org/wiki/unfamous> vcvf:triggers folk:Famous .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famous> vcvf:triggers folk:Famous .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cosfamous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/e_famous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famoused> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famousish> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famously> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famousness> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/microfamous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonfamous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/semifamous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superfamous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/uber_famous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ultrafamous> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unfamous> vcvf:triggers folk:Famous .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famouses/v> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famousest/a> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/famousing/v> vcvf:triggers folk:Famous .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# Fame frame
+
+
+<https://w3id.org/framester/data/framestercore/Fame> vcvf:triggers folk:Famous .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-fame> vcvf:triggers folk:Famous .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_fame_114437386> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_notoriety_114439149> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_repute_114438125> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_stature_114437976> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_fame_114438898> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_black_eye_114438419> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_character_114438693> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_name_114438788> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_reputation_114439294> vcvf:triggers folk:Famous .
+<http://yago-knowledge.org/resource/wordnet_stock_114438541> vcvf:triggers folk:Famous .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-legendary-adjectivesatellite-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-epic-adjective-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-repute-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-celebrated-adjectivesatellite-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-fame-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-stature-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-ill-famed-adjectivesatellite-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-notoriety-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-disreputable-adjective-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-fame-noun-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-famously-adverb-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-reputation-noun-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-character-noun-6> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-name-noun-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-stock-noun-9> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-black_eye-noun-2> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00115319r> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00067253n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00027532n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00056759n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00074066n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00074334n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00045933n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00046609n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00032885n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00010893n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00067254n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00017750n> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00102303a> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00101574a> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00109708a> vcvf:triggers folk:Famous .
+<http://babelnet.org/rdf/s00016991n> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-reputable-adjective-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-infamy-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-disrepute-noun-1> vcvf:triggers folk:Famous .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.fame> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.fame> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/framenet/abox/fe/Time.fame> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/framenet/abox/fe/Role.fame> vcvf:triggers folk:Famous .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.fame> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/framenet/abox/fe/Place.fame> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/framenet/abox/fe/Duration.fame> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/framenet/abox/fe/Means.fame> vcvf:triggers folk:Famous .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Fame> vcvf:triggers folk:Famous .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Entity.fame> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/framenet/abox/fe/Reason.fame> vcvf:triggers folk:Famous .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-legendary-adjectivesatellite-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-epic-adjective-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-celebrated-adjectivesatellite-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-fame-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-ill-famed-adjectivesatellite-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-notoriety-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-repute-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-stature-noun-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-fame-noun-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-black_eye-noun-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-character-noun-6> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-famously-adverb-1> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-name-noun-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-reputation-noun-2> vcvf:triggers folk:Famous .
+<https://w3id.org/framester/wn/wn30/instances/synset-stock-noun-9> vcvf:triggers folk:Famous .

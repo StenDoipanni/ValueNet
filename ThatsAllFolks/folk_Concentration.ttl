@@ -1,0 +1,50 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Concentration
+
+
+# concentration lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/concentration> vcvf:triggers folk:Concentration .
+<http://fr.wiktionary.org/wiki/concentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/bioconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/concentrational> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/cryoconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/deconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/haemoconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/hemoconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/hyperconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/mascon> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/overconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/preconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/reconcentration> vcvf:triggers folk:Concentration .
+<http://en.wiktionary.org/wiki/superconcentration> vcvf:triggers folk:Concentration .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/concentration> vcvf:triggers folk:Concentration .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/adding_up_numbers> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_game_of_chess> vcvf:triggers folk:Concentration .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bioconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/concentrational> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cryoconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/deconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/haemoconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hemoconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mascon> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reconcentration> vcvf:triggers folk:Concentration .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superconcentration> vcvf:triggers folk:Concentration .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/concentrations/n> vcvf:triggers folk:Concentration .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_game_of_chess> vcvf:triggers folk:Concentration .
+# usedFor	[]

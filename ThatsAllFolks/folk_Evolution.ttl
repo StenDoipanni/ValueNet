@@ -1,0 +1,78 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Evolution
+
+
+# evolution lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Evolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evolution> vcvf:triggers folk:Evolution .
+<http://fr.wiktionary.org/wiki/evolution> vcvf:triggers folk:Evolution .
+<http://wikidata.dbpedia.org/resource/Q1063> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evolutional> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evolutionary> vcvf:triggers folk:Evolution .
+<http://fr.wiktionary.org/wiki/evolutionary> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/antievolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evolutionism> vcvf:triggers folk:Evolution .
+<http://fr.wiktionary.org/wiki/evolutionism> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evolutionist> vcvf:triggers folk:Evolution .
+<http://fr.wiktionary.org/wiki/evolutionist> vcvf:triggers folk:Evolution .
+<http://dbpedia.org/resource/Coevolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/coevolution> vcvf:triggers folk:Evolution .
+<http://wikidata.dbpedia.org/resource/Q208841> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/e-volution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/Eeveelution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evilution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evogram> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evolutionistic> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/evolutionlike> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/karyoevolution> vcvf:triggers folk:Evolution .
+<http://dbpedia.org/resource/Macroevolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/macroevolution> vcvf:triggers folk:Evolution .
+<http://wikidata.dbpedia.org/resource/Q722612> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/metaevolution> vcvf:triggers folk:Evolution .
+<http://dbpedia.org/resource/Microevolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/microevolution> vcvf:triggers folk:Evolution .
+<http://wikidata.dbpedia.org/resource/Q680054> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/neuroevolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/orthoevolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/photoevolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/self-evolution> vcvf:triggers folk:Evolution .
+<http://en.wiktionary.org/wiki/procreating> vcvf:triggers folk:Evolution .
+<http://fr.wiktionary.org/wiki/procreating> vcvf:triggers folk:Evolution .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolution> vcvf:triggers folk:Evolution .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolutional> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolutionary> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antievolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolutionism> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolutionist> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/e_volution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/eeveelution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evilution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evogram> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolutionistic> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolutionlike> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/karyoevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/macroevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/metaevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/microevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/neuroevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/orthoevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/photoevolution> vcvf:triggers folk:Evolution .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/self_evolution> vcvf:triggers folk:Evolution .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/evolutions/n> vcvf:triggers folk:Evolution .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/procreating> vcvf:triggers folk:Evolution .

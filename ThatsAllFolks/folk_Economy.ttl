@@ -1,0 +1,210 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Economy
+
+
+# economy lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Economy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/economy> vcvf:triggers folk:Economy .
+<http://fr.wiktionary.org/wiki/economy> vcvf:triggers folk:Economy .
+<http://wikidata.dbpedia.org/resource/Q159810> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/agroeconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/cybereconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/diseconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/e-conomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/e-economy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/economism> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/economywide> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/ineconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/macroeconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/microeconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/narcoeconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/palaeoeconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/socioeconomy> vcvf:triggers folk:Economy .
+<http://en.wiktionary.org/wiki/subeconomy> vcvf:triggers folk:Economy .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/economy> vcvf:triggers folk:Economy .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/buying_small> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfying_appetites_with_minimum_effort> vcvf:triggers folk:Economy .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/agroeconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cybereconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/diseconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/e_conomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/e_economy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/economism> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/economywide> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ineconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/macroeconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/microeconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/narcoeconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/palaeoeconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/socioeconomy> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/subeconomy> vcvf:triggers folk:Economy .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/economies/n> vcvf:triggers folk:Economy .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfying_appetites_with_minimum_effort> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/taking_bus> vcvf:triggers folk:Economy .
+
+
+
+
+# Frugality frame
+
+<https://w3id.org/framester/data/framestercore/Frugality> vcvf:triggers folk:Economy .
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-frugality> vcvf:triggers folk:Economy .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_economy_104893787> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_spendthrift_110635460> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_frugality_104893358> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_parsimony_104893525> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_austerity_104881998> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_extravagance_104894807> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_monasticism_104882214> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_stinter_110656832> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_big_spender_110635625> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_thriftlessness_104894964> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_wastrel_110769459> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_economizer_110044470> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_prodigal_110479561> vcvf:triggers folk:Economy .
+<http://yago-knowledge.org/resource/wordnet_eremitism_104882438> vcvf:triggers folk:Economy .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-economy-noun-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-conserve-verb-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-economical-adjectivesatellite-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-scrimp-verb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-ascetic-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-spendthrift-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wasteful-adjective-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-frugality-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-waste-verb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-parsimonious-adjectivesatellite-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-parsimony-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-austerity-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-thrifty-adjective-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-penny-wise-adjectivesatellite-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-extravagance-noun-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-extravagant-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/pb/pbdata/scrimp.01> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/pb/pbdata/squander.01> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/pb/pbdata/waste.01> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-monasticism-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-retrench-verb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-uneconomical-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-frugally-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-ascetically-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-saving-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-stinter-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-pound-foolish-adjectivesatellite-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_spender-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-burn-verb-9> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-thriftlessness-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wastrel-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-waste-verb-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-spend-verb-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-prodigal-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-economizer-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-meagerly-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-extravagantly-adverb-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wastefully-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-thriftily-adverb-1> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00114371r> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00064577n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00111890a> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00113719a> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00117295r> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00080549n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00029684n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00084277v> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00069538n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00094115v> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00085645v> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00116709r> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00029682n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00032484n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00055633n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00092959v> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00083657v> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00036685n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00006263n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00010323n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00031379n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00116212r> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00083055v> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00115298r> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00115469r> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00074312n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00077062n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00060754n> vcvf:triggers folk:Economy .
+<http://babelnet.org/rdf/s00093386v> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-consume-verb-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-eremitism-noun-1> vcvf:triggers folk:Economy .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.frugality> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/framenet/abox/fe/Judge.frugality> vcvf:triggers folk:Economy .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Frugality> vcvf:triggers folk:Economy .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Behavior.frugality> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/framenet/abox/fe/Resource_controller.frugality> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/framenet/abox/fe/Resource.frugality> vcvf:triggers folk:Economy .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Scrimp_54050000> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/vn/vn31/data/Waste_66000000> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/vn/vn31/data/Waste_68000000> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/vn/vn31/data/Squander_68000000> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/vn/vn31/data/Spend_68000000> vcvf:triggers folk:Economy .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-economy-noun-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-conserve-verb-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-economical-adjectivesatellite-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-scrimp-verb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-ascetic-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-spendthrift-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wasteful-adjective-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-frugality-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-waste-verb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-parsimonious-adjectivesatellite-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-parsimony-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-austerity-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-thrifty-adjective-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-penny-wise-adjectivesatellite-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-extravagance-noun-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-extravagant-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-monasticism-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-retrench-verb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-uneconomical-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-frugally-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-ascetically-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-saving-adjectivesatellite-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-stinter-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-pound-foolish-adjectivesatellite-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_spender-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-extravagantly-adverb-2> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-burn-verb-9> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-thriftlessness-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wastrel-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-economizer-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-meagerly-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-prodigal-noun-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-spend-verb-3> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-thriftily-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wastefully-adverb-1> vcvf:triggers folk:Economy .
+<https://w3id.org/framester/wn/wn30/instances/synset-eremitism-noun-1> vcvf:triggers folk:Economy .

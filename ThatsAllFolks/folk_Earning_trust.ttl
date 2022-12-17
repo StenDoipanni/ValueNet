@@ -1,0 +1,279 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Earning_trust
+
+
+# trust lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/trust> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/trust> vcvf:triggers folk:Earning_trust .
+<http://umbel.org/umbel/sc/Trust_LegalEntity> vcvf:triggers folk:Earning_trust .
+<http://dbpedia.org/resource/Distrust> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/distrust> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/distrust> vcvf:triggers folk:Earning_trust .
+<http://wikidata.dbpedia.org/resource/Q621922> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/mistrust> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/mistrust> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/betrust> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustee> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/trustee> vcvf:triggers folk:Earning_trust .
+<http://umbel.org/umbel/sc/Trustee> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/entrust> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/entrust> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/foretrust> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/intrust> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/overtrust> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustability> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustable> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustbuster> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustbusting> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/truster> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustest> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/trustest> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trusteth> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/trusteth> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustful> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustless> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustlike> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trustor> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/trusty> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/trusty> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/unitrust> vcvf:triggers folk:Earning_trust .
+<http://dbpedia.org/resource/Belief> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/belief> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/belief> vcvf:triggers folk:Earning_trust .
+<http://wikidata.dbpedia.org/resource/Q34394> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/faithfulness> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/faithfulness> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/Faith> vcvf:triggers folk:Earning_trust .
+<http://en.wiktionary.org/wiki/faith> vcvf:triggers folk:Earning_trust .
+<http://fr.wiktionary.org/wiki/faith> vcvf:triggers folk:Earning_trust .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trust> vcvf:triggers folk:Earning_trust .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/belief> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faithfulness> vcvf:triggers folk:Earning_trust .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/distrust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/betrust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustee> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/entrust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/foretrust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intrust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overtrust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustability> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustable> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustbuster> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustbusting> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/truster> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustest> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trusteth> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustful> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustless> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustlike> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustor> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trusty> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unitrust> vcvf:triggers folk:Earning_trust .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trusted/v> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustedst/v> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trustest/v> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trusteth/v> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trusting/v> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trusts/n> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trusts/v> vcvf:triggers folk:Earning_trust .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/loving_else> vcvf:triggers folk:Earning_trust .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/faith> vcvf:triggers folk:Earning_trust .
+
+
+# Trust frame
+
+<https://w3id.org/framester/data/framestercore/Trust> vcvf:triggers folk:Earning_trust .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-trust> vcvf:triggers folk:Earning_trust .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_faith_105943066> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_credence_106193727> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_dependability_104670022> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_believer_109848489> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_fatalism_106194030> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_infallibility_104805136> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_recognition_106194216> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_reproducibility_104806169> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_solidity_104671075> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_inerrancy_104805304> vcvf:triggers folk:Earning_trust .
+<http://yago-knowledge.org/resource/wordnet_papal_infallibility_104805635> vcvf:triggers folk:Earning_trust .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-credulous-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-fleeceable-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-faith-noun-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credence-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependability-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliable-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-trustworthy-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-heretic-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-incredulous-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-untrustworthy-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/pb/pbdata/distrust.01> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/pb/pbdata/mistrust.01> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/pb/pbdata/trust.01> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/pb/pbdata/trust.02> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credulously-adverb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-faithfully-adverb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-overcredulous-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-unquestioning-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependable-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe_in-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-noun-3> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-fatalism-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-infallibility-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-misbelieve-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-3> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-reproducibility-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-swallow-verb-8> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-fiducial-adjectivesatellite-3> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjectivesatellite-6> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-solidity-noun-3> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-tested-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-authentic-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-creditworthy-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-recognition-noun-7> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-undeviating-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-buy-verb-5> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-sure-adjectivesatellite-6> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00083372v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00112161a> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00046590n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00032769n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00046608n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00072730n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00094648v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00066553n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00114522r> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00078488n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00112570a> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00113357a> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00104892a> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00009719n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00083373v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00033771n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00078976n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00083095v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00090817v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00026350n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00098214a> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00000648n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00083371v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00086897v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00100631a> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00029154n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00084334v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00089708v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00090260v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00086019v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00101186a> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00083374v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00060455n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00083369v> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00009720n> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00114987r> vcvf:triggers folk:Earning_trust .
+<http://babelnet.org/rdf/s00082197v> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-disbelieve-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-undependability-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-inerrancy-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-papal_infallibility-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-unreliable-adjective-2> vcvf:triggers folk:Earning_trust .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Content.trust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/framenet/abox/fe/Degree.trust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/framenet/abox/fe/Manner.trust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/framenet/abox/fe/Topic.trust> vcvf:triggers folk:Earning_trust .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Trust> vcvf:triggers folk:Earning_trust .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Source.trust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.trust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/framenet/abox/fe/Information.trust> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/framenet/abox/fe/Cognizer.trust> vcvf:triggers folk:Earning_trust .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Count_70000000> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/vn/vn31/data/Depend_70000000> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/vn/vn31/data/Bet_70000000> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/vn/vn31/data/Trust_31020000> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/vn/vn31/data/Rely_70000000> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/vn/vn31/data/Bank_70000000> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/vn/vn31/data/Accept_29020000> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/vn/vn31/data/Understand_87020000> vcvf:triggers folk:Earning_trust .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-credulous-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-fleeceable-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-faith-noun-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credence-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependability-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliable-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-trustworthy-adjective-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credulously-adverb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-faithfully-adverb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-overcredulous-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-unquestioning-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-authentic-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe_in-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-buy-verb-5> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjectivesatellite-6> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-creditworthy-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependable-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-fatalism-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-fiducial-adjectivesatellite-3> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-infallibility-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-recognition-noun-7> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-reproducibility-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-solidity-noun-3> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-sure-adjectivesatellite-6> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-swallow-verb-8> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-tested-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-4> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-undeviating-adjectivesatellite-2> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-misbelieve-verb-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-inerrancy-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-papal_infallibility-noun-1> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Earning_trust .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjective-1> vcvf:triggers folk:Earning_trust .

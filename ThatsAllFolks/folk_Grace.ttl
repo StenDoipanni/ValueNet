@@ -1,0 +1,179 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Grace
+
+
+# Grace lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/Grace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/grace> vcvf:triggers folk:Grace .
+<http://fr.wiktionary.org/wiki/Grace> vcvf:triggers folk:Grace .
+<http://fr.wiktionary.org/wiki/grace> vcvf:triggers folk:Grace .
+<http://wordnet-rdf.princeton.edu/wn31/fall+from+grace-p#Component-3> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/graceful> vcvf:triggers folk:Grace .
+<http://fr.wiktionary.org/wiki/graceful> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/graceless> vcvf:triggers folk:Grace .
+<http://fr.wiktionary.org/wiki/graceless> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/begrace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/bowgrace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/engrace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/Gracelynn> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/gracen> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/gracer> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/gracesome> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/gracest> vcvf:triggers folk:Grace .
+<http://fr.wiktionary.org/wiki/gracest> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/graceth> vcvf:triggers folk:Grace .
+<http://fr.wiktionary.org/wiki/graceth> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/graceworthy> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/Gracie> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/lack-grace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/misgrace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/overgrace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/scapegrace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/ungrace> vcvf:triggers folk:Grace .
+<http://en.wiktionary.org/wiki/gracefu> vcvf:triggers folk:Grace .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/grace> vcvf:triggers folk:Grace .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graceful> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graceless> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/begrace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bowgrace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/engrace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracelynn> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracen> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracer> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracesome> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracest> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graceth> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graceworthy> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracie> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lack_grace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misgrace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overgrace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/scapegrace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ungrace> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/sco/gracefu> vcvf:triggers folk:Grace .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/grac't/v> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graced/v> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graces/n> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graces/v> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracest/v> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/graceth/v> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/gracing/v> vcvf:triggers folk:Grace .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# Forgiveness frame
+
+<https://w3id.org/framester/data/framestercore/Forgiveness> vcvf:triggers folk:Grace .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-forgiveness> vcvf:triggers folk:Grace .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_forgiveness_101227190> vcvf:triggers folk:Grace .
+<http://yago-knowledge.org/resource/wordnet_excuse_106741305> vcvf:triggers folk:Grace .
+<http://yago-knowledge.org/resource/wordnet_pardoner_110399299> vcvf:triggers folk:Grace .
+<http://yago-knowledge.org/resource/wordnet_condonation_101227351> vcvf:triggers folk:Grace .
+<http://yago-knowledge.org/resource/wordnet_exculpation_101227691> vcvf:triggers folk:Grace .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-verb-6> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-forgive-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-forgiveness-noun-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/pb/pbdata/condone.01> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/pb/pbdata/excuse.01> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/pb/pbdata/forgive.01> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/pb/pbdata/pardon.01> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-shrive-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-noun-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-absolve-verb-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-pardon-noun-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-pardoner-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-pardon-verb-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-remit-verb-5> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-justification-noun-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-condonation-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-absolution-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-exculpation-noun-2> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00092774v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00000463n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00082167v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00082583v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00035897n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00087818v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00032167n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00032162n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00088535v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00021668n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00082168v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00035898n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00085564v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00002715n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00060639n> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00087817v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00088483v> vcvf:triggers folk:Grace .
+<http://babelnet.org/rdf/s00091433v> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-wash_one_s_hands-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-frank-verb-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-absolvitory-adjectivesatellite-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-pardoner-noun-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-forgiveness-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-absolver-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-amnesty-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-verb-2> vcvf:triggers folk:Grace .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element	[]
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Forgiveness> vcvf:triggers folk:Grace .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Evaluee.forgiveness> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/framenet/abox/fe/Judge.forgiveness> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/framenet/abox/fe/Offense.forgiveness> vcvf:triggers folk:Grace .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Pardon_33000000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Excuse_33000000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Forgive_33000000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Absolve_10060000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Free_80100000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Free_10060000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Absolve_80000000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Absolve_10060000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Pardon_33000000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Pardon_10060000> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/vn/vn31/data/Relieve_80100000> vcvf:triggers folk:Grace .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-verb-6> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-forgive-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-forgiveness-noun-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-shrive-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-absolve-verb-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-pardoner-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-pardon-verb-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-remit-verb-5> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-condonation-noun-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-exculpation-noun-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-amnesty-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-excuse-verb-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-frank-verb-2> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-wash_one_s_hands-verb-1> vcvf:triggers folk:Grace .
+<https://w3id.org/framester/wn/wn30/instances/synset-absolvitory-adjectivesatellite-1> vcvf:triggers folk:Grace .

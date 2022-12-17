@@ -1,0 +1,270 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Certainty
+
+
+# certainty lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/certainty> vcvf:triggers folk:Certainty .
+<http://fr.wiktionary.org/wiki/certainty> vcvf:triggers folk:Certainty .
+<http://en.wiktionary.org/wiki/uncertainty> vcvf:triggers folk:Certainty .
+<http://fr.wiktionary.org/wiki/uncertainty> vcvf:triggers folk:Certainty .
+<http://en.wiktionary.org/wiki/noncertainty> vcvf:triggers folk:Certainty .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/certainty> vcvf:triggers folk:Certainty .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/uncertainty> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/noncertainty> vcvf:triggers folk:Certainty .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/certainity/n> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/certainties/n> vcvf:triggers folk:Certainty .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Certainty frame
+
+
+
+data
+0
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-certainty> vcvf:triggers folk:Certainty .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_certainty_105697135> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_assurance_105697363> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_doubt_105698247> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_incredulity_105698982> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_skeptic_110604634> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_awareness_105675905> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_knower_110240082> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_believer_109848489> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_peradventure_105699600> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_pessimist_110419472> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_doubting_Thomas_110027953> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_indecision_105699172> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_certitude_105697789> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_reliance_105697976> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_suspense_105699770> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_mental_reservation_105698620> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_doubt_104757522> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_misgiving_105698791> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_hesitation_105699434> vcvf:triggers folk:Certainty .
+<http://yago-knowledge.org/resource/wordnet_defeatist_109999795> vcvf:triggers folk:Certainty .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-certainty-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjective-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubtful-adjectivesatellite-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubting-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-assurance-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-convinced-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-verb-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-know-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-skeptic-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-surely-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncertain-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-incredulity-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-aware-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-awareness-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-heretic-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-confident-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-cocksure-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/pb/pbdata/believe.01> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/pb/pbdata/distrust.01> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/pb/pbdata/doubt.01> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/pb/pbdata/mistrust.01> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/pb/pbdata/trust.02> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncertainty-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-unsteadily-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep_track-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-peradventure-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe_in-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pessimist-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-knower-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubting_Thomas-noun-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecision-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-misbelieve-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-3> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-sceptically-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-know-verb-3> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-suspense-noun-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ignore-verb-5> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-mental_reservation-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-swallow-verb-8> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-groping-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliance-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-positively-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-misgiving-noun-3> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-certitude-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-cognitive-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-recognize-verb-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-noun-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubtfully-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncertainly-adverb-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-buy-verb-5> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ambivalent-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00005884n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00006565n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00083372v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00085261v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00094648v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00099475a> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00100224a> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00087190v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00028426n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00067031n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00116905r> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00099968a> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00115156r> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00116655r> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00027448n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00046384n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00115105r> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00009719n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00027813n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00115317r> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00017377n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00028429n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00083373v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00061777n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00090068v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00075450n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00083095v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00090817v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00090142v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00098214a> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00064069n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00005131n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00017362n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00061494n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00117388r> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00028427n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00086897v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00090145v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00043908n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00082472v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00084334v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00089583v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00089708v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00099969a> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00090260v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00086019v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00083374v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00087189v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00083369v> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00009720n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00025859n> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00104809a> vcvf:triggers folk:Certainty .
+<http://babelnet.org/rdf/s00028425n> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-hesitation-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-defeatist-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-know-verb-9> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-disbelieve-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-knowable-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-easily-adverb-2> vcvf:triggers folk:Certainty .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Concessive.certainty> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.certainty> vcvf:triggers folk:Certainty .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.certainty> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/framenet/abox/fe/Manner.certainty> vcvf:triggers folk:Certainty .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Certainty> vcvf:triggers folk:Certainty .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Content.certainty> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/framenet/abox/fe/Cognizer.certainty> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.certainty> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/framenet/abox/fe/Topic.certainty> vcvf:triggers folk:Certainty .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Count_70000000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Depend_70000000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Bet_70000000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Know_29020000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Trust_31020000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Rely_70000000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Bank_70000000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Understand_87020000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Realize_84110000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Recognize_29051000> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/vn/vn31/data/Know_29052000> vcvf:triggers folk:Certainty .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-certainty-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjective-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubtful-adjectivesatellite-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubting-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-assurance-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-convinced-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-verb-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-incredulity-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-know-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-skeptic-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncertain-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-surely-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-aware-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-awareness-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-knower-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe_in-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-buy-verb-5> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-swallow-verb-8> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-4> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-misbelieve-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-unsteadily-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep_track-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-peradventure-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-cognitive-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-know-verb-3> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pessimist-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-recognize-verb-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubting_Thomas-noun-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecision-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-sceptically-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-certitude-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliance-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-suspense-noun-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-mental_reservation-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-noun-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-groping-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-positively-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-misgiving-noun-3> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubtfully-adverb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncertainly-adverb-2> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-verb-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ambivalent-adjectivesatellite-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-knowable-adjective-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-hesitation-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-defeatist-noun-1> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-know-verb-9> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Certainty .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjective-1> vcvf:triggers folk:Certainty .

@@ -1,0 +1,228 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Accuracy
+
+
+# Accuracy lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/accuracy> vcvf:triggers folk:Accuracy .
+<http://fr.wiktionary.org/wiki/accuracy> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/hyperaccuracy> vcvf:triggers folk:Accuracy .
+<http://dbpedia.org/resource/Laser> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/laser> vcvf:triggers folk:Accuracy .
+<http://fr.wiktionary.org/wiki/laser> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/LASER> vcvf:triggers folk:Accuracy .
+<http://umbel.org/umbel/sc/LASER_Device> vcvf:triggers folk:Accuracy .
+<http://wikidata.dbpedia.org/resource/Q38867> vcvf:triggers folk:Accuracy .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/accuracy> vcvf:triggers folk:Accuracy .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperaccuracy> vcvf:triggers folk:Accuracy .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/accuracies/n> vcvf:triggers folk:Accuracy .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/laser> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/determining_truth> vcvf:triggers folk:Accuracy .
+
+
+# Precision lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/precision> vcvf:triggers folk:Accuracy .
+<http://fr.wiktionary.org/wiki/precision> vcvf:triggers folk:Accuracy .
+<http://umbel.org/umbel/sc/Precision> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/multiprecision> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/overprecision> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/precisional> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/precisionist> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/precisionize> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/pseudoprecision> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/ultraprecision> vcvf:triggers folk:Accuracy .
+<http://en.wiktionary.org/wiki/underprecision> vcvf:triggers folk:Accuracy .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/data/framestercore/Differentiation> vcvf:triggers folk:Accuracy .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/precision> vcvf:triggers folk:Accuracy .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multiprecision> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overprecision> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/precisional> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/precisionist> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/precisionize> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pseudoprecision> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ultraprecision> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/underprecision> vcvf:triggers folk:Accuracy .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/precisions/n> vcvf:triggers folk:Accuracy .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+
+# Accuracy frame
+
+
+<https://w3id.org/framester/data/framestercore/Accuracy> vcvf:triggers folk:Accuracy .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-accuracy> vcvf:triggers folk:Accuracy .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_accuracy_104802907> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_inaccuracy_104804451> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_preciseness_104803880> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_inexactness_104804611> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_fidelity_104804306> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_looseness_104804947> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_exactness_104803430> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_impreciseness_104804787> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_minuteness_104803702> vcvf:triggers folk:Accuracy .
+<http://yago-knowledge.org/resource/wordnet_trueness_104804169> vcvf:triggers folk:Accuracy .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-accuracy-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurately-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-exact-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaccurate-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurate-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurately-adverb-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-preciseness-noun-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaccurately-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaccuracy-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurate-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-precisely-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-meticulous-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-precise-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprecise-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inexact-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inexactness-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-ill-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-straight-adjectivesatellite-5> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-surgical-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-photographic-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-veracious-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-true-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-literal-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfect-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wide-adjectivesatellite-7> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-away-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-direct-adjectivesatellite-9> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-fidelity-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-fidelity-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-looseness-noun-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfaithful-adjectivesatellite-4> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-mathematical-adjectivesatellite-5> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-dead-on-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-faulty-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-exactness-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adjectivesatellite-5> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-precisely-adverb-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-rigorous-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00114486r> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00000782n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00105026a> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00115268r> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00108913a> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00115776r> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00046220n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00032080n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00055242n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00114109r> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00115266r> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00034258n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00046601n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00104757a> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00102487a> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00115854r> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00104694a> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00046163n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00115530r> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00078464n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00064093n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00096292a> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00052001n> vcvf:triggers folk:Accuracy .
+<http://babelnet.org/rdf/s00114108r> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-impreciseness-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-minuteness-noun-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-trueness-noun-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-dead-adjectivesatellite-4> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-finespun-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-general-adjectivesatellite-5> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-microscopic-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-on_the_nose-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-nice-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-very-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-imprecisely-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Place.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Target.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Time.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Domain.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Outcome.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Target_value.accuracy> vcvf:triggers folk:Accuracy .
+# FrameNet Peripheral Frame Element	[]
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Accuracy> vcvf:triggers folk:Accuracy .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Instrument.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Agent.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Degree.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Means.accuracy> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/framenet/abox/fe/Deviation.accuracy> vcvf:triggers folk:Accuracy .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-accuracy-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurately-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-exact-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaccurate-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-precisely-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurate-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurate-adjective-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-accurately-adverb-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaccuracy-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaccurately-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-preciseness-noun-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-inexactness-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-straight-adjectivesatellite-5> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-surgical-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-photographic-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-veracious-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-true-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-literal-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-perfect-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-wide-adjectivesatellite-7> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-away-adjectivesatellite-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-direct-adjectivesatellite-9> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-fidelity-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-fidelity-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-looseness-noun-3> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfaithful-adjectivesatellite-4> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-mathematical-adjectivesatellite-5> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-dead-on-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adjectivesatellite-5> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-exactness-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-faulty-adjectivesatellite-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-precisely-adverb-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-rigorous-adjectivesatellite-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-impreciseness-noun-1> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-minuteness-noun-2> vcvf:triggers folk:Accuracy .
+<https://w3id.org/framester/wn/wn30/instances/synset-trueness-noun-3> vcvf:triggers folk:Accuracy .

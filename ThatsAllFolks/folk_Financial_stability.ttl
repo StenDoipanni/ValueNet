@@ -1,0 +1,165 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Financial_stability
+
+
+# wealth lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Wealth> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/wealth> vcvf:triggers folk:Financial_stability .
+<http://fr.wiktionary.org/wiki/wealth> vcvf:triggers folk:Financial_stability .
+<http://wikidata.dbpedia.org/resource/Q200535> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/wealthy> vcvf:triggers folk:Financial_stability .
+<http://fr.wiktionary.org/wiki/wealthy> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/bridewealth> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/Commonwealth> vcvf:triggers folk:Financial_stability .
+<http://fr.wiktionary.org/wiki/Commonwealth> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/commonwealth> vcvf:triggers folk:Financial_stability .
+<http://fr.wiktionary.org/wiki/commonwealth> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/megawealth> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/superwealth> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/unwealth> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/wealthful> vcvf:triggers folk:Financial_stability .
+<http://en.wiktionary.org/wiki/wealthless> vcvf:triggers folk:Financial_stability .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/wealth> vcvf:triggers folk:Financial_stability .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/getting_job> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/getting_paid> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowing_how_stock_market_performed> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/opening_business> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/receiving_degree> vcvf:triggers folk:Financial_stability .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/wealthy> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bridewealth> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/commonwealth> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/megawealth> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superwealth> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unwealth> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/wealthful> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/wealthless> vcvf:triggers folk:Financial_stability .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/wealths/n> vcvf:triggers folk:Financial_stability .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conquering_nation> vcvf:triggers folk:Financial_stability .
+
+
+
+
+
+
+
+
+# Wealthiness frame
+
+
+<https://w3id.org/framester/data/framestercore/Wealthiness> vcvf:triggers folk:Financial_stability .
+
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-wealthiness> vcvf:triggers folk:Financial_stability .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_poverty_114493145> vcvf:triggers folk:Financial_stability .
+<http://yago-knowledge.org/resource/wordnet_privation_114493426> vcvf:triggers folk:Financial_stability .
+<http://yago-knowledge.org/resource/wordnet_indigence_114493716> vcvf:triggers folk:Financial_stability .
+<http://yago-knowledge.org/resource/wordnet_destitution_114493613> vcvf:triggers folk:Financial_stability .
+<http://yago-knowledge.org/resource/wordnet_impecuniousness_114494186> vcvf:triggers folk:Financial_stability .
+<http://yago-knowledge.org/resource/wordnet_beggary_114494032> vcvf:triggers folk:Financial_stability .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-affluent-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-destitute-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-deprive-verb-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-poverty-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-privileged-adjective-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-comfortable-adjectivesatellite-5> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-bankrupt-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-poor-adjective-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-broke-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-underprivileged-adjective-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-rich-adjective-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-privation-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-moneyless-adjectivesatellite-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-indigence-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-destitution-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-deprived-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-wealthily-adverb-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-prosperously-adverb-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-impecuniousness-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-lavishly-adverb-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard_up-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-underclass-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-unprovided_for-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-adverb-3> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-12> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-sweetheart-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00046085n> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00086638v> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00115299r> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00115664r> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00109833a> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00026605n> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00046157n> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00080746n> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00114773r> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00117597r> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00046487n> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00083338v> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00009628n> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00109029a> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00112592a> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00116728r> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00026415n> vcvf:triggers folk:Financial_stability .
+<http://babelnet.org/rdf/s00108798a> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-deprive-verb-3> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-beggar-verb-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-beggary-noun-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-wealth-noun-1> vcvf:triggers folk:Financial_stability .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.wealthiness> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/framenet/abox/fe/Type_of_possession.wealthiness> vcvf:triggers folk:Financial_stability .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Wealthiness> vcvf:triggers folk:Financial_stability .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Person.wealthiness> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/framenet/abox/fe/Institution.wealthiness> vcvf:triggers folk:Financial_stability .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-affluent-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-destitute-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-poverty-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-bankrupt-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-broke-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-comfortable-adjectivesatellite-5> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-poor-adjective-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-privileged-adjective-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-rich-adjective-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-underprivileged-adjective-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-privation-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-adverb-3> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-lavishly-adverb-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-moneyless-adjectivesatellite-2> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-indigence-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-deprived-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-destitution-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard_up-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-impecuniousness-noun-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-prosperously-adverb-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-sweetheart-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-underclass-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-unprovided_for-adjectivesatellite-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-wealthily-adverb-1> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-12> vcvf:triggers folk:Financial_stability .
+<https://w3id.org/framester/wn/wn30/instances/synset-beggary-noun-2> vcvf:triggers folk:Financial_stability .

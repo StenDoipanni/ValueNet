@@ -1,0 +1,52 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Brilliance
+
+
+# brilliance lu
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/brilliance> vcvf:triggers folk:Brilliance .
+<http://fr.wiktionary.org/wiki/brilliance> vcvf:triggers folk:Brilliance .
+<http://en.wiktionary.org/wiki/brilliancy> vcvf:triggers folk:Brilliance .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliance> vcvf:triggers folk:Brilliance .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliancy> vcvf:triggers folk:Brilliance .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliances/n> vcvf:triggers folk:Brilliance .
+# hasSubEvent	[]
+# usedFor	[]
+
+# brilliant lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/brilliant> vcvf:triggers folk:Brilliance .
+<http://fr.wiktionary.org/wiki/brilliant> vcvf:triggers folk:Brilliance .
+<http://en.wiktionary.org/wiki/brilliancy> vcvf:triggers folk:Brilliance .
+<http://en.wiktionary.org/wiki/brilliantly> vcvf:triggers folk:Brilliance .
+<http://fr.wiktionary.org/wiki/brilliantly> vcvf:triggers folk:Brilliance .
+<http://en.wiktionary.org/wiki/brilliantness> vcvf:triggers folk:Brilliance .
+<http://en.wiktionary.org/wiki/trilliant> vcvf:triggers folk:Brilliance .
+<http://en.wiktionary.org/wiki/unbrilliant> vcvf:triggers folk:Brilliance .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliant> vcvf:triggers folk:Brilliance .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliancy> vcvf:triggers folk:Brilliance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliantly> vcvf:triggers folk:Brilliance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliantness> vcvf:triggers folk:Brilliance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/trilliant> vcvf:triggers folk:Brilliance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unbrilliant> vcvf:triggers folk:Brilliance .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brilliants/n> vcvf:triggers folk:Brilliance .
+# hasSubEvent	[]
+# usedFor	[]

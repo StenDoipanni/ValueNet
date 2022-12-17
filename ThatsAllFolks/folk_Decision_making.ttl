@@ -1,0 +1,53 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Decision_making
+
+
+# decision lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/decision> vcvf:triggers folk:Decision_making .
+<http://fr.wiktionary.org/wiki/decision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/co-decision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/decisional> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/decisioning> vcvf:triggers folk:Decision_making .
+<http://fr.wiktionary.org/wiki/decisioning> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/decisionism> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/decisionist> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/decisionmaker> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/microdecision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/misdecision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/nondecision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/redecision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/semidecision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/subdecision> vcvf:triggers folk:Decision_making .
+<http://en.wiktionary.org/wiki/cogitating> vcvf:triggers folk:Decision_making .
+<http://fr.wiktionary.org/wiki/cogitating> vcvf:triggers folk:Decision_making .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decision> vcvf:triggers folk:Decision_making .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cogitating> vcvf:triggers folk:Decision_making .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/co_decision> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decisional> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decisioning> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decisionism> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decisionist> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decisionmaker> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/microdecision> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misdecision> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nondecision> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/redecision> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/semidecision> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/subdecision> vcvf:triggers folk:Decision_making .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decisioned/v> vcvf:triggers folk:Decision_making .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/decisions/n> vcvf:triggers folk:Decision_making .
+# hasSubEvent	[]
+# usedFor	[]

@@ -1,0 +1,242 @@
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Association
+
+
+# association lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/association> vcvf:triggers folk:Association .
+<http://fr.wiktionary.org/wiki/association> vcvf:triggers folk:Association .
+<http://umbel.org/umbel/sc/Association> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/antiassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/associational> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/associationism> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/associationist> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/bisociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/disassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/heteroassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/magnetoassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/misassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/nonassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/photoassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/preassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/reassociation> vcvf:triggers folk:Association .
+<http://en.wiktionary.org/wiki/riding_association> vcvf:triggers folk:Association .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/association> vcvf:triggers folk:Association .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antiassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/associational> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/associationism> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/associationist> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bisociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/disassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/heteroassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/magnetoassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/photoassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reassociation> vcvf:triggers folk:Association .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/riding_association> vcvf:triggers folk:Association .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/associations/n> vcvf:triggers folk:Association .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+#BecomingAMember frame
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-becoming_a_member> vcvf:triggers folk:Association .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_draftee_110028765> vcvf:triggers folk:Association .
+<http://yago-knowledge.org/resource/wordnet_joiner_110223994> vcvf:triggers folk:Association .
+<http://yago-knowledge.org/resource/wordnet_recruiter_110512708> vcvf:triggers folk:Association .
+<http://yago-knowledge.org/resource/wordnet_recruit_110512201> vcvf:triggers folk:Association .
+<http://yago-knowledge.org/resource/wordnet_enrollee_110059162> vcvf:triggers folk:Association .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-club-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-league-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enter-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enroll-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-associate-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-organization-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-alliance-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enlist-verb-3> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-join-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-marry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-union-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-pair-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-sign_up-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-association-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-couple-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-band_together-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/pb/pbdata/enlist.01> vcvf:triggers folk:Association .
+<https://w3id.org/framester/pb/pbdata/enroll.01> vcvf:triggers folk:Association .
+<https://w3id.org/framester/pb/pbdata/join.01> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-draftee-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-infiltrator-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-intermarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-consociate-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enlist-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-club-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-unite-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-joiner-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruiter-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-affiliate-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-band_oneself-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruit-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruiter-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-affiliate-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-matriculate-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-discharge-verb-10> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-affiliate-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruit-verb-3> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-marry-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-pair-noun-3> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-mismarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-remarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-federation-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-register-verb-3> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-unionize-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-wive-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-unionize-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-confederate-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-wive-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-rejoin-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-league-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-association-noun-6> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-confederation-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-infiltrate-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-inmarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-league-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enrollee-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-accomplice-noun-1> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00095401v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00095603v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00082869v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00087662v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00021953n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00049580n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00085573v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00087652v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00082550v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00083069v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00088083v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00092675v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00090254v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00086914v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00092974v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00082433v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00053846n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00054984n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00090313v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00093738v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00085640v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00087211v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00030932n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00066605n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00089713v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00095400v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00030958n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00090700v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00091195v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00092725v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00088013v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00048369n> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00085202v> vcvf:triggers folk:Association .
+<http://babelnet.org/rdf/s00085363v> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-walk-verb-7> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-organizer-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-reunify-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-conscript-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-associable-adjectivesatellite-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruit-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-federate-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-ally_with-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-matriculate-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-allied-adjectivesatellite-4> vcvf:triggers folk:Association .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Role.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Depictive.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Re_encoding.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Reciprocation.becoming_a_member> vcvf:triggers folk:Association .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Means.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Manner.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Place.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Time.becoming_a_member> vcvf:triggers folk:Association .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Becoming_a_member> vcvf:triggers folk:Association .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/New_member.becoming_a_member> vcvf:triggers folk:Association .
+<https://w3id.org/framester/framenet/abox/fe/Group.becoming_a_member> vcvf:triggers folk:Association .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Confederate_22022100> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Enroll_10700000> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Enlist_13050300> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Marry_36020000> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Marry_22021000> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Wed_22021000> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Pair_22022100> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Associate_22022100> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Affiliate_22022100> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Recruit_29070000> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Unionize_45040000> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Confederate_22022100> vcvf:triggers folk:Association .
+<https://w3id.org/framester/vn/vn31/data/Federate_45040000> vcvf:triggers folk:Association .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-band_together-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enroll-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enlist-verb-3> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-join-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-marry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-pair-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-sign_up-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-draftee-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-intermarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-consociate-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enlist-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-club-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-unite-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-joiner-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruiter-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-band_oneself-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruit-noun-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-matriculate-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-affiliate-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-recruit-verb-3> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-mismarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-remarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-register-verb-3> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-unionize-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-wive-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-unionize-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-confederate-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-wive-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-rejoin-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-league-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-infiltrate-verb-2> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-inmarry-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-enrollee-noun-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-united-adjective-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-walk-verb-7> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-reunify-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-ally_with-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-conscript-verb-1> vcvf:triggers folk:Association .
+<https://w3id.org/framester/wn/wn30/instances/synset-federate-verb-2> vcvf:triggers folk:Association .

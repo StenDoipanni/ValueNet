@@ -1,0 +1,35 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Courage
+
+
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Courage> vcvf:triggers folk:Courage .
+<http://en.wiktionary.org/wiki/courage> vcvf:triggers folk:Courage .
+<http://fr.wiktionary.org/wiki/courage> vcvf:triggers folk:Courage .
+<http://wikidata.dbpedia.org/resource/Q208160> vcvf:triggers folk:Courage .
+<http://en.wiktionary.org/wiki/discourage> vcvf:triggers folk:Courage .
+<http://fr.wiktionary.org/wiki/discourage> vcvf:triggers folk:Courage .
+<http://en.wiktionary.org/wiki/couraged> vcvf:triggers folk:Courage .
+<http://en.wiktionary.org/wiki/courageless> vcvf:triggers folk:Courage .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/courage> vcvf:triggers folk:Courage .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/discourage> vcvf:triggers folk:Courage .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/couraged> vcvf:triggers folk:Courage .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/courageless> vcvf:triggers folk:Courage .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/courages/n> vcvf:triggers folk:Courage .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/couraging/v> vcvf:triggers folk:Courage .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/joining_army> vcvf:triggers folk:Courage .
+# usedFor	[]

@@ -1,0 +1,94 @@
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Assertiveness
+
+
+# assert lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/assert> vcvf:triggers folk:Assertiveness .
+<http://fr.wiktionary.org/wiki/assert> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/assertability> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/assertable> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/asserter> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/counterassert> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/overassert> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/reassert> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/unassert> vcvf:triggers folk:Assertiveness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assert> vcvf:triggers folk:Assertiveness .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assertability> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assertable> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/asserter> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/counterassert> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overassert> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reassert> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unassert> vcvf:triggers folk:Assertiveness .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/asserted/v> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/asserting/v> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/asserts/v> vcvf:triggers folk:Assertiveness .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# assertive lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/assertive> vcvf:triggers folk:Assertiveness .
+<http://fr.wiktionary.org/wiki/assertive> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/assertively> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/assertiveness> vcvf:triggers folk:Assertiveness .
+<http://fr.wiktionary.org/wiki/assertiveness> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/hyperassertive> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/nonassertive> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/overassertive> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/self-assertive> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/unassertive> vcvf:triggers folk:Assertiveness .
+<http://en.wiktionary.org/wiki/underassertive> vcvf:triggers folk:Assertiveness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assertive> vcvf:triggers folk:Assertiveness .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assertively> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assertiveness> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperassertive> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonassertive> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overassertive> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/self_assertive> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unassertive> vcvf:triggers folk:Assertiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/underassertive> vcvf:triggers folk:Assertiveness .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# assertiveness
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/assertiveness> vcvf:triggers folk:Assertiveness .
+<http://fr.wiktionary.org/wiki/assertiveness> vcvf:triggers folk:Assertiveness .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Differentiation> vcvf:triggers folk:Assertiveness .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assertiveness> vcvf:triggers folk:Assertiveness .
+# causes	[]
+# derivedFrom	[]
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assertivenesses/n> vcvf:triggers folk:Assertiveness .
+# hasSubEvent	[]
+# usedFor	[]

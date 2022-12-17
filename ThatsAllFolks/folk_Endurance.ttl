@@ -1,0 +1,198 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Endurance
+
+
+# Endurance lu
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Endurance> vcvf:triggers folk:Endurance .
+<http://en.wiktionary.org/wiki/endurance> vcvf:triggers folk:Endurance .
+<http://fr.wiktionary.org/wiki/endurance> vcvf:triggers folk:Endurance .
+<http://wikidata.dbpedia.org/resource/Q778298> vcvf:triggers folk:Endurance .
+<http://en.wiktionary.org/wiki/nonendurance> vcvf:triggers folk:Endurance .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/endurance> vcvf:triggers folk:Endurance .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonendurance> vcvf:triggers folk:Endurance .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/endurances/n> vcvf:triggers folk:Endurance .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/running_marathon> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/staying_healthy> vcvf:triggers folk:Endurance .
+
+
+
+# Tolerating frame
+
+
+<https://w3id.org/framester/data/framestercore/Tolerating> vcvf:triggers folk:Endurance .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-tolerating> vcvf:triggers folk:Endurance .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_toleration_104638175> vcvf:triggers folk:Endurance .
+<http://yago-knowledge.org/resource/wordnet_self_acceptance_104638472> vcvf:triggers folk:Endurance .
+<http://yago-knowledge.org/resource/wordnet_endurance_105032565> vcvf:triggers folk:Endurance .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-stand-verb-7> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-tolerant-adjectivesatellite-4> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-toleration-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-digest-verb-3> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/pb/pbdata/tolerate.01> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-tolerant-adjectivesatellite-5> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-self_acceptance-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-payer-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand_for-verb-4> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-suffer-verb-3> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-endurance-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit_out-verb-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay-verb-9> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_a_joke-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_lying_down-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-7> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-bear_up-verb-1> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00094275v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00094745v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00089416v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00070381n> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00082203v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00061117n> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00094766v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00000653n> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00091496v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00094279v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00093787v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00030810n> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00094573v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00082138v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00083244v> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_one_s_lumps-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-bearable-adjectivesatellite-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-kind-adjectivesatellite-3> vcvf:triggers folk:Endurance .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Reason.tolerating> vcvf:triggers folk:Endurance .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Time.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Manner.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Parameter.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Degree.tolerating> vcvf:triggers folk:Endurance .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Tolerating> vcvf:triggers folk:Endurance .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Content.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Experiencer.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/State.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Event.tolerating> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Topic.tolerating> vcvf:triggers folk:Endurance .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Support_31021000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Tolerate_31020000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Stand_31020000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Suffer_31020000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Suffer_31038000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Accept_77000000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Accept_29020000> vcvf:triggers folk:Endurance .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-stand-verb-7> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-tolerant-adjectivesatellite-4> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-digest-verb-3> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-toleration-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-suffer-verb-3> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-tolerant-adjectivesatellite-5> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-self_acceptance-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-7> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-bear_up-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-endurance-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay-verb-9> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit_out-verb-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand_for-verb-4> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_a_joke-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_lying_down-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_one_s_lumps-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-bearable-adjectivesatellite-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-kind-adjectivesatellite-3> vcvf:triggers folk:Endurance .
+
+
+# Surviving frame
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-surviving> vcvf:triggers folk:Endurance .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_survival_113962166> vcvf:triggers folk:Endurance .
+<http://yago-knowledge.org/resource/wordnet_brave_107944754> vcvf:triggers folk:Endurance .
+<http://yago-knowledge.org/resource/wordnet_subsistence_113962360> vcvf:triggers folk:Endurance .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-survival-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-survive-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-weather-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/pb/pbdata/survive.01> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-brave-noun-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-exist-verb-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-survive-verb-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand_up-verb-6> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-live_out-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-subsistence-noun-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-perennate-verb-1> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00074979n> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00030811n> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00089421v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00085382v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00087844v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00083889v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00012838n> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00087617v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00090413v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00090204v> vcvf:triggers folk:Endurance .
+<http://babelnet.org/rdf/s00091548v> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-last_out-verb-1> vcvf:triggers folk:Endurance .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Time.surviving> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Depictive.surviving> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Means.surviving> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Degree.surviving> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Place.surviving> vcvf:triggers folk:Endurance .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Surviving> vcvf:triggers folk:Endurance .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Dangerous_situation.surviving> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/framenet/abox/fe/Survivor.surviving> vcvf:triggers folk:Endurance .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Survive_39060000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Survive_47011000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Live_39060000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Live_47011000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Endure_47010000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Brave_98000000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Exist_39060000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Exist_47011000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Survive_47011000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Live_47011000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Subsist_39060000> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/vn/vn31/data/Survive_47011000> vcvf:triggers folk:Endurance .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-survival-noun-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-survive-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-weather-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-brave-noun-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-exist-verb-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-live_out-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-perennate-verb-1> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand_up-verb-6> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-subsistence-noun-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-survive-verb-2> vcvf:triggers folk:Endurance .
+<https://w3id.org/framester/wn/wn30/instances/synset-be-verb-11> vcvf:triggers folk:Endurance .

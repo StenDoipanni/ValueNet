@@ -1,0 +1,353 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Fitness
+
+
+# fitness lu
+
+
+
+# DBpedia Entities
+<http://fr.wiktionary.org/wiki/fitness> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/fitness> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/aquafitness> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/water_fitness> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/exercise> vcvf:triggers folk:Fitness .
+<http://fr.wiktionary.org/wiki/exercise> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/playing> vcvf:triggers folk:Fitness .
+<http://fr.wiktionary.org/wiki/playing> vcvf:triggers folk:Fitness .
+<http://wordnet-rdf.princeton.edu/wn31/playing+to+the+gallery-p#Component-1> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/exercising> vcvf:triggers folk:Fitness .
+<http://fr.wiktionary.org/wiki/exercising> vcvf:triggers folk:Fitness .
+<http://dbpedia.org/resource/Jogging> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/jogging> vcvf:triggers folk:Fitness .
+<http://fr.wiktionary.org/wiki/jogging> vcvf:triggers folk:Fitness .
+<http://wikidata.dbpedia.org/resource/Q816261> vcvf:triggers folk:Fitness .
+<http://dbpedia.org/resource/Dance> vcvf:triggers folk:Fitness .
+<http://en.wiktionary.org/wiki/dance> vcvf:triggers folk:Fitness .
+<http://fr.wiktionary.org/wiki/dance> vcvf:triggers folk:Fitness .
+<http://umbel.org/umbel/sc/Dance_Party> vcvf:triggers folk:Fitness .
+<http://wikidata.dbpedia.org/resource/Q11639> vcvf:triggers folk:Fitness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/fitness> vcvf:triggers folk:Fitness .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/exercise> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/doing_exercises> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/exercising> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/getting_physical_activity> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/jogging> vcvf:triggers folk:Fitness .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/aquafitness> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/water_fitness> vcvf:triggers folk:Fitness .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/fitnesses/n> vcvf:triggers folk:Fitness .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dance> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/maintain_muscle_strength> vcvf:triggers folk:Fitness .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/getting_fit> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/maintaining_muscle_strength> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_sport> vcvf:triggers folk:Fitness .
+
+
+
+# Exercising frame
+
+<https://w3id.org/framester/data/framestercore/Exercising> vcvf:triggers folk:Fitness .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-exercising> vcvf:triggers folk:Fitness .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_exercise_100624738> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_arm_exercise_100629176> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_stomach_exercise_100630634> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_stretch_100628692> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_leg_exercise_100629911> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_isotonic_exercise_100628131> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_set_100625699> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_gymnastic_exercise_100435778> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_isometrics_100627849> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_yoga_100630960> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_bodybuilding_100625993> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_calisthenics_100627437> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_back_exercise_100629803> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_cardiopulmonary_exercise_100435563> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_pubococcygeus_exercises_100628539> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_kick_up_100437321> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_gymnastic_apparatus_103472232> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_neck_exercise_100630526> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_crucifix_100434844> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_incline_bench_press_100626728> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_widegrip_pushup_100629496> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_clean_and_jerk_100626838> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_pandiculation_100628883> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_handstand_100436187> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_press_100627013> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_snatch_100627196> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_straddle_100438893> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_piked_reverse_hang_100437219> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_double_leg_circle_100435182> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_double_Dutch_100485815> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_lever_hang_100436817> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_power_walking_100629009> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_hang_100436339> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_grand_circle_100435401> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_jerk_100626423> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_bent_hang_100436609> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_jogging_100628390> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_leg_curl_100630268> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_long_fly_100438606> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_inverted_hang_100436702> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_aerobics_100625858> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_bench_press_100626574> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_conditioner_100625551> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_dip_100435013> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_hatha_yoga_100631168> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_jump_rope_100485632> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_kip_100438338> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_knee_bend_100630071> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_leg_extensor_100630401> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_pull-up_100629597> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_pushup_100629318> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_reverse_hang_100436953> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_scissors_100438725> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_sit-up_100630786> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_straight_hang_100437067> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_weight_gaining_100627321> vcvf:triggers folk:Fitness .
+<http://yago-knowledge.org/resource/wordnet_weightlift_100626188> vcvf:triggers folk:Fitness .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-exercise-verb-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-coach-verb-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-exercise-verb-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-tonicity-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-arm_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-stomach_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-stretch-noun-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-leg_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-train-verb-8> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-tone-verb-5> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-isotonic_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weightlifter-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-gymnastic_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-tumble-verb-11> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-isometrics-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weight-lift-verb-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-yoga-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm_up-verb-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bodybuilding-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-calisthenics-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-back_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-cardiopulmonary_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-condition-verb-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-Kegel_exercises-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-kick_up-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-gymnastic_apparatus-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-limber_up-verb-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-neck_exercise-noun-1> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00009861n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00032207n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00042845n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00095225v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00009967n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00049212n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00077555n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00080837n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00095067v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00043146n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00050553n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00051927n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00081166n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00072411n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00007748n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00042838n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00047676n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00074507n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00054981n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00003752n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00090369v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00014788n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00032208n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00071852n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00087831v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00041324n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00047656n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00080838n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00032203n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00046305n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00062379n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00015986n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00028395n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00050554n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00048563n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00048133n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00049068n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00069697n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00074403n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00064249n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00024104n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00048890n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00050867n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00048279n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00057137n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00028380n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00091994v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00093084v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00005712n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00019638n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00063973n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00050552n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00094440v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00042325n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00074641n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00051094n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00067538n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00078571n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00001673n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00049311n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00081927n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00027263n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00060371n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00018428n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00090368v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00021659n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00074491n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00047351n> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00095641v> vcvf:triggers folk:Fitness .
+<http://babelnet.org/rdf/s00087830v> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-crucifix-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incline_bench_press-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-widegrip_pushup-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean_and_jerk-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-handstand-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-press-noun-8> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-snatch-noun-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-straddle-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-piked_reverse_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-double_leg_circle-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-double_Dutch-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-lever_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-power_walking-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hang-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-tumbler-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-grand_circle-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-jerk-noun-5> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bent_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-jogging-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-leg_curl-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-long_fly-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-inverted_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pandiculation-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-scissors-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-jump_rope-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-limber-verb-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-aerobics-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit-up-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weight_gaining-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-straight_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bench_press-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pushup-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-roll-verb-9> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hatha_yoga-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-kip-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weightlift-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reverse_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-knee_bend-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pull-up-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-dip-noun-9> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-leg_extensor-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-conditioner-noun-1> vcvf:triggers folk:Fitness .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Manner.exercising> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/framenet/abox/fe/Time.exercising> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.exercising> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/framenet/abox/fe/Means.exercising> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/framenet/abox/fe/Body_part.exercising> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/framenet/abox/fe/Place.exercising> vcvf:triggers folk:Fitness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Exercising> vcvf:triggers folk:Fitness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Agent.exercising> vcvf:triggers folk:Fitness .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Exercise_41010100> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/vn/vn31/data/Exercise_41010100> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/vn/vn31/data/Roll_51030100> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/vn/vn31/data/Roll_51030200> vcvf:triggers folk:Fitness .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-exercise-verb-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-exercise-verb-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-arm_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-stomach_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-stretch-noun-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-leg_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-train-verb-8> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-tone-verb-5> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-isotonic_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-gymnastic_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-tumble-verb-11> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-isometrics-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weight-lift-verb-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-yoga-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm_up-verb-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bodybuilding-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-calisthenics-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-back_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-cardiopulmonary_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-Kegel_exercises-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-kick_up-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-gymnastic_apparatus-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-limber_up-verb-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-neck_exercise-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-crucifix-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-incline_bench_press-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-widegrip_pushup-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean_and_jerk-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pandiculation-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-handstand-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-press-noun-8> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-snatch-noun-4> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-straddle-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-piked_reverse_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-double_leg_circle-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-double_Dutch-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-lever_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-power_walking-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hang-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-limber-verb-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-grand_circle-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-jerk-noun-5> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bent_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-jogging-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-leg_curl-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-long_fly-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-inverted_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-aerobics-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-bench_press-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-conditioner-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-dip-noun-9> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hatha_yoga-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-jump_rope-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-kip-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-knee_bend-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-leg_extensor-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pull-up-noun-2> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-pushup-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reverse_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-scissors-noun-3> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit-up-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-straight_hang-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weight_gaining-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weightlift-noun-1> vcvf:triggers folk:Fitness .
+<https://w3id.org/framester/wn/wn30/instances/synset-roll-verb-9> vcvf:triggers folk:Fitness .

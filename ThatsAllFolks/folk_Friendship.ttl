@@ -1,0 +1,72 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Friendship
+
+
+# Friendship lu
+
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Friendship> vcvf:triggers folk:Friendship .
+<http://dbpedia.org/resource/Friendship!> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/friendship> vcvf:triggers folk:Friendship .
+<http://fr.wiktionary.org/wiki/friendship> vcvf:triggers folk:Friendship .
+<http://wikidata.dbpedia.org/resource/Q401721> vcvf:triggers folk:Friendship .
+<http://wikidata.dbpedia.org/resource/Q491> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/cyberfriendship> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/friendshipless> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/friendshiplike> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/friendshipper> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/friendshippy> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/friendshipy> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/guestfriendship> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/unfriendship> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/making_friends> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/agreeing_with> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/talking-to> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/talking_to> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/Brother> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/brother> vcvf:triggers folk:Friendship .
+<http://fr.wiktionary.org/wiki/brother> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/forgiving> vcvf:triggers folk:Friendship .
+<http://fr.wiktionary.org/wiki/forgiving> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/kissing> vcvf:triggers folk:Friendship .
+<http://fr.wiktionary.org/wiki/kissing> vcvf:triggers folk:Friendship .
+<http://en.wiktionary.org/wiki/socialising> vcvf:triggers folk:Friendship .
+<http://fr.wiktionary.org/wiki/socialising> vcvf:triggers folk:Friendship .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/friendship> vcvf:triggers folk:Friendship .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/making_friends> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/agreeing_with> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/talking_to> vcvf:triggers folk:Friendship .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cyberfriendship> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/friendshipless> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/friendshiplike> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/friendshipper> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/friendshippy> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/friendshipy> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/guestfriendship> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unfriendship> vcvf:triggers folk:Friendship .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/friendships/n> vcvf:triggers folk:Friendship .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/make_people_laugh> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/teaching_other_people> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meet_interesting_people> vcvf:triggers folk:Friendship .
+# usedFor	
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/brother> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/forgiving> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/kissing> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/playing_sports> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meeting_people> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/socialising> vcvf:triggers folk:Friendship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/talking_with_far_away> vcvf:triggers folk:Friendship .

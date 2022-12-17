@@ -1,0 +1,34 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Ferocious
+
+
+# ferocious lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/ferocious> vcvf:triggers folk:Ferocious .
+<http://fr.wiktionary.org/wiki/ferocious> vcvf:triggers folk:Ferocious .
+<http://en.wiktionary.org/wiki/ferociously> vcvf:triggers folk:Ferocious .
+<http://fr.wiktionary.org/wiki/ferociously> vcvf:triggers folk:Ferocious .
+<http://en.wiktionary.org/wiki/ferociousness> vcvf:triggers folk:Ferocious .
+<http://fr.wiktionary.org/wiki/ferociousness> vcvf:triggers folk:Ferocious .
+<http://en.wiktionary.org/wiki/monstrocious> vcvf:triggers folk:Ferocious .
+<http://en.wiktionary.org/wiki/unferocious> vcvf:triggers folk:Ferocious .
+# Framester frames	[]
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ferocious> vcvf:triggers folk:Ferocious .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ferociously> vcvf:triggers folk:Ferocious .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ferociousness> vcvf:triggers folk:Ferocious .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/monstrocious> vcvf:triggers folk:Ferocious .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unferocious> vcvf:triggers folk:Ferocious .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]

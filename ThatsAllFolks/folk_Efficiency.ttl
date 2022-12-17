@@ -1,0 +1,49 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Efficiency
+
+
+# efficiency lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/efficiency> vcvf:triggers folk:Efficiency .
+<http://fr.wiktionary.org/wiki/efficiency> vcvf:triggers folk:Efficiency .
+<http://en.wiktionary.org/wiki/coefficiency> vcvf:triggers folk:Efficiency .
+<http://en.wiktionary.org/wiki/ecoefficiency> vcvf:triggers folk:Efficiency .
+<http://en.wiktionary.org/wiki/equiefficiency> vcvf:triggers folk:Efficiency .
+<http://en.wiktionary.org/wiki/inefficiency> vcvf:triggers folk:Efficiency .
+<http://en.wiktionary.org/wiki/nonefficiency> vcvf:triggers folk:Efficiency .
+<http://en.wiktionary.org/wiki/superefficiency> vcvf:triggers folk:Efficiency .
+<http://dbpedia.org/resource/System> vcvf:triggers folk:Efficiency .
+<http://en.wiktionary.org/wiki/system> vcvf:triggers folk:Efficiency .
+<http://fr.wiktionary.org/wiki/system> vcvf:triggers folk:Efficiency .
+<http://umbel.org/umbel/ac/System> vcvf:triggers folk:Efficiency .
+<http://wikidata.dbpedia.org/resource/Q58778> vcvf:triggers folk:Efficiency .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/efficiency> vcvf:triggers folk:Efficiency .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/keeping_things_orderly_and_tidy> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/running_errands> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfying_appetites_with_minimum_effort> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/taking_care_of_proposals> vcvf:triggers folk:Efficiency .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coefficiency> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ecoefficiency> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/equiefficiency> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inefficiency> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonefficiency> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superefficiency> vcvf:triggers folk:Efficiency .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/efficiencies/n> vcvf:triggers folk:Efficiency .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/system> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/designing_software> vcvf:triggers folk:Efficiency .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfying_appetites_with_minimum_effort> vcvf:triggers folk:Efficiency .

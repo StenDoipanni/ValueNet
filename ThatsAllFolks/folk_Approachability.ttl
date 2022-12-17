@@ -1,0 +1,295 @@
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Approachability
+
+
+# approachability lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/approachability> vcvf:triggers folk:Approachability .
+<http://en.wiktionary.org/wiki/unapproachability> vcvf:triggers folk:Approachability .
+# Framester frames
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/approachability> vcvf:triggers folk:Approachability .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unapproachability> vcvf:triggers folk:Approachability .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/approachabilities/n> vcvf:triggers folk:Approachability .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Trust frame
+
+<https://w3id.org/framester/data/framestercore/Trust> vcvf:triggers folk:Approachability .
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-trust> vcvf:triggers folk:Approachability .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_faith_105943066> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_credence_106193727> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_dependability_104670022> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_believer_109848489> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_fatalism_106194030> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_infallibility_104805136> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_recognition_106194216> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_reproducibility_104806169> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_solidity_104671075> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_inerrancy_104805304> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_papal_infallibility_104805635> vcvf:triggers folk:Approachability .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-credulous-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-fleeceable-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-faith-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credence-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependability-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliable-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-trustworthy-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-heretic-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-incredulous-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-untrustworthy-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/pb/pbdata/distrust.01> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/pb/pbdata/mistrust.01> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/pb/pbdata/trust.01> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/pb/pbdata/trust.02> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credulously-adverb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-faithfully-adverb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-overcredulous-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-unquestioning-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependable-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe_in-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-noun-3> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-fatalism-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-infallibility-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-misbelieve-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-3> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reproducibility-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-swallow-verb-8> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-fiducial-adjectivesatellite-3> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjectivesatellite-6> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-solidity-noun-3> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-tested-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-authentic-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-creditworthy-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-recognition-noun-7> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-undeviating-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-buy-verb-5> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-sure-adjectivesatellite-6> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083372v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00112161a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00046590n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00032769n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00046608n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00072730n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00094648v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00066553n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00114522r> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00078488n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00112570a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00113357a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00104892a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00009719n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083373v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00033771n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00078976n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083095v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00090817v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00026350n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00098214a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00000648n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083371v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00086897v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00100631a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00029154n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00084334v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00089708v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00090260v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00086019v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00101186a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083374v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00060455n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083369v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00009720n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00114987r> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00082197v> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-disbelieve-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-undependability-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-inerrancy-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-papal_infallibility-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-unreliable-adjective-2> vcvf:triggers folk:Approachability .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Content.trust> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Degree.trust> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Manner.trust> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Topic.trust> vcvf:triggers folk:Approachability .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Trust> vcvf:triggers folk:Approachability .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Source.trust> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.trust> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Information.trust> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Cognizer.trust> vcvf:triggers folk:Approachability .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Count_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Depend_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Bet_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Trust_31020000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Rely_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Bank_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Accept_29020000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Understand_87020000> vcvf:triggers folk:Approachability .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-credulous-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-fleeceable-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-faith-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credence-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependability-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliable-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-trustworthy-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credulously-adverb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-faithfully-adverb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-overcredulous-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-unquestioning-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-authentic-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe_in-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-buy-verb-5> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-certain-adjectivesatellite-6> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-creditworthy-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependable-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-fatalism-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-fiducial-adjectivesatellite-3> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-infallibility-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-recognition-noun-7> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reproducibility-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-solidity-noun-3> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-sure-adjectivesatellite-6> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-swallow-verb-8> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-tested-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-undeviating-adjectivesatellite-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-misbelieve-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-inerrancy-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-papal_infallibility-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjective-1> vcvf:triggers folk:Approachability .
+
+
+# Reliance frame
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-reliance> vcvf:triggers folk:Approachability .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_reliance_114001728> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_dependence_114001348> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_contingency_114001973> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_helplessness_114001629> vcvf:triggers folk:Approachability .
+<http://yago-knowledge.org/resource/wordnet_subordination_114001852> vcvf:triggers folk:Approachability .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliance-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-depend-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependence-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-depend_on-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/pb/pbdata/count.03> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/pb/pbdata/depend.01> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/pb/pbdata/rely.01> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-subordinate-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-subordination-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-contingency-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-repose_on-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-helplessness-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00086607v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00022185n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00085860v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00043639n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083373v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083095v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00098214a> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00067032n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00084209v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00090260v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00086019v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00086606v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00091361v> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00074950n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00026351n> vcvf:triggers folk:Approachability .
+<http://babelnet.org/rdf/s00083451v> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credible-adjective-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-owe-verb-2> vcvf:triggers folk:Approachability .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.reliance> vcvf:triggers folk:Approachability .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.reliance> vcvf:triggers folk:Approachability .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Reliance> vcvf:triggers folk:Approachability .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Means.reliance> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Benefit.reliance> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Intermediary.reliance> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Protagonist.reliance> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.reliance> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/framenet/abox/fe/Instrument.reliance> vcvf:triggers folk:Approachability .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Count_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Depend_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Bet_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Trust_31020000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Rely_70000000> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/vn/vn31/data/Bank_70000000> vcvf:triggers folk:Approachability .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-8> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliance-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-dependence-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-depend_on-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-credit-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-lean-verb-4> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-contingency-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-helplessness-noun-2> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-repose_on-verb-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-subordination-noun-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-reliant-adjectivesatellite-1> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-believe-verb-5> vcvf:triggers folk:Approachability .
+<https://w3id.org/framester/wn/wn30/instances/synset-owe-verb-2> vcvf:triggers folk:Approachability .

@@ -1,0 +1,314 @@
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Empowerment
+
+
+# Empowerment lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/empowerment> vcvf:triggers folk:Empowerment .
+<http://fr.wiktionary.org/wiki/empowerment> vcvf:triggers folk:Empowerment .
+<http://en.wiktionary.org/wiki/disempowerment> vcvf:triggers folk:Empowerment .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/empowerment> vcvf:triggers folk:Empowerment .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/expressing_yourself> vcvf:triggers folk:Empowerment .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/disempowerment> vcvf:triggers folk:Empowerment .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/empowerments/n> vcvf:triggers folk:Empowerment .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# MakePossibleToDo frame
+
+
+<https://w3id.org/framester/data/framestercore/MakePossibleToDo> vcvf:triggers folk:Empowerment .
+
+
+# Premon closeMatch to FrameNet frame	[]
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_license_106549661> vcvf:triggers folk:Empowerment .
+<http://yago-knowledge.org/resource/wordnet_sanction_106687358> vcvf:triggers folk:Empowerment .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-entree-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-permissible-adjective-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-second-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-approval-noun-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-forbid-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-back-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sign-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-supporter-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-charter-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-let-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-novice-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-approve-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-defender-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-license-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-permit-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certificate-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-supportive-adjective-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-toleration-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-authorize-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-approving-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-initiate-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-digest-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sanction-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-signer-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-license-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-prerogative-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-privilege-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-endorsement-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-visa-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-guarantee-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-tolerant-adjectivesatellite-5> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-licensee-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearance-noun-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-inductee-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-probate-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-payer-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-approbate-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-licenser-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-pass-noun-5> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-commissioner-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand_for-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-suffer-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-legalize-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-validate-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certify-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-give-verb-40> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sanction-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-O.K.-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-cosigner-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-commission-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-confirm-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-endurance-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-initiate-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-repatriate-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-initiate-noun-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certificate-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-authority-noun-6> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-10> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit_out-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-declare-verb-5> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-authorizer-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-champion-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-franchise-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay-verb-9> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-prevent-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-champion-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-license-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-allow-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_a_joke-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-pass-verb-17> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-allow-verb-10> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-furlough-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-probative-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_lying_down-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-charter-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-guarantee-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-7> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-guarantee-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-privilege-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-participation-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admit-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admit-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-approver-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-bear_up-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certificatory-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-favor-noun-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-subscriber-noun-1> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00085913v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00092031v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00092437v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00089893v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082537v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00085218v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00001462n> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00087675v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00092810v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00108477a> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082369v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00087213v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00092716v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00086424v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00092438v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00088063v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082538v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00033835n> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00084829v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00091460v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00064489n> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00036894n> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00088533v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082370v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082536v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00090033v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00088841v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00095204v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00088642v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082373v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082544v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00084738v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00089673v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00090895v> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00032156n> vcvf:triggers folk:Empowerment .
+<http://babelnet.org/rdf/s00082238v> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_one_s_lumps-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-security-noun-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-bearable-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-permissive-adjective-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-franchise-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-insurance-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-readmit-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-readmit-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-co-sign-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-accredit-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-indemnify-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-warrantee-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-allowable-adjectivesatellite-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admittable-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-involve-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-kind-adjectivesatellite-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-probate-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-embroil-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-monetize-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-entrance_fee-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-guarantor-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-repatriate-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-franchise-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-14> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-15> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-defendable-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-insurance_company-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-entangle-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-furlough-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinsure-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admit-verb-8> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-insurance_broker-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-web-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sanction-noun-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certifiable-adjectivesatellite-2> vcvf:triggers folk:Empowerment .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.make_possible_to_do> vcvf:triggers folk:Empowerment .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Place.make_possible_to_do> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/framenet/abox/fe/Time.make_possible_to_do> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/framenet/abox/fe/Manner.make_possible_to_do> vcvf:triggers folk:Empowerment .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Make_possible_to_do> vcvf:triggers folk:Empowerment .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Enablement.make_possible_to_do> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/framenet/abox/fe/Enabled_action.make_possible_to_do> vcvf:triggers folk:Empowerment .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Approve_64000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Approve_33000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Approve_31035000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Sanction_64000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Okay_60100000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Support_31021000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Tolerate_31020000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Stand_31020000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Permit_60000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Permit_64000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Permit_65000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Allow_64000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Allow_65000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Allow_60100000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Support_31021000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Sign_25010000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Allow_29052000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Champion_29081000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Admit_65000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Admit_65000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Include_10700000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Include_65000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Tolerate_64000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Grant_13030000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Favor_31020000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Accept_77000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Accept_29020000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Commission_59100000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Certify_10100000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Certify_29021100> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/License_10100000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Certify_29021100> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Insure_85000000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Entangle_90800000> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Entangle_22022100> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/vn/vn31/data/Involve_10700000> vcvf:triggers folk:Empowerment .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-initiate-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-approve-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-authorize-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-digest-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-permissible-adjective-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-permit-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-back-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sign-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-let-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-license-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sanction-noun-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-champion-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-guarantee-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-visa-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admit-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admit-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-allow-verb-10> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-allow-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-furlough-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-give-verb-40> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-legalize-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-privilege-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-tolerant-adjectivesatellite-5> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-approbate-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-7> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-bear_up-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certificate-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-commission-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-confirm-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-declare-verb-5> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-license-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay-verb-9> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sanction-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit_out-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand_for-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_a_joke-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_lying_down-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-validate-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certify-verb-4> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-pass-verb-17> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-charter-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admissible-adjective-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-allowable-adjectivesatellite-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_one_s_lumps-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-bearable-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-permissive-adjective-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-accredit-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-admittable-adjectivesatellite-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-certified-adjective-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-co-sign-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-14> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-embroil-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-entangle-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-favorable-adjective-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-franchise-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-indemnify-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-involve-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-invulnerable-adjective-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-kind-adjectivesatellite-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-monetize-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-probate-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-readmit-verb-1> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-readmit-verb-2> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinsure-verb-3> vcvf:triggers folk:Empowerment .
+<https://w3id.org/framester/wn/wn30/instances/synset-repatriate-verb-2> vcvf:triggers folk:Empowerment .

@@ -1,0 +1,274 @@
+
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Beauty
+
+
+# beauty lu
+
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Beauty> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beauty> vcvf:triggers folk:Beauty .
+<http://fr.wiktionary.org/wiki/beauty> vcvf:triggers folk:Beauty .
+<http://wikidata.dbpedia.org/resource/Q7242> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautician> vcvf:triggers folk:Beauty .
+<http://fr.wiktionary.org/wiki/beautician> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/antibeauty> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beauteous> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautied> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautiless> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautility> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautiness> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautisome> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautyberry> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautydom> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/beautyless> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/nonbeauty> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/unbeauty> vcvf:triggers folk:Beauty .
+<http://dbpedia.org/resource/The_Painting> vcvf:triggers folk:Beauty .
+<http://dbpedia.org/resource/Painting> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/painting> vcvf:triggers folk:Beauty .
+<http://fr.wiktionary.org/wiki/painting> vcvf:triggers folk:Beauty .
+<http://umbel.org/umbel/sc/Painting_Activity> vcvf:triggers folk:Beauty .
+<http://umbel.org/umbel/sc/Painting_ArtForm> vcvf:triggers folk:Beauty .
+<http://wikidata.dbpedia.org/resource/Q11629> vcvf:triggers folk:Beauty .
+<http://wikidata.dbpedia.org/resource/Q617969> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/grooming> vcvf:triggers folk:Beauty .
+<http://fr.wiktionary.org/wiki/grooming> vcvf:triggers folk:Beauty .
+<http://dbpedia.org/resource/Tree> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/tree> vcvf:triggers folk:Beauty .
+<http://fr.wiktionary.org/wiki/tree> vcvf:triggers folk:Beauty .
+<http://umbel.org/umbel/sc/Tree_ThePlant> vcvf:triggers folk:Beauty .
+<http://wikidata.dbpedia.org/resource/Q10884> vcvf:triggers folk:Beauty .
+<http://wordnet-rdf.princeton.edu/wn31/barking+up+the+wrong+tree-p#Component-5> vcvf:triggers folk:Beauty .
+<http://dbpedia.org/resource/Temple> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/temple> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/Temple> vcvf:triggers folk:Beauty .
+<http://fr.wiktionary.org/wiki/temple> vcvf:triggers folk:Beauty .
+<http://umbel.org/umbel/sc/Temple> vcvf:triggers folk:Beauty .
+<http://wikidata.dbpedia.org/resource/Q44539> vcvf:triggers folk:Beauty .
+<http://dbpedia.org/resource/Ribbon> vcvf:triggers folk:Beauty .
+<http://en.wiktionary.org/wiki/ribbon> vcvf:triggers folk:Beauty .
+<http://fr.wiktionary.org/wiki/ribbon> vcvf:triggers folk:Beauty .
+<http://umbel.org/umbel/sc/HairRibbon> vcvf:triggers folk:Beauty .
+<http://wikidata.dbpedia.org/resource/Q857421> vcvf:triggers folk:Beauty .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beauty> vcvf:triggers folk:Beauty .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/painting> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/grooming> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/losing_weight> vcvf:triggers folk:Beauty .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautician> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antibeauty> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beauteous> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautied> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautiless> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautility> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautiness> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautisome> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautyberry> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautydom> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beautyless> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonbeauty> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unbeauty> vcvf:triggers folk:Beauty .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beauties/n> vcvf:triggers folk:Beauty .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/tree> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/chess_board> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/temple> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ribbon> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/building_cathedral> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/painting_picture> vcvf:triggers folk:Beauty .
+
+
+# Aesthetics frame
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-aesthetics> vcvf:triggers folk:Beauty .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-ambrosial-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-beautiful-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-cagey-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-elegant-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-lovely-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-tasteless-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bitter-adjectivesatellite-6> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bonny-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-delectable-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-hot-adjectivesatellite-9> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-tasty-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pungent-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-smart-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-astute-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-looking-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-flavorful-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-piquant-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-stupid-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ugly-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-inelegant-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-tastily-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pretty-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-salty-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-beauteous-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fruity-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-nutty-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-streetwise-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ravishing-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fugly-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-grapey-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-picturesque-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bitterish-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-glorious-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-soigne-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-unlovely-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-gingery-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-smoky-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-grotesque-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pretty-pretty-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-hideous-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-beautifully-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-deluxe-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-dishy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-handsomely-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-gorgeous-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-acid-tasting-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-sour-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-winy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bittersweet-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-nippy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-choice-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-looking-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-class-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-disfigured-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pulchritudinous-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ritzy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-neat-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-scrofulous-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-unsightly-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-elegantly-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-peppery-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-full-bodied-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bonnily-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-scenic-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-adjectivesatellite-4> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ill-favored-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-dandified-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-exquisite-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-mild-tasting-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-dainty-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-strong-flavored-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-stunning-adjectivesatellite-4> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-exquisite-adjectivesatellite-4> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00115189r> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00114438r> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00105011a> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00102103a> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00115585r> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00116696r> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00112223a> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00114597r> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00110789a> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00098171a> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00117217r> vcvf:triggers folk:Beauty .
+<http://babelnet.org/rdf/s00111670a> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-smart-adjectivesatellite-5> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-prettily-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fair-adjectivesatellite-6> vcvf:triggers folk:Beauty .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Place.aesthetics> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.aesthetics> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/framenet/abox/fe/Judge.aesthetics> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/framenet/abox/fe/Time.aesthetics> vcvf:triggers folk:Beauty .
+# FrameNet Peripheral Frame Element	[]
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Aesthetics> vcvf:triggers folk:Beauty .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Attribute.aesthetics> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/framenet/abox/fe/Degree.aesthetics> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/framenet/abox/fe/Entity.aesthetics> vcvf:triggers folk:Beauty .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-ambrosial-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-beautiful-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-cagey-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-elegant-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-lovely-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bitter-adjectivesatellite-6> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-delectable-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-flavorful-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-hot-adjectivesatellite-9> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-piquant-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pungent-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-tasty-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bonny-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-astute-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-smart-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-looking-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ugly-adjective-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-tastily-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pretty-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-salty-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-beauteous-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fruity-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-nutty-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-streetwise-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ravishing-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fugly-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-grapey-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-picturesque-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bitterish-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-glorious-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-soigne-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-unlovely-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-gingery-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-smoky-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-grotesque-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pretty-pretty-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-hideous-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-beautifully-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-deluxe-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-dishy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-handsomely-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-gorgeous-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-acid-tasting-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-sour-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-winy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bittersweet-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-nippy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-choice-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-looking-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-class-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-disfigured-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-pulchritudinous-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ritzy-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-dainty-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-full-bodied-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-mild-tasting-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-peppery-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-strong-flavored-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-neat-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-scrofulous-adjectivesatellite-3> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-unsightly-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-elegantly-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-bonnily-adverb-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-scenic-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-adjectivesatellite-4> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-ill-favored-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-dandified-adjectivesatellite-1> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-exquisite-adjectivesatellite-2> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-exquisite-adjectivesatellite-4> vcvf:triggers folk:Beauty .
+<https://w3id.org/framester/wn/wn30/instances/synset-stunning-adjectivesatellite-4> vcvf:triggers folk:Beauty .

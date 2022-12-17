@@ -1,0 +1,212 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Alertness
+
+
+# Alert lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/alert> vcvf:triggers folk:Alertness .
+<http://fr.wiktionary.org/wiki/alert> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/Alert> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/alertness> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/alertless> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/alertly> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/e-alert> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/hyperalert> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/overalert> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/superalert> vcvf:triggers folk:Alertness .
+<http://en.wiktionary.org/wiki/unalert> vcvf:triggers folk:Alertness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alert> vcvf:triggers folk:Alertness .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alertness> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alertless> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alertly> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/e_alert> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperalert> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overalert> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superalert> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unalert> vcvf:triggers folk:Alertness .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alerted/v> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alerter/a> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alertest/a> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alerting/v> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alerts/n> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/alerts/v> vcvf:triggers folk:Alertness .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Attention frame
+
+<https://w3id.org/framester/data/framestercore/Attention> vcvf:triggers folk:Alertness .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-attention> vcvf:triggers folk:Alertness .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_attention_105702275> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_attendant_109608002> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_notice_105703803> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_eye_105703307> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_attentiveness_105702726> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_clock-watching_105703070> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_ear_105703205> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_notice_105703429> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_advertence_105704096> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_mind_105703956> vcvf:triggers folk:Alertness .
+<http://yago-knowledge.org/resource/wordnet_remark_105710573> vcvf:triggers folk:Alertness .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-attentively-adverb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adverb-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attend-verb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-closely-adverb-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attendant-noun-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adjectivesatellite-4> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-miss-verb-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attentive-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-alert-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-captive-adjectivesatellite-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attention-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-closely-adverb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-inattentive-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-vigilantly-adverb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-notice-noun-6> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-eye-noun-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hot-adjectivesatellite-18> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attentional-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjacent-adjectivesatellite-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-solicitous-adjectivesatellite-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attentiveness-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-care-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-oversolicitous-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-worship-verb-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attend-verb-5> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-lidless-adjectivesatellite-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ear-noun-4> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-observant-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit_in-verb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm-adjectivesatellite-10> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fly-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-heads-up-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clock-watching-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-notice-noun-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-advertent-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-nearby-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-argus-eyed-adjectivesatellite-2> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00082908v> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00055106n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00007020n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00058165n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00097725a> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00046243n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00102778a> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00095833v> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00117563r> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00032514n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00058168n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00114747r> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00007026n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00093221v> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00093784v> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00001588n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00114750r> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00099859a> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00019888n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00091141v> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00002157n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00082907v> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00114748r> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00067068n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00089606v> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00097724a> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00115336r> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00009720n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00029374n> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00114437r> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00096755a> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00114751r> vcvf:triggers folk:Alertness .
+<http://babelnet.org/rdf/s00112301a> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attend-verb-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-remark-noun-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-immolate-verb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-advertence-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-believer-noun-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sacrificer-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-mind-noun-5> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-offer-verb-9> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-far-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-inattention-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sacrifice-verb-4> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unalert-adjective-1> vcvf:triggers folk:Alertness .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.attention> vcvf:triggers folk:Alertness .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.attention> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/framenet/abox/fe/Manner.attention> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/framenet/abox/fe/Ground.attention> vcvf:triggers folk:Alertness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Attention> vcvf:triggers folk:Alertness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Figure.attention> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/framenet/abox/fe/Perceiver.attention> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.attention> vcvf:triggers folk:Alertness .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Immolate_42010000> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/vn/vn31/data/Offer_13030000> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/vn/vn31/data/Sacrifice_13021000> vcvf:triggers folk:Alertness .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-attend-verb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attentively-adverb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-captive-adjectivesatellite-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adverb-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-alert-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attention-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attentive-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adjectivesatellite-4> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-closely-adverb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-closely-adverb-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fast-adverb-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-near-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-near-adverb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attendant-noun-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-vigilantly-adverb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-notice-noun-6> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-eye-noun-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hot-adjectivesatellite-18> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjacent-adjectivesatellite-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-advertent-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-argus-eyed-adjectivesatellite-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attentional-adjective-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-attentiveness-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-clock-watching-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ear-noun-4> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fly-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-heads-up-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-lidless-adjectivesatellite-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-nearby-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-notice-noun-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-observant-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-oversolicitous-adjectivesatellite-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sit_in-verb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-solicitous-adjectivesatellite-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm-adjectivesatellite-10> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-worship-verb-3> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-advertence-noun-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-mind-noun-5> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-remark-noun-2> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-immolate-verb-1> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-offer-verb-9> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sacrifice-verb-4> vcvf:triggers folk:Alertness .
+<https://w3id.org/framester/wn/wn30/instances/synset-careful-adjective-1> vcvf:triggers folk:Alertness .
