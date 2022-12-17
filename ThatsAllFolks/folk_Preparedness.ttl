@@ -1,0 +1,120 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Preparedness
+
+
+# prepare lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/prepare> vcvf:triggers folk:Preparedness .
+<http://fr.wiktionary.org/wiki/prepare> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/disprepare> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/foreprepare> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/overprepare> vcvf:triggers folk:Preparedness .
+<http://fr.wiktionary.org/wiki/overprepare> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/preparable> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/preparest> vcvf:triggers folk:Preparedness .
+<http://fr.wiktionary.org/wiki/preparest> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/prepareth> vcvf:triggers folk:Preparedness .
+<http://fr.wiktionary.org/wiki/prepareth> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/preprepare> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/reprepare> vcvf:triggers folk:Preparedness .
+<http://en.wiktionary.org/wiki/unprepare> vcvf:triggers folk:Preparedness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prepare> vcvf:triggers folk:Preparedness .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/disprepare> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/foreprepare> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overprepare> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preparable> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preparest> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prepareth> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preprepare> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reprepare> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unprepare> vcvf:triggers folk:Preparedness .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prepared/v> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preparedst/v> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prepares/v> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preparest/v> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prepareth/v> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preparing/v> vcvf:triggers folk:Preparedness .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/apply_for_job> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/begin_work> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/have_food> vcvf:triggers folk:Preparedness .
+# usedFor	[]
+
+# ActivityReadyState frame
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-activity_ready_state> vcvf:triggers folk:Preparedness .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-ready-adjective-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fit-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-prepared-adjective-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unprepared-adjective-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-braced-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-up-adjectivesatellite-5> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-preconditioned-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-in_order-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ready-adjectivesatellite-4> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-prompt-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-spread-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-precooked-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-equipped-adjectivesatellite-3> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-processed-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-embattled-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-at_the_ready-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-oven-ready-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ripe-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-waiting-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<http://babelnet.org/rdf/s00113072a> vcvf:triggers folk:Preparedness .
+<http://babelnet.org/rdf/s00109485a> vcvf:triggers folk:Preparedness .
+<http://babelnet.org/rdf/s00108965a> vcvf:triggers folk:Preparedness .
+<http://babelnet.org/rdf/s00113117a> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unready-adjective-1> vcvf:triggers folk:Preparedness .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Result.activity_ready_state> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/framenet/abox/fe/Degree.activity_ready_state> vcvf:triggers folk:Preparedness .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Duration.activity_ready_state> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/framenet/abox/fe/Time.activity_ready_state> vcvf:triggers folk:Preparedness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Activity_ready_state> vcvf:triggers folk:Preparedness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Activity.activity_ready_state> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/framenet/abox/fe/Protagonist.activity_ready_state> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/framenet/abox/fe/Salient_entity.activity_ready_state> vcvf:triggers folk:Preparedness .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-ready-adjective-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fit-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-prepared-adjective-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-braced-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-up-adjectivesatellite-5> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-preconditioned-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-in_order-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ready-adjectivesatellite-4> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-prompt-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-spread-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-precooked-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-equipped-adjectivesatellite-3> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-processed-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-embattled-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-at_the_ready-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-oven-ready-adjectivesatellite-1> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ripe-adjectivesatellite-2> vcvf:triggers folk:Preparedness .
+<https://w3id.org/framester/wn/wn30/instances/synset-waiting-adjectivesatellite-1> vcvf:triggers folk:Preparedness .

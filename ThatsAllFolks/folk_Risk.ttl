@@ -1,0 +1,847 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Risk
+
+
+# risk lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Risk> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/risk> vcvf:triggers folk:Risk .
+<http://fr.wiktionary.org/wiki/risk> vcvf:triggers folk:Risk .
+<http://wikidata.dbpedia.org/resource/Q104493> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/riskless> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/risky> vcvf:triggers folk:Risk .
+<http://fr.wiktionary.org/wiki/risky> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/derisk> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/high-risk> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/multirisk> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/nonrisk> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/risk-free> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/risker> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/riskest> vcvf:triggers folk:Risk .
+<http://fr.wiktionary.org/wiki/riskest> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/risketh> vcvf:triggers folk:Risk .
+<http://fr.wiktionary.org/wiki/risketh> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/riskfree> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/riskful> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/risktaker> vcvf:triggers folk:Risk .
+<http://en.wiktionary.org/wiki/riskware> vcvf:triggers folk:Risk .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risk> vcvf:triggers folk:Risk .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/investing_money_or_energy> vcvf:triggers folk:Risk .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/riskless> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risky> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/derisk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/high_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multirisk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonrisk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risk_free> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risker> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/riskest> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risketh> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/riskfree> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/riskful> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risktaker> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/riskware> vcvf:triggers folk:Risk .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risked/v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/riskest/v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risketh/v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risking/v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risks/n> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/risks/v> vcvf:triggers folk:Risk .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/jumping_at_chance> vcvf:triggers folk:Risk .
+# usedFor	[]
+
+
+# BeingAtRisk frame
+
+<https://w3id.org/framester/data/framestercore/BeingAtRisk> vcvf:triggers folk:Risk .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-being_at_risk> vcvf:triggers folk:Risk .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_hazard_114541852> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_security_114539268> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_danger_114540765> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_safety_114538472> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_vulnerability_114543931> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_hazardousness_114541538> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_protection_114539960> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_biosafety_114538811> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_clear_and_present_danger_114541247> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_health_hazard_114542320> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_insecurity_114541677> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_invulnerability_114539029> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_moral_hazard_114542579> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_occupational_hazard_114542858> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_peace_114539524> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_riskiness_114543552> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_risklessness_114538908> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_salvation_114539165> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_secureness_114539693> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_sword_of_Damocles_114542983> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_biohazard_114542441> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_speculativeness_114543756> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_indemnity_114539826> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_insecureness_114544159> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_radioprotection_114540455> vcvf:triggers folk:Risk .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-security-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-secure-adjective-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-assured-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerability-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-danger-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endangered-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerable-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-dangerous-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecure-adjective-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safety-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hazardousness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insure-verb-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-protection-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-off_the_hook-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-indefensible-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe_and_sound-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-securely-adverb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-invulnerability-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerably-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-penetrable-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fail-safe-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-free-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-unguaranteed-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biosafety-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fail-safe-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-compromising-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-peace-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-salvation-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-secureness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-threatened-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-precarious-adjectivesatellite-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecure-adjectivesatellite-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-defenseless-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear_and_present_danger-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-firm-adjectivesatellite-7> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecurely-adverb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-riskiness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-shelter-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sure-adjectivesatellite-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-assailable-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-under_attack-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecurity-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risklessness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-unguarded-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00030747n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00046396n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00046876n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00055849n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00061595n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00115952r> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00046164n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00064840n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00043233n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00032379n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00043366n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010535n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00019660n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00058569n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00075631n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00025170n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00091373v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00046877n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00105170a> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00068799n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00069033n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00073241n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00113677a> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00061151n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00065955n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00110270a> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00070216n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00105398a> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010572n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00116927r> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00070219n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00110046a> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00117588r> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00067934n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00087613v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculativeness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-indemnity-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecureness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-radioprotection-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-invulnerable-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-pacify-verb-2> vcvf:triggers folk:Risk .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Duration.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Depictive.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Domain.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Situation.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.being_at_risk> vcvf:triggers folk:Risk .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Time.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Place.being_at_risk> vcvf:triggers folk:Risk .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Being_at_risk> vcvf:triggers folk:Risk .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Harmful_event.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Dangerous_entity.being_at_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Asset.being_at_risk> vcvf:triggers folk:Risk .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Venture_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Threaten_31010000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Chance_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_70000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Hazard_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Take_a_chance_70000000> vcvf:triggers folk:Risk .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-security-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endangered-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-secure-adjective-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-assured-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-danger-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecure-adjective-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safety-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerability-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerable-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hazardousness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-protection-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-assailable-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biosafety-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-clear_and_present_danger-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-compromising-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-defenseless-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fail-safe-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fail-safe-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-firm-adjectivesatellite-7> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-indefensible-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecure-adjectivesatellite-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecurely-adverb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecurity-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-invulnerability-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-off_the_hook-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-peace-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-penetrable-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-precarious-adjectivesatellite-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-free-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-riskiness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risklessness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe_and_sound-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-salvation-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-securely-adverb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-secureness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sure-adjectivesatellite-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-threatened-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-under_attack-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-unguaranteed-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-unguarded-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerably-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculativeness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-indemnity-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insecureness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-radioprotection-noun-1> vcvf:triggers folk:Risk .
+
+
+# RunRisk frame
+
+
+<https://w3id.org/framester/data/framestercore/RunRisk> vcvf:triggers folk:Risk .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-run_risk> vcvf:triggers folk:Risk .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_hazard_114541852> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_health_hazard_114542320> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_moral_hazard_114542579> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_occupational_hazard_114542858> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_sword_of_Damocles_114542983> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_stake_113343526> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_bettor_109851876> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_biohazard_114542441> vcvf:triggers folk:Risk .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bet-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endangered-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-danger-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/risk.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculation-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bet_on-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-see-verb-23> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-stake-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bettor-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-play-verb-29> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-adventurer-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-raise-verb-17> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00030747n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00055849n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010158n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00025172n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00043366n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00090231v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010535n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00058569n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00075631n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00087188v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00093438v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00082658v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00082408v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00083450v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00083379v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010111n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00092337v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00091729v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00082987v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00087613v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-ante-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-parlay-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-ante-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Beneficiary.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Iteration.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.run_risk> vcvf:triggers folk:Risk .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Place.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Severity.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Time.run_risk> vcvf:triggers folk:Risk .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Run_risk> vcvf:triggers folk:Risk .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Asset.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Bad_outcome.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Protagonist.run_risk> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Action.run_risk> vcvf:triggers folk:Risk .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Venture_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Bet_54050000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Wager_54050000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Wager_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Threaten_31010000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Chance_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_70000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Hazard_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Take_a_chance_70000000> vcvf:triggers folk:Risk .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bet-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endangered-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bet_on-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-see-verb-23> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-stake-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bettor-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-play-verb-29> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-raise-verb-17> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-ante-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-parlay-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .
+
+
+# RiskySituation frame
+
+<https://w3id.org/framester/data/framestercore/RiskySituation> vcvf:triggers folk:Risk .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-risky_situation> vcvf:triggers folk:Risk .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_danger_114541044> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_hazard_114541852> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_menace_114543231> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_yellow_peril_114543411> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_health_hazard_114542320> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_moral_hazard_114542579> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_occupational_hazard_114542858> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_sword_of_Damocles_114542983> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_powder_keg_114543145> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_biohazard_114542441> vcvf:triggers folk:Risk .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-menace-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-breakneck-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hazardous-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-riskily-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm-adjectivesatellite-9> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safely-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-danger-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-dangerous-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-yellow_peril-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-mordacious-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-parlous-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-off_the_hook-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe_and_sound-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-chancy-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-destructive-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-free-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fail-safe-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-powder_keg-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insidious-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-on_the_hook-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-desperate-adjectivesatellite-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-perilously-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-treacherous-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00030747n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00055849n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00025172n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00116872r> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00043366n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00063931n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010535n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00058569n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00075631n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00081878n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00114923r> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00054311n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00116894r> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00110046a> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00100895a> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00087613v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Domain.risky_situation> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.risky_situation> vcvf:triggers folk:Risk .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.risky_situation> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Time.risky_situation> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Place.risky_situation> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.risky_situation> vcvf:triggers folk:Risk .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Risky_situation> vcvf:triggers folk:Risk .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Asset.risky_situation> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Dangerous_entity.risky_situation> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Situation.risky_situation> vcvf:triggers folk:Risk .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Venture_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Threaten_31010000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Chance_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_70000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Hazard_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Take_a_chance_70000000> vcvf:triggers folk:Risk .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-danger-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-dangerous-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hazardous-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-menace-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-riskily-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe-adjective-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safely-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm-adjectivesatellite-9> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-breakneck-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-yellow_peril-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fail-safe-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-mordacious-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-off_the_hook-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-parlous-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-free-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-safe_and_sound-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-chancy-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-desperate-adjectivesatellite-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-insidious-adjectivesatellite-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-on_the_hook-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-perilously-adverb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-powder_keg-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-destructive-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-treacherous-adjectivesatellite-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-uncomfortable-adjective-2> vcvf:triggers folk:Risk .
+
+
+
+# Daring frame
+
+
+<https://w3id.org/framester/data/framestercore/Daring> vcvf:triggers folk:Risk .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-daring> vcvf:triggers folk:Risk .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_hazard_114541852> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_opportunity_114483917> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_risk_100802238> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_speculation_113342692> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_crapshoot_100802785> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_brass_ring_114484378> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_stake_113343526> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_day_114484516> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_fresh_start_114484646> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_hearing_114484778> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_hunting_ground_114484969> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_occasion_114485064> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_opening_114485249> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_room_114485436> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_say_114485526> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_shot_114485673> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_street_114485811> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_throw_114485990> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_venture_101117164> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_adventurer_109606009> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_chance_100802629> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_gamble_100802962> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_gambler_110119200> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_bazaar_101118182> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_book_fair_101118338> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_car_boot_sale_101118614> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_clearance_sale_101118776> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_closeout_101118890> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_craft_fair_101118495> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_fire_sale_101119116> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_fire_sale_101119012> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_garage_sale_101119250> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_going-out-of-business_sale_101119401> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_realization_101119620> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_rummage_sale_101119850> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_sale_101117723> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_selloff_101119949> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_white_sale_101120176> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_long_shot_100803091> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_doubling_100803394> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_raise_100803208> vcvf:triggers folk:Risk .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-make_bold-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-opportunity-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/chance.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/dare.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/risk.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/stake.02> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/undertake.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/venture.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/venture.02> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_for_broke-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculation-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-crapshoot-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-dare-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-brass_ring-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-stake-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-street-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck_it-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-day-noun-9> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fresh_start-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-room-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-say-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-throw-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-opening-noun-6> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-adventurer-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hunting_ground-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-shot-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occasion-noun-5> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-chance-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gambler-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hearing-noun-2> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00030747n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00066412n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00070393n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00051937n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00001574n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00017621n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00090511v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00034663n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00066060n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00037168n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00069438n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00073240n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00023569n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00058538n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00077091n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00019642n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00079765n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00090231v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00037166n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00012174n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00059097n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00034664n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00086279v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00007098n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00082408v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00040913n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00019666n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00023501n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00023463n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00045256n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00012070n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00083379v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00012800n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00019952n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00068234n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010111n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00024620n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00025171n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00074598n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00088956v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00017623n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00048551n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00025424n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00028345n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00081089n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00009256n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00037285n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00082409v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00086280v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearance_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-craft_fair-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-closeout-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-book_fair-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-realization-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sale-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-long_shot-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-raise-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-car_boot_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubling-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-garage_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bazaar-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-going-out-of-business_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-selloff-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-rummage_sale-noun-1> vcvf:triggers folk:Risk .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Reason.daring> vcvf:triggers folk:Risk .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Manner.daring> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Time.daring> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Place.daring> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.daring> vcvf:triggers folk:Risk .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Daring> vcvf:triggers folk:Risk .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Action.daring> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Agent.daring> vcvf:triggers folk:Risk .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Venture_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Chance_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_70000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Hazard_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Take_a_chance_70000000> vcvf:triggers folk:Risk .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-make_bold-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-opportunity-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_for_broke-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-speculation-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-crapshoot-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-brass_ring-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-stake-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-day-noun-9> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fresh_start-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hearing-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-hunting_ground-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occasion-noun-5> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-opening-noun-6> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-room-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-say-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-shot-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-street-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-throw-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck_it-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bell_the_cat-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-adventurer-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-chance-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gambler-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-bazaar-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-book_fair-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-car_boot_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-clearance_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-closeout-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-craft_fair-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-fire_sale-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-garage_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-going-out-of-business_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-realization-noun-4> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-rummage_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sale-noun-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-selloff-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_sale-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-long_shot-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubling-noun-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-raise-noun-3> vcvf:triggers folk:Risk .
+
+# Endangering frame
+
+<https://w3id.org/framester/data/framestercore/Endangering> vcvf:triggers folk:Risk .
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-endangering> vcvf:triggers folk:Risk .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_hazard_114541852> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_menace_114543231> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_health_hazard_114542320> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_moral_hazard_114542579> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_occupational_hazard_114542858> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_riskiness_114543552> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_sword_of_Damocles_114542983> vcvf:triggers folk:Risk .
+<http://yago-knowledge.org/resource/wordnet_biohazard_114542441> vcvf:triggers folk:Risk .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-menace-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/endanger.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/imperil.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/pb/pbdata/jeopardize.01> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-riskiness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00030747n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00055849n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00061595n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00043366n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00010535n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00058569n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00075631n> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00087612v> vcvf:triggers folk:Risk .
+<http://babelnet.org/rdf/s00087613v> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Endangering_act.endangering> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Time.endangering> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Place.endangering> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Manner.endangering> vcvf:triggers folk:Risk .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Endangering> vcvf:triggers folk:Risk .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Valued_entity.endangering> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Agent.endangering> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/framenet/abox/fe/Cause.endangering> vcvf:triggers folk:Risk .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Venture_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Threaten_31010000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Risk_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Chance_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_70000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Gamble_94100000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Hazard_94000000> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/vn/vn31/data/Take_a_chance_70000000> vcvf:triggers folk:Risk .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-menace-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-risk-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-venture-verb-3> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-endanger-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-gamble-verb-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-health_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-occupational_hazard-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-queer-verb-2> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-riskiness-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-sword_of_Damocles-noun-1> vcvf:triggers folk:Risk .
+<https://w3id.org/framester/wn/wn30/instances/synset-biohazard-noun-1> vcvf:triggers folk:Risk .

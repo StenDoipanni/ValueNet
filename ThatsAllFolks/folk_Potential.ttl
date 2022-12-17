@@ -1,0 +1,325 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Potential
+
+
+# potential lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/potential> vcvf:triggers folk:Potential .
+<http://fr.wiktionary.org/wiki/potential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/afterpotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/biopotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/bipotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/potentiality> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/eigenpotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/electropotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/equipotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/potentially> vcvf:triggers folk:Potential .
+<http://fr.wiktionary.org/wiki/potentially> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/geopotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/hydropotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/immunopotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/interpotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/isopotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/multipotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/myopotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/nonpotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/overpotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/potentialism> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/potentialist> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/potentialize> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/prepotential> vcvf:triggers folk:Potential .
+<http://dbpedia.org/resource/Pseudopotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/pseudopotential> vcvf:triggers folk:Potential .
+<http://wikidata.dbpedia.org/resource/Q769463> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/quasipotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/superpotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/tripotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/underpotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/unipotential> vcvf:triggers folk:Potential .
+<http://en.wiktionary.org/wiki/vectorpotential> vcvf:triggers folk:Potential .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Capability> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/data/framestercore/Event> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/data/framestercore/Existence> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/data/framestercore/Likelihood> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/data/framestercore/Possibility> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/data/framestercore/ActuallyOccurringEntity> vcvf:triggers folk:Potential .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/potential> vcvf:triggers folk:Potential .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/afterpotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/biopotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bipotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/potentiality> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/eigenpotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/electropotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/equipotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/potentially> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/geopotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hydropotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/immunopotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/interpotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isopotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multipotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/myopotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonpotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overpotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/potentialism> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/potentialist> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/potentialize> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prepotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pseudopotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/quasipotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superpotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/tripotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/underpotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unipotential> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/vectorpotential> vcvf:triggers folk:Potential .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/potentials/n> vcvf:triggers folk:Potential .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Capability frame
+
+<https://w3id.org/framester/data/framestercore/Capability> vcvf:triggers folk:Potential .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-capability> vcvf:triggers folk:Potential .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_capability_105202497> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_proficiency_105154114> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_ability_105200169> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_competence_105153520> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_potential_114482620> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_capacity_105622956> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_adaptability_104659090> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_executability_105203207> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_fitness_105153795> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_linguistic_competence_105153897> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_latency_114482852> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_associability_104688058> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_physical_ability_105201659> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_interoperability_105200816> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_capacity_105203397> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_contractility_105201813> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_defensibility_105202954> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_form_105200670> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_immunocompetence_113974144> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_magical_ability_105201060> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_military_capability_105203649> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_operating_capability_105204143> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_overkill_105204316> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_penetration_105201452> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_prescience_105919431> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_prospect_114482968> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_sensitivity_104842993> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_totipotency_105214976> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_flexibility_104659287> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_antenna_104843270> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_astringency_105202034> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_bunker_mentality_104843675> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_defensiveness_104843429> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_envelope_105204473> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_firepower_105204004> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_lung-power_105202413> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_lycanthropy_105201183> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_perceptiveness_104843875> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_pliability_104659730> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_sea_power_105035264> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_voice_105202284> vcvf:triggers folk:Potential .
+<http://yago-knowledge.org/resource/wordnet_wiggle_room_104659567> vcvf:triggers folk:Potential .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-able-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-able-adjectivesatellite-3> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-actual-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-potential-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capable-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-proficiency-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-ability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-can-verb-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-potential-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capacity-noun-8> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-competence-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-unable-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-incapable-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-incapacity-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/pb/pbdata/can.01> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-adaptability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-latent-adjectivesatellite-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-executability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-inability-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-latency-noun-3> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-associability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-physical_ability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-interoperability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-Midas_touch-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-confident-adjectivesatellite-3> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-contractility-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-defensibility-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-immunocompetence-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-military_capability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-operating_capability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-resourceful-adjectivesatellite-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-prospect-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-sensitivity-noun-5> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-fitness-noun-4> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-totipotency-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-voice-verb-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-competently-adverb-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-penetration-noun-4> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-linguistic_competence-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capacity-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-form-noun-14> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-magical_ability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-potentially-adverb-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-overkill-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-prescience-noun-1> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00001265n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00015418n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00015423n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00025900n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00063864n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00054840n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00084450v> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00061355n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00004500n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00069987n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00013902n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00031071n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00046261n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00050127n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00081179n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00022236n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00062159n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00035190n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00046218n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00059117n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00061506n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00114063r> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00006530n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00035915n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00047181n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00116663r> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00006640n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00104798a> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00112254a> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00015409n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00032170n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00052342n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00064190n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00070514n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00046050n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00017625n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00080190n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00108830a> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00059885n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00054954n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00052695n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00063031n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00096151a> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00025902n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00034703n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00046260n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00099215a> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00077723n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00000317n> vcvf:triggers folk:Potential .
+<http://babelnet.org/rdf/s00052407n> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-flexibility-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-pliability-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-antenna-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-lung-power-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-wiggle_room-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-sea_power-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-incapability-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-defensiveness-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-firepower-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-lycanthropy-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-bunker_mentality-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-perceptiveness-noun-4> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-envelope-noun-5> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-astringency-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-voice-noun-9> vcvf:triggers folk:Potential .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Cause.capability> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.capability> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/framenet/abox/fe/Relevant_feature.capability> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/framenet/abox/fe/Status.capability> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/framenet/abox/fe/Role.capability> vcvf:triggers folk:Potential .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.capability> vcvf:triggers folk:Potential .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Capability> vcvf:triggers folk:Potential .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Entity.capability> vcvf:triggers folk:Potential .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Can_90100000> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/vn/vn31/data/Tin_90100000> vcvf:triggers folk:Potential .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-able-adjectivesatellite-3> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-potential-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capable-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-proficiency-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-ability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-can-verb-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-competence-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-potential-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capacity-noun-8> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-unable-adjective-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-adaptability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-latent-adjectivesatellite-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-competently-adverb-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-executability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-fitness-noun-4> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-linguistic_competence-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-latency-noun-3> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-associability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-physical_ability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-interoperability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-capacity-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-confident-adjectivesatellite-3> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-contractility-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-defensibility-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-form-noun-14> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-immunocompetence-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-magical_ability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-Midas_touch-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-military_capability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-operating_capability-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-overkill-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-penetration-noun-4> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-potentially-adverb-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-prescience-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-prospect-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-resourceful-adjectivesatellite-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-sensitivity-noun-5> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-totipotency-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-flexibility-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-antenna-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-astringency-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-bunker_mentality-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-defensiveness-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-envelope-noun-5> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-firepower-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-lung-power-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-lycanthropy-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-perceptiveness-noun-4> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-pliability-noun-2> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-sea_power-noun-1> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-voice-noun-9> vcvf:triggers folk:Potential .
+<https://w3id.org/framester/wn/wn30/instances/synset-wiggle_room-noun-1> vcvf:triggers folk:Potential .

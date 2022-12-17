@@ -1,0 +1,149 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:OtherPeopleCannotBeTrusted
+
+
+# mistrust lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/mistrust> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://fr.wiktionary.org/wiki/mistrust> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://en.wiktionary.org/wiki/mistruster> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://en.wiktionary.org/wiki/mistrustest> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://fr.wiktionary.org/wiki/mistrustest> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://en.wiktionary.org/wiki/mistrusteth> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://fr.wiktionary.org/wiki/mistrusteth> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://en.wiktionary.org/wiki/mistrustful> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://en.wiktionary.org/wiki/mistrustless> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://en.wiktionary.org/wiki/lying> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://fr.wiktionary.org/wiki/lying> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrust> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lying> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistruster> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrustest> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrusteth> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrustful> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrustless> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrusted/v> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrustest/v> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrusteth/v> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrusting/v> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mistrusts/v> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Suspicion frame
+
+<https://w3id.org/framester/data/framestercore/Suspicion> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-suspicion> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_suspect_110681383> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://yago-knowledge.org/resource/wordnet_distrust_104895773> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://yago-knowledge.org/resource/wordnet_rape_suspect_110507380> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://yago-knowledge.org/resource/wordnet_murder_suspect_110339251> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://yago-knowledge.org/resource/wordnet_robbery_suspect_110534748> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-verb-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-verb-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-suspect-verb-3> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-trust-verb-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-noun-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-rape_suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-murder_suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-noun-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-robbery_suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00075447n> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00068016n> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00094633v> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00066179n> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00087071v> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00027814n> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00056347n> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Time.suspicion> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Suspicion> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Incident.suspicion> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/framenet/abox/fe/Authority.suspicion> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/framenet/abox/fe/Suspect.suspicion> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Distrust_31020000> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/vn/vn31/data/Suspect_81000000> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-verb-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubt-verb-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-suspect-verb-3> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-distrust-noun-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-rape_suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-murder_suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-robbery_suspect-noun-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+
+
+# Suspiciousness frame
+
+<https://w3id.org/framester/data/framestercore/Suspiciousness> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+
+
+data
+0
+# Premon closeMatch to FrameNet frame	[]
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-questionable-adjective-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-fishy-adjectivesatellite-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-alleged-adjectivesatellite-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubtful-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-unquestionable-adjective-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-questionably-adverb-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-styled-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-debatable-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-queerly-adverb-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-equivocal-adjectivesatellite-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-apocryphal-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-impugnable-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00115383r> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00115138r> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00109343a> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<http://babelnet.org/rdf/s00113107a> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Judge.suspiciousness> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/framenet/abox/fe/Degree.suspiciousness> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Suspiciousness> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Behavior.suspiciousness> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/framenet/abox/fe/Entity.suspiciousness> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/framenet/abox/fe/Social_actor.suspiciousness> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-questionable-adjective-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-alleged-adjectivesatellite-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-fishy-adjectivesatellite-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-doubtful-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-questionably-adverb-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-styled-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-debatable-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-queerly-adverb-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-equivocal-adjectivesatellite-2> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-apocryphal-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .
+<https://w3id.org/framester/wn/wn30/instances/synset-impugnable-adjectivesatellite-1> vcvf:triggers folk:OtherPeopleCannotBeTrusted .

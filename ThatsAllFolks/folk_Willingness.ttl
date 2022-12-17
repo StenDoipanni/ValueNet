@@ -1,0 +1,164 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Will
+
+
+# willing lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/willing> vcvf:triggers folk:Willingness .
+<http://fr.wiktionary.org/wiki/willing> vcvf:triggers folk:Willingness .
+<http://en.wiktionary.org/wiki/overwilling> vcvf:triggers folk:Willingness .
+<http://en.wiktionary.org/wiki/unwilling> vcvf:triggers folk:Willingness .
+<http://en.wiktionary.org/wiki/well-willing> vcvf:triggers folk:Willingness .
+<http://en.wiktionary.org/wiki/willingly> vcvf:triggers folk:Willingness .
+<http://fr.wiktionary.org/wiki/willingly> vcvf:triggers folk:Willingness .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Choosing> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/data/framestercore/IntentionallyAct> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/data/framestercore/Willingness> vcvf:triggers folk:Willingness .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/willing> vcvf:triggers folk:Willingness .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overwilling> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unwilling> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/well_willing> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/willingly> vcvf:triggers folk:Willingness .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/willinger/a> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/willingest/a> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/willings/n> vcvf:triggers folk:Willingness .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# Willingness frame
+
+
+<https://w3id.org/framester/data/framestercore/Willingness> vcvf:triggers folk:Willingness .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-willingness> vcvf:triggers folk:Willingness .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_unwillingness_104645599> vcvf:triggers folk:Willingness .
+<http://yago-knowledge.org/resource/wordnet_willingness_104644512> vcvf:triggers folk:Willingness .
+<http://yago-knowledge.org/resource/wordnet_resistance_104646372> vcvf:triggers folk:Willingness .
+<http://yago-knowledge.org/resource/wordnet_readiness_104644719> vcvf:triggers folk:Willingness .
+<http://yago-knowledge.org/resource/wordnet_receptiveness_104645020> vcvf:triggers folk:Willingness .
+<http://yago-knowledge.org/resource/wordnet_reluctance_104645943> vcvf:triggers folk:Willingness .
+<http://yago-knowledge.org/resource/wordnet_wholeheartedness_104645473> vcvf:triggers folk:Willingness .
+<http://yago-knowledge.org/resource/wordnet_sloth_104637444> vcvf:triggers folk:Willingness .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-loath-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unwilling-adjective-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willing-adjective-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willingness-noun-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-disposed-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-hesitate-verb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-grudging-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unwillingness-noun-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-down-adjective-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-grudgingly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downbound-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-behind-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downward-adjectivesatellite-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-volitional-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fallen-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weak-adjectivesatellite-5> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-resistance-noun-9> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-readiness-noun-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unintentional-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ready-adjectivesatellite-3> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-thrown-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-consenting-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reluctance-noun-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downfield-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downcast-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unwillingly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-receptiveness-noun-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-glad-adjectivesatellite-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-wholeheartedness-noun-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reluctantly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-adjectivesatellite-5> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willing_and_able-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willingly-adverb-1> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00113877a> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00047382n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00117448r> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00067332n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00059104n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00117581r> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00027596n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00086970v> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00072218n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00101752a> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00113406a> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00113391a> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00081239n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00081142n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00029364n> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00115561r> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00116820r> vcvf:triggers folk:Willingness .
+<http://babelnet.org/rdf/s00117519r> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-indispose-verb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sloth-noun-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ungrudgingly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-up-adjective-1> vcvf:triggers folk:Willingness .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Explanation.willingness> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.willingness> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.willingness> vcvf:triggers folk:Willingness .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Time.willingness> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/framenet/abox/fe/Degree.willingness> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/framenet/abox/fe/Place.willingness> vcvf:triggers folk:Willingness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Willingness> vcvf:triggers folk:Willingness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Activity.willingness> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/framenet/abox/fe/Cognizer.willingness> vcvf:triggers folk:Willingness .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-disposed-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-down-adjective-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-grudging-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-grudgingly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-loath-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unwilling-adjective-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unwillingness-noun-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willing-adjective-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willingness-noun-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downbound-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-behind-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downward-adjectivesatellite-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-volitional-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-fallen-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-weak-adjectivesatellite-5> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reluctantly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-resistance-noun-9> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-consenting-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downcast-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-downfield-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-glad-adjectivesatellite-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-readiness-noun-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-ready-adjectivesatellite-3> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-receptiveness-noun-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-reluctance-noun-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-adjectivesatellite-5> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-thrown-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unintentional-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-unwillingly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-wholeheartedness-noun-2> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willing_and_able-adjectivesatellite-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-willingly-adverb-1> vcvf:triggers folk:Willingness .
+<https://w3id.org/framester/wn/wn30/instances/synset-sloth-noun-1> vcvf:triggers folk:Willingness .

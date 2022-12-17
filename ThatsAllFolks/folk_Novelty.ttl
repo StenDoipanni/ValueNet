@@ -1,0 +1,208 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Novelty
+
+
+# new lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/new> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/new-> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/new> vcvf:triggers folk:Novelty .
+<http://wordnet-rdf.princeton.edu/wn31/turn+a+new+leaf-p#Component-3> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/renew> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/renew> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newfag> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/newfag> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newfangled> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newspeak> vcvf:triggers folk:Novelty .
+<http://cs.dbpedia.org/resource/Newspeak> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/novořeč> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/benew> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/ennew> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/innew> vcvf:triggers folk:Novelty .
+<http://dbpedia.org/resource/New_Year> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/New_Year> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/new_year> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/New_Year> vcvf:triggers folk:Novelty .
+<http://wikidata.dbpedia.org/resource/Q34812> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newborn> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/newborn> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newbro> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newbuild> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newbuilding> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newbuilt> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newchurch> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newco> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newcreate> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newel> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/newel> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newer> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newfangle> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newfashion> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newform> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newfound> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newgrass> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newgroup> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newie> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newish> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newless> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newline> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newling> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newmade> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/Newman> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newness> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/newness> vcvf:triggers folk:Novelty .
+<http://dbpedia.org/resource/Newport> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/Newport> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/Newport> vcvf:triggers folk:Novelty .
+<http://wikidata.dbpedia.org/resource/Q224715> vcvf:triggers folk:Novelty .
+<http://dbpedia.org/resource/Newspeak> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newspeak> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/Newspeak> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/Newspeak> vcvf:triggers folk:Novelty .
+<http://wikidata.dbpedia.org/resource/Q654101> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/NewSQL> vcvf:triggers folk:Novelty .
+<http://fr.wiktionary.org/wiki/NewSQL> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/newth> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/Newtown> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/nonnew> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/Noogler> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/overnew> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/seminew> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/supernew> vcvf:triggers folk:Novelty .
+<http://en.wiktionary.org/wiki/jump_at_the_chance> vcvf:triggers folk:Novelty .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/new> vcvf:triggers folk:Novelty .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/renew> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newfag> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newfangled> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/cs/newspeak> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/cs/novořeč> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/benew> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ennew> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/innew> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/new_year> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newborn> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newbro> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newbuild> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newbuilding> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newbuilt> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newchurch> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newco> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newcreate> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newel> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newer> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newfangle> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newfashion> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newform> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newfound> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newgrass> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newgroup> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newie> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newish> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newless> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newline> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newling> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newmade> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newman> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newness> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newport> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newspeak> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newsql> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newth> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newtown> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonnew> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/noogler> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overnew> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/seminew> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/supernew> vcvf:triggers folk:Novelty .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newed/v> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newer/a> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newest/a> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/newing/v> vcvf:triggers folk:Novelty .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/jump_at_chance> vcvf:triggers folk:Novelty .
+# usedFor	[]
+
+
+# Increment frame
+
+<https://w3id.org/framester/data/framestercore/Increment> vcvf:triggers folk:Novelty .
+
+
+data
+0
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-increment> vcvf:triggers folk:Novelty .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-more-adjective-2> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-particularly-adverb-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-extra-adjectivesatellite-3> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-another-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-more-adverb-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-other-adjective-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-besides-adverb-2> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-same-adjective-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-further-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-less-adverb-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-more-adjective-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-fewer-adjective-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-otherwise-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-new-adjectivesatellite-5> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-opposite-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-opposite-adjectivesatellite-3> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-different-adjectivesatellite-2> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-opposite-adjectivesatellite-4> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-different-adjectivesatellite-5> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00114246r> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00106936a> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00108011a> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00115235r> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00102921a> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00055878n> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00105886a> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00106935a> vcvf:triggers folk:Novelty .
+<http://babelnet.org/rdf/s00116284r> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-less-adjective-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-More-noun-1> vcvf:triggers folk:Novelty .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Increment.increment> vcvf:triggers folk:Novelty .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Increment> vcvf:triggers folk:Novelty .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Added_set.increment> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/framenet/abox/fe/Class.increment> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/framenet/abox/fe/Initial_set.increment> vcvf:triggers folk:Novelty .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-more-adjective-2> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-particularly-adverb-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-another-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-besides-adverb-2> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-extra-adjectivesatellite-3> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-further-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-more-adjective-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-more-adverb-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-other-adjective-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-otherwise-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-new-adjectivesatellite-5> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-opposite-adjectivesatellite-1> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-opposite-adjectivesatellite-3> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-different-adjectivesatellite-2> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-opposite-adjectivesatellite-4> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-different-adjectivesatellite-5> vcvf:triggers folk:Novelty .
+<https://w3id.org/framester/wn/wn30/instances/synset-far-adjective-1> vcvf:triggers folk:Novelty .

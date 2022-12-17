@@ -1,0 +1,33 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Sustainability
+
+
+# sustainable lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/sustainable> vcvf:triggers folk:Sustainability .
+<http://fr.wiktionary.org/wiki/sustainable> vcvf:triggers folk:Sustainability .
+<http://en.wiktionary.org/wiki/biosustainable> vcvf:triggers folk:Sustainability .
+<http://en.wiktionary.org/wiki/nonsustainable> vcvf:triggers folk:Sustainability .
+<http://en.wiktionary.org/wiki/sustainably> vcvf:triggers folk:Sustainability .
+<http://en.wiktionary.org/wiki/unsustainable> vcvf:triggers folk:Sustainability .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sustainable> vcvf:triggers folk:Sustainability .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/biosustainable> vcvf:triggers folk:Sustainability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonsustainable> vcvf:triggers folk:Sustainability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sustainably> vcvf:triggers folk:Sustainability .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unsustainable> vcvf:triggers folk:Sustainability .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]

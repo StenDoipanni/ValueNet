@@ -1,0 +1,10 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Happiness
+
+
+folk:Happyness rdfs:subClassOf be:Enjoyment .

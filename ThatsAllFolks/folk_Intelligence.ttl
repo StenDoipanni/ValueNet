@@ -1,0 +1,82 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Intelligence
+
+
+# intelligence lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Intelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/intelligence> vcvf:triggers folk:Intelligence .
+<http://fr.wiktionary.org/wiki/intelligence> vcvf:triggers folk:Intelligence .
+<http://umbel.org/umbel/sc/IntelligenceLevel> vcvf:triggers folk:Intelligence .
+<http://wikidata.dbpedia.org/resource/Q83500> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/counter-intelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/counter_intelligence> vcvf:triggers folk:Intelligence .
+<http://dbpedia.org/resource/Counterintelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/counterintelligence> vcvf:triggers folk:Intelligence .
+<http://umbel.org/umbel/sc/Counterintelligence> vcvf:triggers folk:Intelligence .
+<http://wikidata.dbpedia.org/resource/Q501700> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/cyberintelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/ELINT> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/extelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/HUMINT> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/hyperintelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/intelligencelike> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/intelligencer> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/intelligencing> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/intelligential> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/misintelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/nonintelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/SIGINT> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/social_media_intelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/superintelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/unintelligence> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/learning> vcvf:triggers folk:Intelligence .
+<http://fr.wiktionary.org/wiki/learning> vcvf:triggers folk:Intelligence .
+<http://en.wiktionary.org/wiki/studying> vcvf:triggers folk:Intelligence .
+<http://fr.wiktionary.org/wiki/studying> vcvf:triggers folk:Intelligence .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Information> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/data/framestercore/IntentionallyAct> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/data/framestercore/MentalProperty> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/data/framestercore/Organization> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/data/framestercore/Statement> vcvf:triggers folk:Intelligence .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intelligence> vcvf:triggers folk:Intelligence .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/learning> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/studying> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reading_magazine> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reading_to_children> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/selling_new_book> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/taking_course> vcvf:triggers folk:Intelligence .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/counter_intelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/counterintelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cyberintelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/elint> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/extelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humint> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperintelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intelligencelike> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intelligencer> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intelligencing> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intelligential> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misintelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonintelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sigint> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/social_media_intelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superintelligence> vcvf:triggers folk:Intelligence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unintelligence> vcvf:triggers folk:Intelligence .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intelligences/n> vcvf:triggers folk:Intelligence .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/learning_about_subject> vcvf:triggers folk:Intelligence .

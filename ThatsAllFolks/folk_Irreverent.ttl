@@ -1,0 +1,26 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Irreverent
+
+
+# irreverent lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/irreverent> vcvf:triggers folk:Irreverent .
+<http://fr.wiktionary.org/wiki/irreverent> vcvf:triggers folk:Irreverent .
+<http://en.wiktionary.org/wiki/irreverently> vcvf:triggers folk:Irreverent .
+<http://fr.wiktionary.org/wiki/irreverently> vcvf:triggers folk:Irreverent .
+# Framester frames	[]
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/irreverent> vcvf:triggers folk:Irreverent .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/irreverently> vcvf:triggers folk:Irreverent .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]

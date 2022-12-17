@@ -1,0 +1,246 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Presence
+
+
+# presence lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/presence> vcvf:triggers folk:Presence .
+<http://fr.wiktionary.org/wiki/presence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/compresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/copresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/hyperpresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/multipresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/nonpresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/omnipresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/pluripresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/presentity> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/superpresence> vcvf:triggers folk:Presence .
+<http://dbpedia.org/resource/Telepresence> vcvf:triggers folk:Presence .
+<http://en.wiktionary.org/wiki/telepresence> vcvf:triggers folk:Presence .
+<http://wikidata.dbpedia.org/resource/Q544830> vcvf:triggers folk:Presence .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/presence> vcvf:triggers folk:Presence .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/compresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/copresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperpresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multipresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonpresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/omnipresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pluripresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/presentity> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superpresence> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/telepresence> vcvf:triggers folk:Presence .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/presenced/v> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/presences/n> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/presencing/v> vcvf:triggers folk:Presence .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# SocialConnection frame
+
+<https://w3id.org/framester/data/framestercore/SocialConnection> vcvf:triggers folk:Presence .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-social_connection> vcvf:triggers folk:Presence .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_closeness_107530124> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_connection_113791389> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_link_103673971> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_bridge_102899439> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_linkage_113792579> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_togetherness_107530322> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_communication_113792842> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_link_113792692> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_alliance_113792183> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_bridge_113793330> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_concatenation_113793127> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_involvement_113793504> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_relatedness_113795489> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_relevance_113794417> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_series_113791910> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_applicability_113795180> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_materiality_113794658> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_inclusion_113794034> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_silver_cord_113792468> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_implication_113793776> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_point_113794885> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_bearing_113795695> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_cogency_113794793> vcvf:triggers folk:Presence .
+<http://yago-knowledge.org/resource/wordnet_germaneness_113795042> vcvf:triggers folk:Presence .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-coupled-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-yoke-verb-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adjective-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-closely-adverb-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-closeness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-connected-adjective-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-refer-verb-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-affiliated-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-connection-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-get_along_with-verb-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-attachment-noun-4> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-connect-verb-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-intimate-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-link-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-connection-noun-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-familiar-adjectivesatellite-4> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-unconnected-adjective-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-interconnected-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/pb/pbdata/close.03> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-boon-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-dear-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-linkage-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-8> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-togetherness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-communicate-verb-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-communication-noun-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-link-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-relevance-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-approximate-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-confidential-adjectivesatellite-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-embrace-verb-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-relatedness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-alliance-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bridge-verb-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-cozy-adjectivesatellite-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bridge-noun-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-applicability-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-concatenation-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-knit-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-chummy-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-involvement-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-series-noun-5> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00047387n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00070611n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00112493a> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00013079n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00051401n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00078965n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00088750v> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00085435v> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00099858a> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00021223n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00040307n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00020444n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00021902n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00006992n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00053815n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00101596a> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00019946n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00021517n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00077482n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00005090n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00051407n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00021433n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00115994r> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00021903n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00002860n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00082896v> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00009378n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00051400n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00071636n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00100287a> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00063220n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00067030n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00011973n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00046130n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00066994n> vcvf:triggers folk:Presence .
+<http://babelnet.org/rdf/s00083765v> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bond-verb-4> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-materiality-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-inclusion-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-chemical_bond-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silver_cord-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-implication-noun-5> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-point-noun-13> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bearing-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bind-verb-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-cogency-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-germaneness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-distant-adjective-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-unconnectedness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-coordinated-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-liaison-noun-1> vcvf:triggers folk:Presence .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.social_connection> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/framenet/abox/fe/Type.social_connection> vcvf:triggers folk:Presence .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Social_connection> vcvf:triggers folk:Presence .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Individual1.social_connection> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/framenet/abox/fe/Connection.social_connection> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/framenet/abox/fe/Individual2.social_connection> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/framenet/abox/fe/Individuals.social_connection> vcvf:triggers folk:Presence .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Tie_22040000> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/vn/vn31/data/Bind_90800000> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/vn/vn31/data/Bind_22032000> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/vn/vn31/data/Tie_22040000> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/vn/vn31/data/Tie_22011100> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/vn/vn31/data/Link_22040000> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/vn/vn31/data/Link_22011000> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/vn/vn31/data/Connect_22011000> vcvf:triggers folk:Presence .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-connected-adjective-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-coupled-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-closely-adverb-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjacent-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-adjective-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-closeness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-connection-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-intimate-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-link-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-familiar-adjectivesatellite-4> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-tie-verb-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-connect-verb-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-boon-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-dear-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bridge-noun-8> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-linkage-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-8> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-togetherness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-communication-noun-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-link-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjunctive-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-affined-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-alliance-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-approximate-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bridge-noun-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-chummy-adjectivesatellite-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-close-knit-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-concatenation-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-confidential-adjectivesatellite-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-conterminous-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-cozy-adjectivesatellite-3> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-engaged-adjectivesatellite-7> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-involvement-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-relatedness-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-relevance-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-series-noun-5> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-connected-adjectivesatellite-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-applicability-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-materiality-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-inclusion-noun-2> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silver_cord-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-implication-noun-5> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-point-noun-13> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-bearing-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-cogency-noun-1> vcvf:triggers folk:Presence .
+<https://w3id.org/framester/wn/wn30/instances/synset-germaneness-noun-1> vcvf:triggers folk:Presence .

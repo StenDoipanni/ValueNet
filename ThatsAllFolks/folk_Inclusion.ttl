@@ -1,0 +1,42 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Inclusiveness
+
+
+# inclusive lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/inclusive> vcvf:triggers folk:Inclusion .
+<http://fr.wiktionary.org/wiki/inclusive> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/inclusively> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/inclusiveness> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/inclusivism> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/inclusivist> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/inclusivity> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/noninclusive> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/overinclusive> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/underinclusive> vcvf:triggers folk:Inclusion .
+<http://en.wiktionary.org/wiki/uninclusive> vcvf:triggers folk:Inclusion .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inclusive> vcvf:triggers folk:Inclusion .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inclusively> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inclusiveness> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inclusivism> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inclusivist> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inclusivity> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/noninclusive> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overinclusive> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/underinclusive> vcvf:triggers folk:Inclusion .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/uninclusive> vcvf:triggers folk:Inclusion .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]

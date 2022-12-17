@@ -1,0 +1,385 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Inner_peace
+
+
+# peace lu
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Peace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peace> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peace> vcvf:triggers folk:Inner_peace .
+<http://wikidata.dbpedia.org/resource/Q454> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceful> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peaceful> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacenik> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacespeak> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacetime> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/antipeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/dispeace> vcvf:triggers folk:Inner_peace .
+<http://dbpedia.org/resource/Greenpeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Greenpeace> vcvf:triggers folk:Inner_peace .
+<http://wikidata.dbpedia.org/resource/Q81307> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Makepeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/makepeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceability> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceable> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peaceable> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebreaker> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebreaking> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebuilder> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebuilding> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacekeeper> vcvf:triggers folk:Inner_peace .
+<http://umbel.org/umbel/sc/Peacekeeper> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacekeeping> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceless> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Peacemaker> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemaker> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peacemaker> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemaking> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemonger> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemongering> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacen> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacework> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacify> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/unpeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/forgiving> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/forgiving> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/agreeing_with> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/thanking> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/thanking> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/resting> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/resting> vcvf:triggers folk:Inner_peace .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peace> vcvf:triggers folk:Inner_peace .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/forgiving> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/destroying_enemy> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/agreeing_with> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_on_vacation> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/serving_justice> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/waiting_turn> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/losing_consciousness> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/loving_another> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/making_better_world> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reaching_tentative_agreement> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/thanking> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understanding_better> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/visiting_museum> vcvf:triggers folk:Inner_peace .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceful> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacenik> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacespeak> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacetime> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antipeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dispeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/greenpeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/makepeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceability> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceable> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebreaker> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebreaking> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebuilder> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebuilding> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacekeeper> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacekeeping> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceless> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemaker> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemaking> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemonger> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemongering> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacen> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacework> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacify> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unpeace> vcvf:triggers folk:Inner_peace .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaces/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaces/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacing/v> vcvf:triggers folk:Inner_peace .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/make_better_world> vcvf:triggers folk:Inner_peace .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/making_better_world> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resting> vcvf:triggers folk:Inner_peace .
+
+
+
+# folk:Inner_peace has a partial overlap with be:Enjoyment, in particular with those entities triggered by the "serenity" intensity
+
+
+# CN
+
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pacification> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ataraxis> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacefulness> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/serenity> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/repose> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuage> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lenify> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appease> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placate> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliate> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliatory> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliative> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliation> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placation> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforter> vcvf:triggers folk:Inner_peace .
+
+
+# dbpedia
+
+<http://dbpedia.org/resource/Peace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peace> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peace> vcvf:triggers folk:Inner_peace .
+<http://wikidata.dbpedia.org/resource/Q454> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceful> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peaceful> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacenik> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacespeak> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacetime> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/antipeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/dispeace> vcvf:triggers folk:Inner_peace .
+<http://dbpedia.org/resource/Greenpeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Greenpeace> vcvf:triggers folk:Inner_peace .
+<http://wikidata.dbpedia.org/resource/Q81307> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Makepeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/makepeace> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceability> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceable> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peaceable> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebreaker> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebreaking> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebuilder> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacebuilding> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacekeeper> vcvf:triggers folk:Inner_peace .
+<http://umbel.org/umbel/sc/Peacekeeper> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacekeeping> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peaceless> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Peacemaker> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemaker> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peacemaker> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemaking> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemonger> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacemongering> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacen> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacework> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacify> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/forgiving> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/forgiving> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/agreeing_with> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/thanking> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/thanking> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/resting> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/resting> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/pacification> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/pacification> vcvf:triggers folk:Inner_peace .
+<http://umbel.org/umbel/sc/Pacification_MilitaryOperation> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/ataraxis> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/peacefulness> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/peacefulness> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/relax> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/relax> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Serenity> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/serenity> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/Serenity> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/serenity> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/unserenity> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/repose> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/repose> vcvf:triggers folk:Inner_peace .
+<http://dbpedia.org/resource/Reposal> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/reposal> vcvf:triggers folk:Inner_peace .
+<http://wikidata.dbpedia.org/resource/Q138339> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/reposance> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/reposeful> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/reposer> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/reposest> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/reposest> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/reposeth> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/reposeth> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/reposure> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/assuage> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/assuage> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/assuageable> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/assuagement> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/assuager> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/assuagest> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/assuagest> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/assuageth> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/assuageth> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/lenify> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appease> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/appease> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeasable> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeasee> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeaseless> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeasenik> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeaser> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeasest> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/appeasest> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeaseth> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/appeaseth> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/appeasive> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/placate> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/placate> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/placatable> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/placater> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/placative> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliate> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliative> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliator> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliatory> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/conciliatory> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/unconciliatory> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliatorily> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliatoriness> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/nonconciliatory> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliative> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliation> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/conciliation> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliationism> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/conciliationist> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/placation> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/Comforter> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/comforter> vcvf:triggers folk:Inner_peace .
+<http://fr.wiktionary.org/wiki/comforter> vcvf:triggers folk:Inner_peace .
+<http://umbel.org/umbel/sc/Comforter_BedCover> vcvf:triggers folk:Inner_peace .
+<http://en.wiktionary.org/wiki/comfortress> vcvf:triggers folk:Inner_peace .
+
+# causes
+
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/forgiving> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/destroying_enemy> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/agreeing_with> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_on_vacation> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/serving_justice> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/waiting_turn> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/losing_consciousness> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/loving_another> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/making_better_world> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reaching_tentative_agreement> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/thanking> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understanding_better> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/visiting_museum> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/listening_to_music> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_into_trance> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_quietly> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/being_alone> vcvf:triggers folk:Inner_peace .
+
+# derivedFrom
+
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceful> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacenik> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacespeak> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacetime> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antipeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dispeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/greenpeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/makepeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceability> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceable> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebreaker> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebreaking> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebuilder> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacebuilding> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacekeeper> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacekeeping> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaceless> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemaker> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemaking> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemonger> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacemongering> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacen> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacework> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacify> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unpeace> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unserenity> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposal> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposance> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposeful> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposer> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposest> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposeth> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposure> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuageable> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuagement> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuager> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuagest> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuageth> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeasable> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeasee> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeaseless> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeasenik> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeaser> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeasest> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeaseth> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeasive> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placatable> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placater> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placative> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliative> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliator> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unconciliatory> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliatorily> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliatoriness> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonconciliatory> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliation_cross> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliationism> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliationist> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comfortress> vcvf:triggers folk:Inner_peace .
+
+
+# formsOf
+
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaces/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peaces/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacing/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pacifications/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/peacefulnesses/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/serenities/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposed/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposes/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposest/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposeth/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reposing/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuaged/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuages/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuagest/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuageth/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/assuaging/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lenified/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lenifies/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lenifying/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeased/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeases/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeasest/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeaseth/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/appeasing/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placated/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placates/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placating/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliated/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliates/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliating/v> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/conciliations/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/placations/n> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/comforters/n> vcvf:triggers folk:Inner_peace .
+
+
+# hasSubEvent
+
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/make_better_world> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/relax> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/seeing_art> vcvf:triggers folk:Inner_peace .
+
+
+# usedFor
+
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resting> vcvf:triggers folk:Inner_peace .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hearing_music> vcvf:triggers folk:Inner_peace .

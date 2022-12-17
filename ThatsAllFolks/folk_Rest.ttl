@@ -1,0 +1,274 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Rest
+
+
+# rest lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/rest> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/rest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/'rest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/REST> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/Rest.> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/REST> vcvf:triggers folk:Rest .
+<http://wordnet-rdf.princeton.edu/wn31/rest+on+your+laurels-p#Component-1> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/restless> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/restless> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/armrest> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/armrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/restroom> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/restroom> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/Restroom> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/unrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/footrest> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/SeatingDeviceFootRest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/backrest> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/backrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/bedrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/benchrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/bookrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/chinrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/headrest> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/headrest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/knife-rest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/knife_rest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/RESTafarian> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/rester> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/restest> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/restest> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/resteth> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/resteth> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/restframe> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/RESTful> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/restful> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/RESTful> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/restful> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/restharrow> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/resthold> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/resthouse> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/restward> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/sleeping> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/sleeping> vcvf:triggers folk:Rest .
+<http://wordnet-rdf.princeton.edu/wn31/let+sleeping+dogs+lie-p#Component-2> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/going_to_bed> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/going_to_bed> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/going_to_sleep> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/going_to_sleep> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/taking_a_break> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/tired> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/tired> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/relaxing> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/relaxing> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/taking_a_break> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/run_out_of_steam> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/take_a_break> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/illness> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/illness> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/AilmentCondition> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/sleeping> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/sleeping> vcvf:triggers folk:Rest .
+<http://wordnet-rdf.princeton.edu/wn31/let+sleeping+dogs+lie-p#Component-2> vcvf:triggers folk:Rest .
+<http://dbpedia.org/resource/Hotel> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/hotel> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/hotel> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/CommercialLodgingOrganization> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/HotelBuilding> vcvf:triggers folk:Rest .
+<http://wikidata.dbpedia.org/resource/Q27686> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/HotelRoomUnit> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/lobby> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/lobby> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/Lobby_Room> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/motel> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/motel> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/going_to_sleep> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/going_to_sleep> vcvf:triggers folk:Rest .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rest> vcvf:triggers folk:Rest .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sleeping> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_on_chair> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_on_vacation> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_to_bed> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_to_sleep> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_quietly> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sleeping_at_night> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/taking_break> vcvf:triggers folk:Rest .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restless> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/armrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restroom> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/footrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/backrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bedrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/benchrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bookrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/chinrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/headrest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knife_rest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restafarian> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rester> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restest> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resteth> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restframe> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restful> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restharrow> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resthold> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resthouse> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restward> vcvf:triggers folk:Rest .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reest/v> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rested/v> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restest/v> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resteth/v> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resting/v> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rests/n> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rests/v> vcvf:triggers folk:Rest .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_down> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/tired> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/stay_in_bed> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/eating_in_fast_food_restaurant> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/relaxing> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sleeping_at_night> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/taking_break> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/run_out_of_steam> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/take_break> vcvf:triggers folk:Rest .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/illness> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_down> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sleeping> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hotel> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hotel_room> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lobby> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/motel> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_on_vacation> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_to_sleep> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sleeping_at_night> vcvf:triggers folk:Rest .
+
+
+# resting lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/resting> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/resting> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/nonresting> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/unresting> vcvf:triggers folk:Rest .
+<http://dbpedia.org/resource/Bed> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/bed> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/bed> vcvf:triggers folk:Rest .
+<http://wordnet-rdf.princeton.edu/wn31/get+out+of+bed+on+the+wrong+side-p#Component-4> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/BED> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/Bed_PieceOfFurniture> vcvf:triggers folk:Rest .
+<http://wikidata.dbpedia.org/resource/Q42177> vcvf:triggers folk:Rest .
+<http://dbpedia.org/resource/Chair> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/chair> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/chair> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/Chair_PieceOfFurniture> vcvf:triggers folk:Rest .
+<http://wikidata.dbpedia.org/resource/Q15026> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/lying> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/lying> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/room> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/room> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/RoomInAConstruction> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/sitting_down> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/sleeping> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/sleeping> vcvf:triggers folk:Rest .
+<http://wordnet-rdf.princeton.edu/wn31/let+sleeping+dogs+lie-p#Component-2> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/stool> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/stool> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/Stool_PieceOfFurniture> vcvf:triggers folk:Rest .
+<http://dbpedia.org/resource/SEAT> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/SEAT> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/seat> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/seat> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/SeatingDevice> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/SeatingDeviceSeat> vcvf:triggers folk:Rest .
+<http://wikidata.dbpedia.org/resource/Q188217> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/armchair> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/armchair> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/ArmChair> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/bench> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/bench> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/Bench_PieceOfFurniture> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/Bench_Topographical> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/bus_shelter> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/bus_shelter> vcvf:triggers folk:Rest .
+<http://dbpedia.org/resource/The_Den> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/den> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/den> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/DEN> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/Den> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/Den.> vcvf:triggers folk:Rest .
+<http://wikidata.dbpedia.org/resource/Q908481> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/motel> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/motel> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/pool> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/pool> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/PoolGame> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/rocking-chair> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/rocking_chair> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/rocking_chair> vcvf:triggers folk:Rest .
+<http://umbel.org/umbel/sc/RockingChair> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/cooling_off> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/going_to_sleep> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/going_to_sleep> vcvf:triggers folk:Rest .
+<http://en.wiktionary.org/wiki/relaxing> vcvf:triggers folk:Rest .
+<http://fr.wiktionary.org/wiki/relaxing> vcvf:triggers folk:Rest .
+# Framester frames	[]
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resting> vcvf:triggers folk:Rest .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_on_chair> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/staying_in_bed> vcvf:triggers folk:Rest .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonresting> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unresting> vcvf:triggers folk:Rest .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/restings/n> vcvf:triggers folk:Rest .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_on_chair> vcvf:triggers folk:Rest .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bed> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/chair> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lying> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/room> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_down> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sleeping> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/stool> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/seat> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/armchair> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beanbag_chair> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bench> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bus_shelter> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/den> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/motel> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pool> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_on_chair> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/place_to_stay> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rocking_chair> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/watching_television> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cooling_off> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/eating_breakfast_in_bed> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_into_trance> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_to_sleep> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/relaxing> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_quietly> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sleeping_at_night> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/staying_in_bed> vcvf:triggers folk:Rest .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/stopping_bicycle> vcvf:triggers folk:Rest .

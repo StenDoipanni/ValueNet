@@ -1,0 +1,130 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Lively
+
+
+# lively lu
+
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/Lively> vcvf:triggers folk:Lively .
+<http://en.wiktionary.org/wiki/lively> vcvf:triggers folk:Lively .
+<http://fr.wiktionary.org/wiki/lively> vcvf:triggers folk:Lively .
+<http://en.wiktionary.org/wiki/livelily> vcvf:triggers folk:Lively .
+<http://en.wiktionary.org/wiki/liveliness> vcvf:triggers folk:Lively .
+<http://fr.wiktionary.org/wiki/liveliness> vcvf:triggers folk:Lively .
+<http://en.wiktionary.org/wiki/unlively> vcvf:triggers folk:Lively .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/lively> vcvf:triggers folk:Lively .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/livelily> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/liveliness> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unlively> vcvf:triggers folk:Lively .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/livelier/a> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/livelies/n> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/liveliest/a> vcvf:triggers folk:Lively .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# LivelyPlace frame
+
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-lively_place> vcvf:triggers folk:Lively .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-feverish-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-crawl-verb-3> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-feverishly-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-frantic-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-abuzz-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-drove-noun-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-teem-verb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bustle-verb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-hum-verb-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-busy-adjectivesatellite-4> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-lively-adjective-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/pb/pbdata/buzz.01> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/pb/pbdata/buzz.03> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/pb/pbdata/buzz.04> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-breezy-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-live-adjectivesatellite-7> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-madly-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-alive-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm-adjectivesatellite-8> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-frenziedly-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-demoniacally-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-swarm-noun-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bubbly-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-burbling-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bouncing-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bubbling-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<http://babelnet.org/rdf/s00084346v> vcvf:triggers folk:Lively .
+<http://babelnet.org/rdf/s00101872a> vcvf:triggers folk:Lively .
+<http://babelnet.org/rdf/s00084316v> vcvf:triggers folk:Lively .
+<http://babelnet.org/rdf/s00114979r> vcvf:triggers folk:Lively .
+<http://babelnet.org/rdf/s00106080a> vcvf:triggers folk:Lively .
+<http://babelnet.org/rdf/s00115446r> vcvf:triggers folk:Lively .
+<http://babelnet.org/rdf/s00115451r> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-dull-adjective-1> vcvf:triggers folk:Lively .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.lively_place> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/framenet/abox/fe/Place.lively_place> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/framenet/abox/fe/Time.lively_place> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.lively_place> vcvf:triggers folk:Lively .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.lively_place> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/framenet/abox/fe/Duration.lively_place> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/framenet/abox/fe/Manner.lively_place> vcvf:triggers folk:Lively .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Lively_place> vcvf:triggers folk:Lively .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Activity.lively_place> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/framenet/abox/fe/Location.lively_place> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/framenet/abox/fe/Individuals.lively_place> vcvf:triggers folk:Lively .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Bustle_47050110> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/vn/vn31/data/Crawl_47050110> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/vn/vn31/data/Seethe_47050300> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/vn/vn31/data/Teem_57000000> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/vn/vn31/data/Teem_47050121> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/vn/vn31/data/Swarm_47050110> vcvf:triggers folk:Lively .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-feverish-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-feverishly-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-abuzz-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bustle-verb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-busy-adjectivesatellite-4> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-crawl-verb-3> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-frantic-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-hum-verb-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-lively-adjective-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-teem-verb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-breezy-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-live-adjectivesatellite-7> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-madly-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-alive-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bouncing-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bubbling-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-bubbly-adjectivesatellite-2> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-burbling-adjectivesatellite-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-demoniacally-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-frenziedly-adverb-1> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-warm-adjectivesatellite-8> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-active-adjective-7> vcvf:triggers folk:Lively .
+<https://w3id.org/framester/wn/wn30/instances/synset-noisy-adjective-1> vcvf:triggers folk:Lively .

@@ -1,0 +1,43 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Punctuality
+
+
+# punctuality lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/punctual> vcvf:triggers folk:Punctuality .
+<http://fr.wiktionary.org/wiki/punctual> vcvf:triggers folk:Punctuality .
+<http://dbpedia.org/resource/Punctuality> vcvf:triggers folk:Punctuality .
+<http://en.wiktionary.org/wiki/punctuality> vcvf:triggers folk:Punctuality .
+<http://fr.wiktionary.org/wiki/punctuality> vcvf:triggers folk:Punctuality .
+<http://wikidata.dbpedia.org/resource/Q153487> vcvf:triggers folk:Punctuality .
+<http://en.wiktionary.org/wiki/bipunctual> vcvf:triggers folk:Punctuality .
+<http://en.wiktionary.org/wiki/nonpunctual> vcvf:triggers folk:Punctuality .
+<http://en.wiktionary.org/wiki/prepunctual> vcvf:triggers folk:Punctuality .
+<http://en.wiktionary.org/wiki/punctualist> vcvf:triggers folk:Punctuality .
+<http://en.wiktionary.org/wiki/punctually> vcvf:triggers folk:Punctuality .
+<http://fr.wiktionary.org/wiki/punctually> vcvf:triggers folk:Punctuality .
+<http://en.wiktionary.org/wiki/punctualness> vcvf:triggers folk:Punctuality .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/punctual> vcvf:triggers folk:Punctuality .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/punctuality> vcvf:triggers folk:Punctuality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bipunctual> vcvf:triggers folk:Punctuality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonpunctual> vcvf:triggers folk:Punctuality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prepunctual> vcvf:triggers folk:Punctuality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/punctualist> vcvf:triggers folk:Punctuality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/punctually> vcvf:triggers folk:Punctuality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/punctualness> vcvf:triggers folk:Punctuality .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]

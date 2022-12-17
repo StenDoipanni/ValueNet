@@ -1,0 +1,146 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Silence
+
+
+# silence lu
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Silence> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/silence> vcvf:triggers folk:Silence .
+<http://fr.wiktionary.org/wiki/silence> vcvf:triggers folk:Silence .
+<http://wikidata.dbpedia.org/resource/Q502261> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/nonsilence> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/outsilence> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/resilence> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/silenceable> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/silencer> vcvf:triggers folk:Silence .
+<http://fr.wiktionary.org/wiki/silencer> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/unsilence> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/listening> vcvf:triggers folk:Silence .
+<http://fr.wiktionary.org/wiki/listening> vcvf:triggers folk:Silence .
+<http://en.wiktionary.org/wiki/contemplating> vcvf:triggers folk:Silence .
+<http://fr.wiktionary.org/wiki/contemplating> vcvf:triggers folk:Silence .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silence> vcvf:triggers folk:Silence .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/listening> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/breathing_fresh_air> vcvf:triggers folk:Silence .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonsilence> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/outsilence> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resilence> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silenceable> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silencer> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unsilence> vcvf:triggers folk:Silence .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silenc'd/v> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silenced/v> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silences/n> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silences/v> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/silencing/v> vcvf:triggers folk:Silence .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/contemplating> vcvf:triggers folk:Silence .
+# usedFor	[]
+
+
+# BecomeSilent frame
+
+<https://w3id.org/framester/data/framestercore/BecomeSilent> vcvf:triggers folk:Silence .
+
+
+# Premon closeMatch to FrameNet frame	[]
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_silence_104982207> vcvf:triggers folk:Silence .
+<http://yago-knowledge.org/resource/wordnet_quietness_104982856> vcvf:triggers folk:Silence .
+<http://yago-knowledge.org/resource/wordnet_hush_104982478> vcvf:triggers folk:Silence .
+<http://yago-knowledge.org/resource/wordnet_silence_113925550> vcvf:triggers folk:Silence .
+<http://yago-knowledge.org/resource/wordnet_silencer_104218773> vcvf:triggers folk:Silence .
+<http://yago-knowledge.org/resource/wordnet_silencer_104218564> vcvf:triggers folk:Silence .
+<http://yago-knowledge.org/resource/wordnet_speechlessness_104982745> vcvf:triggers folk:Silence .
+<http://yago-knowledge.org/resource/wordnet_noiselessness_104983013> vcvf:triggers folk:Silence .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-sound-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-quieten-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silence-noun-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-shush-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-hush-verb-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/pb/pbdata/silence.01> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/pb/pbdata/hush.01> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/pb/pbdata/quiet.01> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/pb/pbdata/quieten.01> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-quietness-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-gag-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-shout_down-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silencer-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silencer-noun-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-louden-verb-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-lull-verb-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-speechlessness-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-hush-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-hush-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silence-noun-1> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00065703n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00089538v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00065706n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00090499v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00071571n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00073256n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00045291n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00089539v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00088654v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00057868n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00093677v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00093705v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00084441v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00056225n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00071572n> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00090500v> vcvf:triggers folk:Silence .
+<http://babelnet.org/rdf/s00037009n> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-quiescent-adjectivesatellite-3> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-louden-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-noiselessness-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-gag-noun-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-close_up-verb-4> vcvf:triggers folk:Silence .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Manner.become_silent> vcvf:triggers folk:Silence .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Place.become_silent> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/framenet/abox/fe/Reason.become_silent> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/framenet/abox/fe/Time.become_silent> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/framenet/abox/fe/Topic.become_silent> vcvf:triggers folk:Silence .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Become_silent> vcvf:triggers folk:Silence .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Speaker.become_silent> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.become_silent> vcvf:triggers folk:Silence .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Hush_45040000> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/vn/vn31/data/Quieten_45040000> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/vn/vn31/data/Hush_45040000> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/vn/vn31/data/Quiet_45040000> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/vn/vn31/data/Quieten_45040000> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/vn/vn31/data/Muzzle_22040000> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/vn/vn31/data/Gag_90900000> vcvf:triggers folk:Silence .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-hush-verb-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-quieten-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-shush-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silence-noun-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-quietness-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-gag-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-hush-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-lull-verb-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-shout_down-verb-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silence-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silencer-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-silencer-noun-2> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-speechlessness-noun-1> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-quiescent-adjectivesatellite-3> vcvf:triggers folk:Silence .
+<https://w3id.org/framester/wn/wn30/instances/synset-noiselessness-noun-1> vcvf:triggers folk:Silence .

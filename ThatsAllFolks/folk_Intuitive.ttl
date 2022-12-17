@@ -1,0 +1,308 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Intuitive
+
+
+# intuitive lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/intuitive> vcvf:triggers folk:Intuitive .
+<http://fr.wiktionary.org/wiki/intuitive> vcvf:triggers folk:Intuitive .
+<http://en.wiktionary.org/wiki/counterintuitive> vcvf:triggers folk:Intuitive .
+<http://fr.wiktionary.org/wiki/counterintuitive> vcvf:triggers folk:Intuitive .
+<http://en.wiktionary.org/wiki/nonintuitive> vcvf:triggers folk:Intuitive .
+<http://en.wiktionary.org/wiki/intuitively> vcvf:triggers folk:Intuitive .
+<http://en.wiktionary.org/wiki/intuitiveness> vcvf:triggers folk:Intuitive .
+<http://en.wiktionary.org/wiki/intuitivism> vcvf:triggers folk:Intuitive .
+<http://en.wiktionary.org/wiki/unintuitive> vcvf:triggers folk:Intuitive .
+<http://fr.wiktionary.org/wiki/unintuitive> vcvf:triggers folk:Intuitive .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intuitive> vcvf:triggers folk:Intuitive .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/counterintuitive> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonintuitive> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intuitively> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intuitiveness> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intuitivism> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unintuitive> vcvf:triggers folk:Intuitive .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intuitives/n> vcvf:triggers folk:Intuitive .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Grasp frame
+
+<https://w3id.org/framester/data/framestercore/Grasp> vcvf:triggers folk:Intuitive .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-grasp> vcvf:triggers folk:Intuitive .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_comprehension_105805902> vcvf:triggers folk:Intuitive .
+<http://yago-knowledge.org/resource/wordnet_appreciation_105806623> vcvf:triggers folk:Intuitive .
+<http://yago-knowledge.org/resource/wordnet_understanding_105805475> vcvf:triggers folk:Intuitive .
+<http://yago-knowledge.org/resource/wordnet_knower_110240082> vcvf:triggers folk:Intuitive .
+<http://yago-knowledge.org/resource/wordnet_sense_105807012> vcvf:triggers folk:Intuitive .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-comprehension-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-interpret-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-solve-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-grok-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehensive-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-comprehensible-adjective-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-get-verb-11> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-intelligibly-adverb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-interpretation-noun-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-see-verb-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-appreciation-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehensible-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-penetrate-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-see-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-opaque-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-get-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-understanding-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-incomprehensible-adjective-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-interpretation-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-reader-noun-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-inexplicable-adjective-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/comprehend.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/eye.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/fathom.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/feel.02> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/get.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/grasp.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/know.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/mind.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/see.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/sight.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/pb/pbdata/understand.01> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-fathomable-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-10> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-catch-verb-18> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-opaquely-adverb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-interpretation-noun-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-lipread-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-skim-verb-7> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-anagram-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-answer-verb-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-knower-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-answer-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-catch-verb-21> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-dark-adjectivesatellite-8> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-guesser-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-acute-adjectivesatellite-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-anagram-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-reader-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-reread-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-literalize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-enigmatic-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-skimmer-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-educe-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-get-verb-21> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-make_out-verb-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-impenetrable-adjectivesatellite-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfathomable-adjectivesatellite-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-dip_into-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-feasible-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read_between_the_lines-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-solution-noun-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-spiritualize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-break-verb-50> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-misconstrue-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-catch-verb-28> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-figure-verb-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-mythicize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-break-verb-51> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-follow-verb-23> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-publication-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-problem_solver-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-take-verb-6> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-touch-verb-13> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-strike-verb-21> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-guess-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-catch_on-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecipherable-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-construal-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-digest-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-lost-adjectivesatellite-6> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-sense-noun-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-sense-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-allegorize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-intuit-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-see-verb-17> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-accessible-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-decipher-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinterpret-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-riddle-verb-6> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00021164n> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00104853a> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00090593v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00095044v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00110410a> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00005125n> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00084509v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00093435v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00084670v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00084665v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00093430v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00090850v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00088738v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00094863v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00084668v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00100161a> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00104854a> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00070499n> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00089871v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00005131n> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00116454r> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00082727v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00084681v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00086820v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00090838v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00095375v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00089841v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00088434v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00084674v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00082276v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00088161v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00093493v> vcvf:triggers folk:Intuitive .
+<http://babelnet.org/rdf/s00083821v> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-misread-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-misread-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-tell-verb-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-common_sense-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-answerable-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-misconstrual-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-intuitive-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-catch-verb-24> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-sensitive-adjective-2> vcvf:triggers folk:Intuitive .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Concessive.grasp> vcvf:triggers folk:Intuitive .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Category.grasp> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/framenet/abox/fe/Manner.grasp> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/framenet/abox/fe/Reference_point.grasp> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/framenet/abox/fe/Time.grasp> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/framenet/abox/fe/Completeness.grasp> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/framenet/abox/fe/Evidence.grasp> vcvf:triggers folk:Intuitive .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Grasp> vcvf:triggers folk:Intuitive .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Cognizer.grasp> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/framenet/abox/fe/Phenomenon.grasp> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/framenet/abox/fe/Faculty.grasp> vcvf:triggers folk:Intuitive .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/See_29020000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Construe_97010000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Read_14210000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Read_14100000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Read_84000000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Solve_84000000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Figure_out_84000000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Figure_out_84110000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Understand_87020000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Grasp_87020000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Comprehend_87020000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Apprehend_87020000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Understand_87020000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Read_14210000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Read_14100000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Catch_13050100> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Fathom_87021000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Follow_87021000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Lasso_22040000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Misinterpret_87021000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Misunderstand_87021000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Misconstrue_87021000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Misapprehend_87021000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Guess_84000000> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/vn/vn31/data/Take_29021000> vcvf:triggers folk:Intuitive .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-comprehension-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-interpret-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-solve-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-grok-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehensive-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-comprehensible-adjective-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-understand-verb-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-get-verb-11> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-intelligibly-adverb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-appreciation-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehensible-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-incomprehensible-adjective-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-opaque-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-penetrate-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-understanding-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-accessible-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-catch-verb-18> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-catch_on-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-dark-adjectivesatellite-8> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-digest-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-enigmatic-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-fathomable-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-figure-verb-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-follow-verb-23> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-impenetrable-adjectivesatellite-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecipherable-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-intuit-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-knower-noun-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-lasso-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-lost-adjectivesatellite-6> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-make_out-verb-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-opaquely-adverb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-10> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-recapture-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-sense-noun-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-sense-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-touch-verb-13> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfathomable-adjectivesatellite-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-lipread-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-skim-verb-7> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-anagram-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-decipher-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-dip_into-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-reread-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-answer-verb-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-answer-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-acute-adjectivesatellite-3> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-literalize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-educe-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-feasible-adjectivesatellite-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-read_between_the_lines-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-spiritualize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-misconstrue-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-mythicize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-break-verb-51> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-guess-verb-4> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-riddle-verb-6> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-strike-verb-21> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-take-verb-6> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-allegorize-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinterpret-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-get-verb-20> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-separate-adjective-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-misread-verb-1> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-misread-verb-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-tell-verb-5> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-intuitive-adjectivesatellite-2> vcvf:triggers folk:Intuitive .
+<https://w3id.org/framester/wn/wn30/instances/synset-sensitive-adjective-2> vcvf:triggers folk:Intuitive .

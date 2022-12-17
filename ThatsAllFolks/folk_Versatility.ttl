@@ -1,0 +1,327 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Versatility
+
+
+# versatile lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/versatile> vcvf:triggers folk:Versatility .
+<http://fr.wiktionary.org/wiki/versatile> vcvf:triggers folk:Versatility .
+<http://en.wiktionary.org/wiki/versatilely> vcvf:triggers folk:Versatility .
+<http://en.wiktionary.org/wiki/versatileness> vcvf:triggers folk:Versatility .
+<http://en.wiktionary.org/wiki/versatilist> vcvf:triggers folk:Versatility .
+<http://en.wiktionary.org/wiki/versatility> vcvf:triggers folk:Versatility .
+<http://fr.wiktionary.org/wiki/versatility> vcvf:triggers folk:Versatility .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/versatile> vcvf:triggers folk:Versatility .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/versatilely> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/versatileness> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/versatilist> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/versatility> vcvf:triggers folk:Versatility .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Adjusting frame
+
+
+<https://w3id.org/framester/data/framestercore/Adjusting> vcvf:triggers folk:Versatility .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-adjusting> vcvf:triggers folk:Versatility .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_pinch_100357275> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_adjustment_100999787> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_calibration_100999245> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_voicing_101001640> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_temperament_101000411> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_synchronization_101001097> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_alignment_101000068> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_graduation_106801965> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_tuning_100999588> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_graduate_103451473> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_collimation_101000276> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_tune-up_101000969> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_camber_101001344> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_equal_temperament_101000610> vcvf:triggers folk:Versatility .
+<http://yago-knowledge.org/resource/wordnet_toe-in_101001489> vcvf:triggers folk:Versatility .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-pinch-noun-6> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-complement-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-pluck-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-tune-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-calibrate-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjust-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-calibration-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjustment-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-justify-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-match-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/pb/pbdata/adapt.01> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/pb/pbdata/adjust.01> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/pb/pbdata/calibrate.01> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-misalignment-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-trim-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-zero-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-counteractive-adjectivesatellite-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-plumb-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-temper-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-modulate-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-proportion-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-pressurize-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-voicing-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-align-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-time-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-attune-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-harmonize-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-time-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-citify-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-complement-noun-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-temperament-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-synchronization-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-linearize-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-readjust-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-conciliator-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-alignment-noun-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-focus-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-graduation-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-verb-8> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-trim-verb-9> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tuning-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-graduate-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-zero-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-depressurize-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-match-noun-9> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-zero-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-balance-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-synchronize-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-proportion-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-regulate-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune-up-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-balance-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-reset-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-collimation-noun-1> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00078602n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00095230v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00035562n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00080199n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00082404v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00089219v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00090381v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00041262n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00093307v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00076453n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00077310n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00093520v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00094972v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00085463v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00090080v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00091597v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00090888v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00094865v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00095228v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00091998v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00001411n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00000004n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00077469n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00041255n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00091577v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00085461v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00093517v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00095877v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00094702v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00007146n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00075700n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00078593n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00020659n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00021581n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00031281n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00014973n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00095170v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00075698n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00093308v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00043027n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00082520v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00085889v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00092645v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00014732n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00082922v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00091769v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00095229v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00082357v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00066937n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00078591n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00084574v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00088214v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00095168v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00084454v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00092089v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00092436v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00055266n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00088403v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00085010v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00094971v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00062211n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00092176v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00062464n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00090887v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00002743n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00086402v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00091333v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00084378v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00046684n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00082026n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00063080n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00078293n> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00090813v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00085872v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00092881v> vcvf:triggers folk:Versatility .
+<http://babelnet.org/rdf/s00095876v> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-counteract-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-puncture-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-counterweight-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjustive-adjectivesatellite-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-regulator-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-zero-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-trim-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-focus-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-compensate-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-refocus-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-timer-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune_in-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-nothing-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-advance-verb-11> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-camber-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-scale_down-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-phase-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tuner-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-modulation-noun-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-corrective-adjectivesatellite-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-override-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-plumb_bob-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-service-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-equal_temperament-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-balance-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-synchroscope-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-regulative-adjectivesatellite-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-15> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-harmonizer-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-offset-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjustable-adjectivesatellite-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-carry-verb-24> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-reset-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-cancel-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-counterbalance-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-toe-in-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-misalign-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-scale_up-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-key-verb-5> vcvf:triggers folk:Versatility .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.adjusting> vcvf:triggers folk:Versatility .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Means.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Imposed_purpose.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Instrument.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Manner.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Place.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Final_value.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Time.adjusting> vcvf:triggers folk:Versatility .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Adjusting> vcvf:triggers folk:Versatility .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Agent.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Part.adjusting> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/framenet/abox/fe/Feature.adjusting> vcvf:triggers folk:Versatility .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Harmonize_45040000> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/vn/vn31/data/Harmonize_89000000> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/vn/vn31/data/Balance_45040000> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/vn/vn31/data/Balance_47060000> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/vn/vn31/data/Depressurize_45040000> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/vn/vn31/data/Neutralize_45040000> vcvf:triggers folk:Versatility .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-pinch-noun-6> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjust-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjustment-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-calibrate-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-calibration-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-complement-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-fine-tune-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-justify-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-match-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-plumb-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-temper-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-modulate-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-proportion-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-pressurize-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-voicing-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-align-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-time-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-attune-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-harmonize-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-time-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-citify-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-temperament-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-synchronization-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-linearize-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-readjust-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-alignment-noun-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-focus-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-graduation-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-verb-8> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-balance-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-trim-verb-9> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tuning-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-graduate-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-zero-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-depressurize-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-zero-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-synchronize-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-collimation-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-regulate-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune-up-noun-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-counteract-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-puncture-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjustive-adjectivesatellite-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-scale_down-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-scale_up-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-trim-verb-4> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-compensate-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-refocus-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-tune_in-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-adjustable-adjectivesatellite-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-advance-verb-11> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-cancel-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-carry-verb-24> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-corrective-adjectivesatellite-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-15> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-key-verb-5> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-misalign-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-offset-verb-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-override-verb-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-phase-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-reset-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-service-verb-2> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-camber-noun-3> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-equal_temperament-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-toe-in-noun-1> vcvf:triggers folk:Versatility .
+<https://w3id.org/framester/wn/wn30/instances/synset-regulative-adjectivesatellite-1> vcvf:triggers folk:Versatility .

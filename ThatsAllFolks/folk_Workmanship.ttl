@@ -1,0 +1,28 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Workmanship
+
+
+# diy lu
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/DIY> vcvf:triggers folk:Workmanship .
+<http://fr.wiktionary.org/wiki/DIY> vcvf:triggers folk:Workmanship .
+<http://en.wiktionary.org/wiki/DIYer> vcvf:triggers folk:Workmanship .
+# Framester frames	[]
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/diy> vcvf:triggers folk:Workmanship .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/diyer> vcvf:triggers folk:Workmanship .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/diy_ing/v> vcvf:triggers folk:Workmanship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/diyed/v> vcvf:triggers folk:Workmanship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/diying/v> vcvf:triggers folk:Workmanship .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/diys/v> vcvf:triggers folk:Workmanship .
+# hasSubEvent	[]
+# usedFor	[]

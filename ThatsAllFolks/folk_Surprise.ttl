@@ -1,0 +1,147 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Surprise
+
+
+# surprise
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/surprise> vcvf:triggers folk:Surprise .
+<http://fr.wiktionary.org/wiki/surprise> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/nonsurprise> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/October_surprise> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/surprisable> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/surprisal> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/surprisation> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/surprisement> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/surpriser> vcvf:triggers folk:Surprise .
+<http://en.wiktionary.org/wiki/unsurprise> vcvf:triggers folk:Surprise .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprise> vcvf:triggers folk:Surprise .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/seeing_new> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/opening_gift> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/seeing_exhibits> vcvf:triggers folk:Surprise .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonsurprise> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/october_surprise> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprisable> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprisal> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprisation> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprisement> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surpriser> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unsurprise> vcvf:triggers folk:Surprise .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/suprise/n> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/suprise/v> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surpris'd/v> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprised/v> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprises/n> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprising/v> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprize/n> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprize/v> vcvf:triggers folk:Surprise .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/give_gift> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/discovering_truth> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/enjoying_film> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/finding_truth> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/opening_gift> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/open_gift> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sit_quietly> vcvf:triggers folk:Surprise .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/buying_for_loved_one> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/buying_small> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/opening_gift> vcvf:triggers folk:Surprise .
+
+
+# JustFoundOut frame
+
+
+<https://w3id.org/framester/data/framestercore/JustFoundOutjust_found_out> vcvf:triggers folk:Surprise .
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-just_found_out> vcvf:triggers folk:Surprise .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_shock_107298982> vcvf:triggers folk:Surprise .
+<http://yago-knowledge.org/resource/wordnet_surprise_107298154> vcvf:triggers folk:Surprise .
+<http://yago-knowledge.org/resource/wordnet_stunner_107299439> vcvf:triggers folk:Surprise .
+<http://yago-knowledge.org/resource/wordnet_coup_de_theatre_107298543> vcvf:triggers folk:Surprise .
+<http://yago-knowledge.org/resource/wordnet_blip_107299203> vcvf:triggers folk:Surprise .
+<http://yago-knowledge.org/resource/wordnet_peripeteia_107298715> vcvf:triggers folk:Surprise .
+<http://yago-knowledge.org/resource/wordnet_bombshell_107298396> vcvf:triggers folk:Surprise .
+<http://yago-knowledge.org/resource/wordnet_eye_opener_107298624> vcvf:triggers folk:Surprise .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-dumbfounded-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-aghast-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-shock-noun-6> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-surprise-noun-2> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-amazed-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-startled-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-surprised-adjective-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-surprisedly-adverb-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-unsurprised-adjective-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-stunner-noun-2> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-coup_de_theatre-noun-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-blip-noun-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-peripeteia-noun-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-eye_opener-noun-2> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-gobsmacked-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-goggle-eyed-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-jiggered-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-bombshell-noun-2> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00107626a> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00061623n> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00023263n> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00111523a> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00117189r> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00011444n> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00074817n> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00011281n> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00032536n> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00011950n> vcvf:triggers folk:Surprise .
+<http://babelnet.org/rdf/s00075413n> vcvf:triggers folk:Surprise .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Reason.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Type.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.just_found_out> vcvf:triggers folk:Surprise .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Medium.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Degree.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Manner.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Time.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Parameter.just_found_out> vcvf:triggers folk:Surprise .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Just_found_out> vcvf:triggers folk:Surprise .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Empathy_target.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/State.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Stimulus.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Topic.just_found_out> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/framenet/abox/fe/Experiencer.just_found_out> vcvf:triggers folk:Surprise .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-aghast-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-shock-noun-6> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-surprise-noun-2> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-surprised-adjective-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-surprisedly-adverb-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-dumbfounded-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-amazed-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-startled-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-stunner-noun-2> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-coup_de_theatre-noun-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-blip-noun-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-peripeteia-noun-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-bombshell-noun-2> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-eye_opener-noun-2> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-gobsmacked-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-goggle-eyed-adjectivesatellite-1> vcvf:triggers folk:Surprise .
+<https://w3id.org/framester/wn/wn30/instances/synset-jiggered-adjectivesatellite-1> vcvf:triggers folk:Surprise .

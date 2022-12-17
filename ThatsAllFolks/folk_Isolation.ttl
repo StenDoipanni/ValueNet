@@ -1,0 +1,63 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Isolation
+
+
+# isolation lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/isolation> vcvf:triggers folk:Isolation .
+<http://fr.wiktionary.org/wiki/isolation> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/deisolation> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/immunoisolation> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/isolational> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/isolationary> vcvf:triggers folk:Isolation .
+<http://dbpedia.org/resource/Isolationism> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/isolationism> vcvf:triggers folk:Isolation .
+<http://wikidata.dbpedia.org/resource/Q309310> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/isolationist> vcvf:triggers folk:Isolation .
+<http://fr.wiktionary.org/wiki/isolationist> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/isolationistic> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/microisolation> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/optoisolation> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/postisolation> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/preisolation> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/reisolation> vcvf:triggers folk:Isolation .
+<http://dbpedia.org/resource/Island> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/Island> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/island> vcvf:triggers folk:Isolation .
+<http://fr.wiktionary.org/wiki/island> vcvf:triggers folk:Isolation .
+<http://umbel.org/umbel/sc/Island> vcvf:triggers folk:Isolation .
+<http://wikidata.dbpedia.org/resource/Q23442> vcvf:triggers folk:Isolation .
+<http://en.wiktionary.org/wiki/shower_curtain> vcvf:triggers folk:Isolation .
+<http://umbel.org/umbel/sc/ShowerCurtain> vcvf:triggers folk:Isolation .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isolation> vcvf:triggers folk:Isolation .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/stopping_being_married_to> vcvf:triggers folk:Isolation .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/deisolation> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/immunoisolation> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isolational> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isolationary> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isolationism> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isolationist> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isolationistic> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/microisolation> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/optoisolation> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/postisolation> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preisolation> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reisolation> vcvf:triggers folk:Isolation .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isolations/n> vcvf:triggers folk:Isolation .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/island> vcvf:triggers folk:Isolation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/shower_curtain> vcvf:triggers folk:Isolation .

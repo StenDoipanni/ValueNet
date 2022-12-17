@@ -1,0 +1,130 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Understanding
+
+
+# understand lu
+
+
+data
+0
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/understand> vcvf:triggers folk:Understanding .
+<http://fr.wiktionary.org/wiki/understand> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/misunderstand> vcvf:triggers folk:Understanding .
+<http://fr.wiktionary.org/wiki/misunderstand> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/overstand> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/reunderstand> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/understandability> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/understander> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/understandest> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/understandeth> vcvf:triggers folk:Understanding .
+<http://fr.wiktionary.org/wiki/understandeth> vcvf:triggers folk:Understanding .
+<http://en.wiktionary.org/wiki/listening> vcvf:triggers folk:Understanding .
+<http://fr.wiktionary.org/wiki/listening> vcvf:triggers folk:Understanding .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understand> vcvf:triggers folk:Understanding .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misunderstand> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overstand> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reunderstand> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understandability> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understander> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understandest> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understandeth> vcvf:triggers folk:Understanding .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understanded/v> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understandest/v> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understandeth/v> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understanding/v> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understands/v> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understood/v> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understoodest/v> vcvf:triggers folk:Understanding .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/listening> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/learn_about_subject> vcvf:triggers folk:Understanding .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/piece_of_information> vcvf:triggers folk:Understanding .
+
+
+
+# OthersSituationAsStimulus frame
+
+<https://w3id.org/framester/data/framestercore/OthersSituationAsStimulus> vcvf:triggers folk:Understanding .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_compassion_104829550> vcvf:triggers folk:Understanding .
+<http://yago-knowledge.org/resource/wordnet_sympathizer_110686073> vcvf:triggers folk:Understanding .
+<http://yago-knowledge.org/resource/wordnet_commiseration_107553964> vcvf:triggers folk:Understanding .
+<http://yago-knowledge.org/resource/wordnet_compassion_107553741> vcvf:triggers folk:Understanding .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathize-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehensible-adjectivesatellite-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-feel-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathize-verb-2> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-feel_for-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-commiserate-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-compassion-noun-2> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-condole-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-compassion-noun-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-care-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-commiseration-noun-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathizer-noun-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathizer-noun-2> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-commiserative-adjectivesatellite-1> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00084524v> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00085458v> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00087864v> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00021008n> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00021318n> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00087571v> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00094700v> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00021319n> vcvf:triggers folk:Understanding .
+<http://babelnet.org/rdf/s00075668n> vcvf:triggers folk:Understanding .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/framenet/abox/fe/Reason.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/framenet/abox/fe/Parameter.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/framenet/abox/fe/Time.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/framenet/abox/fe/Manner.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Experiencer.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/framenet/abox/fe/Other.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/framenet/abox/fe/Situation.others_situation_as_stimulus> vcvf:triggers folk:Understanding .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Pity_31021000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Understand_77000000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Sympathize_88020000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Empathize_88020000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Sympathize_88020000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Commiserate_88020000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Commiserate_36010000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Care_88010000> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/vn/vn31/data/Care_31038000> vcvf:triggers folk:Understanding .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-compassion-noun-2> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-feel_for-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathize-verb-2> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathize-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-apprehensible-adjectivesatellite-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-commiserate-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathizer-noun-2> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-condole-verb-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-commiseration-noun-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-commiserative-adjectivesatellite-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-compassion-noun-1> vcvf:triggers folk:Understanding .
+<https://w3id.org/framester/wn/wn30/instances/synset-care-verb-1> vcvf:triggers folk:Understanding .

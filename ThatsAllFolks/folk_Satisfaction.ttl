@@ -1,0 +1,121 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Satisfaction
+
+
+# satisfy lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/satisfy> vcvf:triggers folk:Satisfaction .
+<http://fr.wiktionary.org/wiki/satisfy> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/dissatisfy> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/satisfiability> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/satisfiable> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/resatisfy> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/satisfice> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/satisfier> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/satisfiest> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/satisfieth> vcvf:triggers folk:Satisfaction .
+<http://en.wiktionary.org/wiki/unsatisfy> vcvf:triggers folk:Satisfaction .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfy> vcvf:triggers folk:Satisfaction .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dissatisfy> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfiability> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfiable> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resatisfy> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfice> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfier> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfiest> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfieth> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unsatisfy> vcvf:triggers folk:Satisfaction .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfied/v> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfies/v> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfiest/v> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfieth/v> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/satisfying/v> vcvf:triggers folk:Satisfaction .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# Satisfying frame
+
+<https://w3id.org/framester/data/framestercore/Satisfying> vcvf:triggers folk:Satisfaction .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-satisfying> vcvf:triggers folk:Satisfaction .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_satisfier_109424489> vcvf:triggers folk:Satisfaction .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-suffice-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-sufficient-adjective-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualify-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfy-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-preliminary-noun-2> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-serve-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_a_long_way-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-4> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_around-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-quality-noun-2> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfier-noun-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualification-noun-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-quality-noun-5> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjectivesatellite-2> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualifier-noun-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-tide_over-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-function-noun-2> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00110115a> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00059924n> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00069331n> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00082295v> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00091960v> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00088023v> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00085905v> vcvf:triggers folk:Satisfaction .
+<http://babelnet.org/rdf/s00088614v> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjective-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-act_as-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-prelude-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-fall_short_of-verb-1> vcvf:triggers folk:Satisfaction .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Means.satisfying> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/framenet/abox/fe/Time.satisfying> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/framenet/abox/fe/Manner.satisfying> vcvf:triggers folk:Satisfaction .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Satisfying> vcvf:triggers folk:Satisfaction .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Agent.satisfying> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/framenet/abox/fe/Entity.satisfying> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/framenet/abox/fe/Event.satisfying> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/framenet/abox/fe/Standard.satisfying> vcvf:triggers folk:Satisfaction .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Qualify_29062000> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/vn/vn31/data/Serve_29060000> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/vn/vn31/data/Function_29062000> vcvf:triggers folk:Satisfaction .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-sufficient-adjective-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-suffice-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfy-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualify-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjectivesatellite-2> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-serve-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_a_long_way-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-4> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_around-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-tide_over-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfier-noun-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-act_as-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-prelude-verb-1> vcvf:triggers folk:Satisfaction .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjective-1> vcvf:triggers folk:Satisfaction .

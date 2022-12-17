@@ -1,0 +1,65 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Logic
+
+
+# logic lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Logic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/-logic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logic> vcvf:triggers folk:Logic .
+<http://fr.wiktionary.org/wiki/logic> vcvf:triggers folk:Logic .
+<http://umbel.org/umbel/sc/Logic> vcvf:triggers folk:Logic .
+<http://wikidata.dbpedia.org/resource/Q8078> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/-logical> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logical> vcvf:triggers folk:Logic .
+<http://fr.wiktionary.org/wiki/-logical> vcvf:triggers folk:Logic .
+<http://fr.wiktionary.org/wiki/logical> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/antilogic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/choplogic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logicism> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logicist> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logicize> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logicker> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logicking> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/logicless> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/magnetologic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/metalogic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/nonlogic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/pseudologic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/sublogic> vcvf:triggers folk:Logic .
+<http://en.wiktionary.org/wiki/unlogic> vcvf:triggers folk:Logic .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logic> vcvf:triggers folk:Logic .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logical> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antilogic> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/choplogic> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicism> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicist> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicize> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicker> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicking> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicless> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/magnetologic> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/metalogic> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonlogic> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/pseudologic> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sublogic> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unlogic> vcvf:triggers folk:Logic .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicked/v> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logicking/v> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logics/n> vcvf:triggers folk:Logic .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/logics/v> vcvf:triggers folk:Logic .
+# hasSubEvent	[]
+# usedFor	[]

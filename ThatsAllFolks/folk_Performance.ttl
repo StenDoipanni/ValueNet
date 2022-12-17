@@ -1,0 +1,69 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Performance
+
+
+# performance lu
+
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Performance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/performance> vcvf:triggers folk:Performance .
+<http://fr.wiktionary.org/wiki/performance> vcvf:triggers folk:Performance .
+<http://wikidata.dbpedia.org/resource/Q35140> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/antiperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/autoperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/cyberformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/cyberperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/midperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/misperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/multiperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/nonperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/outperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/overperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/performancewear> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/postperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/preperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/reperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/ultraperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/underperformance> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/stage> vcvf:triggers folk:Performance .
+<http://fr.wiktionary.org/wiki/stage> vcvf:triggers folk:Performance .
+<http://umbel.org/umbel/sc/StageForPerformances> vcvf:triggers folk:Performance .
+<http://wordnet-rdf.princeton.edu/wn31/dancing+on+someone's+grave-p#Component-1> vcvf:triggers folk:Performance .
+<http://en.wiktionary.org/wiki/dancing> vcvf:triggers folk:Performance .
+<http://fr.wiktionary.org/wiki/dancing> vcvf:triggers folk:Performance .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/performance> vcvf:triggers folk:Performance .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_on_stage> vcvf:triggers folk:Performance .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antiperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/autoperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cyberformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cyberperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/midperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multiperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/outperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/performancewear> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/postperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ultraperformance> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/underperformance> vcvf:triggers folk:Performance .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/performances/n> vcvf:triggers folk:Performance .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/stage> vcvf:triggers folk:Performance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dancing> vcvf:triggers folk:Performance .

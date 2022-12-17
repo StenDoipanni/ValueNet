@@ -1,0 +1,72 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Humour
+
+
+# humour lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/humor> vcvf:triggers folk:Humor .
+<http://fr.wiktionary.org/wiki/humor> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/dishumor> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/humorful> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/humorise> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/humorism> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/humorist> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/humorize> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/humorless> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/humorsome> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/neurohumor> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/outhumor> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/surprising> vcvf:triggers folk:Humor .
+<http://fr.wiktionary.org/wiki/surprising> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/celebrating> vcvf:triggers folk:Humor .
+<http://fr.wiktionary.org/wiki/celebrating> vcvf:triggers folk:Humor .
+<http://umbel.org/umbel/sc/Celebration> vcvf:triggers folk:Humor .
+<http://dbpedia.org/resource/Writing> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/writing> vcvf:triggers folk:Humor .
+<http://fr.wiktionary.org/wiki/writing> vcvf:triggers folk:Humor .
+<http://umbel.org/umbel/sc/Writing> vcvf:triggers folk:Humor .
+<http://wikidata.dbpedia.org/resource/Q37260> vcvf:triggers folk:Humor .
+<http://dbpedia.org/resource/Harmonica> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/harmonica> vcvf:triggers folk:Humor .
+<http://fr.wiktionary.org/wiki/harmonica> vcvf:triggers folk:Humor .
+<http://umbel.org/umbel/sc/Harmonica> vcvf:triggers folk:Humor .
+<http://wikidata.dbpedia.org/resource/Q51290> vcvf:triggers folk:Humor .
+<http://en.wiktionary.org/wiki/tickling> vcvf:triggers folk:Humor .
+<http://fr.wiktionary.org/wiki/tickling> vcvf:triggers folk:Humor .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humor> vcvf:triggers folk:Humor .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surprising> vcvf:triggers folk:Humor .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dishumor> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humorful> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humorise> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humorism> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humorist> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humorize> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humorless> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humorsome> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/neurohumor> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/outhumor> vcvf:triggers folk:Humor .
+# formsOf	
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humored/v> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humoring/v> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humors/n> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/humors/v> vcvf:triggers folk:Humor .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/celebrating> vcvf:triggers folk:Humor .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/writing> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/harmonica> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/tickling> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/expressing_how_funny> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/howling_with_laughter> vcvf:triggers folk:Humor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/laughing_at_joke> vcvf:triggers folk:Humor .

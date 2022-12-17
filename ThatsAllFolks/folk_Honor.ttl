@@ -1,0 +1,56 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Honor
+
+
+# honor lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/honor> vcvf:triggers folk:Honor .
+<http://fr.wiktionary.org/wiki/honor> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/honorability> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/honorary> vcvf:triggers folk:Honor .
+<http://fr.wiktionary.org/wiki/honorary> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/honoree> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/honorer> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/honorless> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/rehonor> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/unhonor> vcvf:triggers folk:Honor .
+<http://dbpedia.org/resource/The_Prince> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/Prince> vcvf:triggers folk:Honor .
+<http://en.wiktionary.org/wiki/prince> vcvf:triggers folk:Honor .
+<http://fr.wiktionary.org/wiki/Prince> vcvf:triggers folk:Honor .
+<http://fr.wiktionary.org/wiki/prince> vcvf:triggers folk:Honor .
+<http://umbel.org/umbel/sc/Prince> vcvf:triggers folk:Honor .
+<http://wikidata.dbpedia.org/resource/Q131719> vcvf:triggers folk:Honor .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honor> vcvf:triggers folk:Honor .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honorability> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honorary> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honoree> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honorer> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honorless> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rehonor> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unhonor> vcvf:triggers folk:Honor .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honor'd/v> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honored/v> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honoredst/v> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honorest/v> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honoreth/v> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honoring/v> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honors/n> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/honors/v> vcvf:triggers folk:Honor .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prince> vcvf:triggers folk:Honor .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/competing_against> vcvf:triggers folk:Honor .

@@ -1,0 +1,32 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Solitude
+
+
+# solitude lu
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Solitude> vcvf:triggers folk:Solitude .
+<http://en.wiktionary.org/wiki/solitude> vcvf:triggers folk:Solitude .
+<http://fr.wiktionary.org/wiki/solitude> vcvf:triggers folk:Solitude .
+<http://wikidata.dbpedia.org/resource/Q275473> vcvf:triggers folk:Solitude .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/StateOfEntity> vcvf:triggers folk:Solitude .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/solitude> vcvf:triggers folk:Solitude .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sitting_quietly> vcvf:triggers folk:Solitude .
+# derivedFrom	[]
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/solitudes/n> vcvf:triggers folk:Solitude .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_for_drive> vcvf:triggers folk:Solitude .
+
+
+# loneliness lu

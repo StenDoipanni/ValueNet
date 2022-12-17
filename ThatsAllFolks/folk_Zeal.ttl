@@ -1,0 +1,32 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Zeal
+
+
+# zeal lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/zeal> vcvf:triggers folk:Zeal .
+<http://fr.wiktionary.org/wiki/zeal> vcvf:triggers folk:Zeal .
+<http://en.wiktionary.org/wiki/overzeal> vcvf:triggers folk:Zeal .
+<http://en.wiktionary.org/wiki/zealed> vcvf:triggers folk:Zeal .
+<http://en.wiktionary.org/wiki/zealful> vcvf:triggers folk:Zeal .
+<http://en.wiktionary.org/wiki/zealless> vcvf:triggers folk:Zeal .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/zeal> vcvf:triggers folk:Zeal .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overzeal> vcvf:triggers folk:Zeal .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/zealed> vcvf:triggers folk:Zeal .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/zealful> vcvf:triggers folk:Zeal .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/zealless> vcvf:triggers folk:Zeal .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/zeals/n> vcvf:triggers folk:Zeal .
+# hasSubEvent	[]
+# usedFor	[]

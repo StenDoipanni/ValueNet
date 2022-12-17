@@ -1,0 +1,134 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Perseverance
+
+
+# perseverance lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/perseverance> vcvf:triggers folk:Perseverance .
+<http://fr.wiktionary.org/wiki/perseverance> vcvf:triggers folk:Perseverance .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/perseverance> vcvf:triggers folk:Perseverance .
+# causes	[]
+# derivedFrom	[]
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/perserverance/n> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/perseverances/n> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/perseverence/n> vcvf:triggers folk:Perseverance .
+# hasSubEvent	[]
+# usedFor	[]
+
+# CauseToContinue frame
+
+
+<https://w3id.org/framester/data/framestercore/CauseToContinue> vcvf:triggers folk:Perseverance .
+
+
+
+data
+0
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-cause_to_continue> vcvf:triggers folk:Perseverance .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_upholder_110740219> vcvf:triggers folk:Perseverance .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-resume-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-comply-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-continue-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-keep-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-prolong-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-continue-verb-3> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-retain-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/pb/pbdata/keep.01> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/pb/pbdata/keep.02> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/pb/pbdata/keep.04> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-hangover-noun-3> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-preservation-noun-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-pressurize-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-lengthiness-noun-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-preserve-verb-6> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-perpetuate-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-upholder-noun-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-continue-verb-6> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-distance-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-mummify-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-persevere-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-housekeep-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-mummification-noun-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-hold_over-verb-3> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-conserve-verb-1> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00088435v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00091122v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00087744v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00045038n> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00091761v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00089414v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00042867n> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00089491v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00085643v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00089384v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00052866n> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00091984v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00087046v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00091997v> vcvf:triggers folk:Perseverance .
+<http://babelnet.org/rdf/s00082825v> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-sustainable-adjective-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-housekeeper-noun-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-obstinate-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-stick_to-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-maintainable-adjectivesatellite-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-ask_for_it-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-eternize-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-persistent-adjectivesatellite-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-plug-verb-2> vcvf:triggers folk:Perseverance .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Purpose.cause_to_continue> vcvf:triggers folk:Perseverance .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Duration.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/Manner.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/Place.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/Time.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/Instrument.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/Means.cause_to_continue> vcvf:triggers folk:Perseverance .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Cause_to_continue> vcvf:triggers folk:Perseverance .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Agent.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/Cause.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/Process.cause_to_continue> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/framenet/abox/fe/State.cause_to_continue> vcvf:triggers folk:Perseverance .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Resume_55011000> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/vn/vn31/data/Keep_up_55060000> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/vn/vn31/data/Prolong_55060000> vcvf:triggers folk:Perseverance .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-keep-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-resume-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-continue-verb-3> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-prolong-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-retain-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-upholder-noun-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-pressurize-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-preserve-verb-6> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-perpetuate-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-distance-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-conserve-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-hold_over-verb-3> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-housekeep-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-mummify-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-persevere-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-continual-adjective-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-ask_for_it-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-eternize-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-maintainable-adjectivesatellite-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-obstinate-verb-1> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-plug-verb-2> vcvf:triggers folk:Perseverance .
+<https://w3id.org/framester/wn/wn30/instances/synset-stick_to-verb-2> vcvf:triggers folk:Perseverance .

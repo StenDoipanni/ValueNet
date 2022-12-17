@@ -1,0 +1,63 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Improvement
+
+
+# improvement lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/improve> vcvf:triggers folk:Improvement .
+<http://fr.wiktionary.org/wiki/improve> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/improvement> vcvf:triggers folk:Improvement .
+<http://fr.wiktionary.org/wiki/improvement> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/disimprove> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/improvability> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/improver> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/improvest> vcvf:triggers folk:Improvement .
+<http://fr.wiktionary.org/wiki/improvest> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/improveth> vcvf:triggers folk:Improvement .
+<http://fr.wiktionary.org/wiki/improveth> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/misimprove> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/exercising> vcvf:triggers folk:Improvement .
+<http://fr.wiktionary.org/wiki/exercising> vcvf:triggers folk:Improvement .
+<http://en.wiktionary.org/wiki/practice> vcvf:triggers folk:Improvement .
+<http://fr.wiktionary.org/wiki/practice> vcvf:triggers folk:Improvement .
+<http://umbel.org/umbel/ac/DevisedPracticeOrWork> vcvf:triggers folk:Improvement .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/CauseChange> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/CauseToMakeProgress> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/PartWhole> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/People> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/Progress> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/RequiredEvent> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/UndergoChange> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/CommutativeProcess> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/data/framestercore/Differentiation> vcvf:triggers folk:Improvement .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improve> vcvf:triggers folk:Improvement .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/exercising> vcvf:triggers folk:Improvement .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvement> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/disimprove> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvability> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improver> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvest> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improveth> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misimprove> vcvf:triggers folk:Improvement .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improved/v> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improven/v> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improves/v> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvest/v> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improveth/v> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improving/v> vcvf:triggers folk:Improvement .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/practice> vcvf:triggers folk:Improvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/examining_thing> vcvf:triggers folk:Improvement .
+# usedFor	[]

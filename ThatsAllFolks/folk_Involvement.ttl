@@ -1,0 +1,28 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Involvement
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/involvement> vcvf:triggers folk:Involvement .
+<http://fr.wiktionary.org/wiki/involvement> vcvf:triggers folk:Involvement .
+<http://en.wiktionary.org/wiki/noninvolvement> vcvf:triggers folk:Involvement .
+<http://en.wiktionary.org/wiki/overinvolvement> vcvf:triggers folk:Involvement .
+<http://en.wiktionary.org/wiki/reinvolvement> vcvf:triggers folk:Involvement .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/involvement> vcvf:triggers folk:Involvement .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/noninvolvement> vcvf:triggers folk:Involvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overinvolvement> vcvf:triggers folk:Involvement .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reinvolvement> vcvf:triggers folk:Involvement .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/involvements/n> vcvf:triggers folk:Involvement .
+# hasSubEvent	[]
+# usedFor	[]

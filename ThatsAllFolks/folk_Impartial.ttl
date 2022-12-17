@@ -1,0 +1,701 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Impartial
+
+
+# impartial lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/impartial> vcvf:triggers folk:Impartial .
+<http://fr.wiktionary.org/wiki/impartial> vcvf:triggers folk:Impartial .
+<http://en.wiktionary.org/wiki/impartialist> vcvf:triggers folk:Impartial .
+<http://en.wiktionary.org/wiki/impartially> vcvf:triggers folk:Impartial .
+<http://en.wiktionary.org/wiki/impartialness> vcvf:triggers folk:Impartial .
+<http://en.wiktionary.org/wiki/nonimpartial> vcvf:triggers folk:Impartial .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Partiality> vcvf:triggers folk:Impartial .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/impartial> vcvf:triggers folk:Impartial .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/impartialist> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/impartially> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/impartialness> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonimpartial> vcvf:triggers folk:Impartial .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# folk:Impartial owl:sameAs mft:Fairness
+
+
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/frame/Partiality> vcvf:triggers folk:Impartial .
+# lexical units
+# Fairness_evaluation lu
+<https://w3id.org/framester/framenet/abox/lu/fair.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/inequitable.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/unjust.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/unfair.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/unfairly.adv> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/fairly.adv> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/unjustly.adv> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/fair.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/inequitable.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/unjust.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/unfair.adj> vcvf:triggers folk:Impartial .
+
+# Inclination lu
+<https://w3id.org/framester/framenet/abox/lu/propensity.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/predisposition.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/sense.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/tendency.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/prone.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/inclined.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/penchant.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/predisposed.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/proclivity.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/prone.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/inclined.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/of_a_mind.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/predisposed.adj> vcvf:triggers folk:Impartial .
+# Partiality lu
+<https://w3id.org/framester/framenet/abox/lu/favor.v> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/impartiality.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/prejudge.v> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/prejudiced.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/bias.v> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/biased.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/impartial.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/prefer.v> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/partial.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/prejudice.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/neutral.a> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/neutrality.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/partiality.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/bias.n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/biased.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/impartial.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/neutral.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/partial.adj> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/lu/prejudiced.adj> vcvf:triggers folk:Impartial .
+# framester frames
+
+<https://w3id.org/framester/data/framestercore/Partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestercore/Inclination> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestercore/FairnessEvaluation> vcvf:triggers folk:Impartial .
+
+# core fe
+<https://w3id.org/framester/framenet/abox/fe/Action.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Affected_party.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Actor.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Grounds.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Decision_maker.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Side_2.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Side_1.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Sides.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Dispute.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Manifestation_of_bias.partiality> vcvf:triggers folk:Impartial .
+# etfe
+<https://w3id.org/framester/framenet/abox/fe/Explanation.partiality> vcvf:triggers folk:Impartial .
+# perife
+<https://w3id.org/framester/framenet/abox/fe/Degree.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Manner.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Parameter.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Degree.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Manner.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Domain.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Time.partiality> vcvf:triggers folk:Impartial .
+
+# wnsyn
+
+# wnsyn for Partiality frame
+<https://w3id.org/framester/wn/wn30/instances/synset-partial-adjective-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-biased-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-choose-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartial-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartiality-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartially-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-neutral-adjectivesatellite-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-neutrality-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-partiality-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prefer-verb-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudge-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudiced-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-optative-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudicial-adjective-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-taboo-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-irrational_hostility-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-sectionalism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudice-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tendentiousness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fairness-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anthropocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-opt_out-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predilection-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disinterested-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudice-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-racism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disinterestedness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Eurocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-experimenter_bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-advantage-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Islamophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-handicap-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-indifferent-adjectivesatellite-7> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-indifferent-adjectivesatellite-8> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfairness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-dispassionate-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-favor-noun-4> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-homophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethnocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tilt-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-subjective-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Eurocentric-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anti-Semitism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_supremacy-noun-1> vcvf:triggers folk:Impartial .
+# wnsyn for Inclination frame
+<https://w3id.org/framester/wn/wn30/instances/synset-inclination-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartiality-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-partiality-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-proclivity-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-inclined-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tend-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prone-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predisposition-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-preference-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predisposed-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bent-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Call-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathy-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predispose-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-denominationalism-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-taboo-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-accident-prone-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-irrational_hostility-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-sectionalism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-direction-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakness-noun-5> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tendentiousness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fairness-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anthropocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fond-adjectivesatellite-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-acquired_taste-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-apt-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-devices-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disfavor-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-dispose-verb-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-drift-noun-5> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-favor-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-favoritism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-literalism-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-perseveration-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predilection-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-racism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disinterestedness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Eurocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-experimenter_bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Islamophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfairness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-homophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethnocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tilt-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-evolutionary_trend-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-doghouse-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anti-Semitism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_supremacy-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-gravitation-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-neoteny-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-reprobation-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tenor-noun-4> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-call-verb-24> vcvf:triggers folk:Impartial .
+# wnsyn for FairnessEvaluation frame
+<https://w3id.org/framester/wn/wn30/instances/synset-fair-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fairly-adverb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fairly-adverb-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-inequitable-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-reasonably-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfair-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfairly-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unjustly-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-antimonopoly-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-below_the_belt-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-cheating-adjectivesatellite-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean-adjectivesatellite-13> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fair-and-square-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fair-minded-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-inequitably-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-raw-adjectivesatellite-6> vcvf:triggers folk:Impartial .
+
+# wnsyn for BeInAgreementOnAction frame (manually filtered)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bargain-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-treaty-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-covenant-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-labor_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-policy-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-submission-noun-6> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-obligation-noun-5> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-settlement-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-purchase_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-written_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-partnership-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-quasi_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-subcontract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-alliance-noun-4> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-dicker-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-entente-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fair-trade_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-gentlemen_s_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-indenture-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-oral_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-peace-noun-5> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-reservation-noun-5> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-severance_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-working_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-distribution_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-merger_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-adhesion_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-aleatory_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-articles_of_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bilateral_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-conditional_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-cost-plus_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-employment_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-licensing_agreement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-output_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-service_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-severable_contract-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-accord_and_satisfaction-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-compromise-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-conclusion-noun-7> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-conditional_sale-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-covenant-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-escrow-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-property_settlement-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-sheriff_s_sale-noun-1> vcvf:triggers folk:Impartial .
+
+# wnsyn for BeInAgreementOnAssessment frame (manually filtered)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-agree-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-agreement-noun-6> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-see_eye_to_eye-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-accord-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-agree-verb-7> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-harmony-noun-4> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-agreeable-adjectivesatellite-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-conciliatory-adjective-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prorate-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-square-verb-6> vcvf:triggers folk:Impartial .
+
+
+# wnsyn for Regard frame (manually filtered, in common with cmm:Dove)
+
+<https://w3id.org/framester/wn/wn30/instances/synset-respect-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-reverence-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-esteem-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impression-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-respect-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-worship-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-honor-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-enshrine-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-think_the_world_of-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-grateful-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-about-face-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-apotheosize-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-deify-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-ennoble-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-romanticize-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-worthy-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-receptive-adjective-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-receptive-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-appreciative-adjectivesatellite-2> vcvf:triggers folk:Impartial .
+
+
+# framestersyn for Regard frame (manually filtered, in common with cmm:Dove)
+
+
+<https://w3id.org/framester/data/framestersyn/Respect.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Reverence.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Esteem.n.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Impression.n.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Respect.v.2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Worship.v.2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Honor.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Enshrine.v.2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Think_the_world_of.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Grateful.a.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/About-face.v.2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Apotheosize.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Deify.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Ennoble.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Romanticize.v.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Worthy.a.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Receptive.a.2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Receptive.as.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Abstractive.as.1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/data/framestersyn/Appreciative.as.2> vcvf:triggers folk:Impartial .
+
+
+
+
+### generic roles
+# "fairness" keyword
+<https://w3id.org/framester/framenet/abox/fe/Action.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Affected_party.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Actor.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Degree.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Grounds.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Manner.fairness_evaluation> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Parameter.fairness_evaluation> vcvf:triggers folk:Impartial .
+# "equal" keyword
+<https://w3id.org/framester/vn/vn31/data/Instrument.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/During_Event.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Prop.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Patient.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Agent.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Endstate.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Result_Event.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Event.equalize_45040000> vcvf:triggers folk:Impartial .
+# "partial" keyword
+<https://w3id.org/framester/framenet/abox/fe/Decision_maker.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Degree.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Manner.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Side_2.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Domain.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Judge.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Side_1.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Sides.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Time.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Dispute.partiality> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/framenet/abox/fe/Manifestation_of_bias.partiality> vcvf:triggers folk:Impartial .
+### specific roles
+# "equal" keyword
+<https://w3id.org/framester/vn/vn31/data/Pred.Pred.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Patient.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Pred.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Result_Event.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Property.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Prop.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Property.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Patient.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Adv.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Prop.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Use.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Instrument.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Use.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/During_Event.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Use.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Agent.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Cause.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Agent.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.Cause.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Event.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.State.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Patient.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.State.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Endstate.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Pred.State.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/vn/vn31/data/Result_Event.equalize_45040000> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/equal.01> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/equal.01__0> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/equal.01> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/equal.01__1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/equal.01> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/equal.01__2> vcvf:triggers folk:Impartial .
+# Fairness_evaluation closeMatch
+<https://w3id.org/framester/wn/wn30/instances/synset-fairly-adverb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fairly-adverb-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfair-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfairly-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fair-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-reasonably-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unjustly-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-inequitable-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-equitable-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-rightly-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-below_the_belt-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-inequitably-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-cheating-adjectivesatellite-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-raw-adjectivesatellite-6> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00115916r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00102719a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00115250r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00105016a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00117466r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00116059r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00102356a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00114735r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00112727a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00115747r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00112916a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00115313r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00114529r> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unjust-adjective-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unreasonably-adverb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fair-adjectivesatellite-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-pretty-adverb-1> vcvf:triggers folk:Impartial .
+
+
+# Inclination closeMatch
+<https://w3id.org/framester/wn/wn30/instances/synset-inclination-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-choose-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-proclivity-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-inclined-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tend-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartiality-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prone-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-partiality-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predisposition-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-preference-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predisposed-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/incline.01> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Call-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bent-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-sympathy-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predispose-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-denominationalism-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-taboo-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-accident-prone-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-drift-verb-9> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-irrational_hostility-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-sectionalism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-specify-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-direction-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakness-noun-5> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tendentiousness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fairness-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anthropocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fond-adjectivesatellite-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-apt-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-devices-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predilection-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-favoritism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-perseveration-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-determine-verb-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudice-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-racism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-acquired_taste-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-dispose-verb-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudice-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Eurocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disinterestedness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-experimenter_bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Islamophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disfavor-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-drift-noun-5> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-literalism-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfairness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-homophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethnocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-favor-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tilt-noun-3> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00004612n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00086714v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00033834n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00067212n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00075669n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00026722n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00101524a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00076535n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00050426n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00026248n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00057277n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00081098n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00087017v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00009963n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00027433n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00084405v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00027354n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00027686n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00061703n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00041493n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00061333n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00028723n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00080744n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00050427n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00091943v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00032061n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00051528n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00059510n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00033841n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00028082n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00064117n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00104822a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00000999n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00014792n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-evolutionary_trend-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-doghouse-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Eurocentric-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anti-Semitism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-neoteny-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_supremacy-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-leaning-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-gravitation-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-reprobation-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tenor-noun-4> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-call-verb-24> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disinclined-adjective-1> vcvf:triggers folk:Impartial .
+# Partiality closeMatch
+<https://w3id.org/framester/wn/wn30/instances/synset-partial-adjective-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-choose-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartial-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartially-adverb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudge-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-biased-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-impartiality-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prefer-verb-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-partiality-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-neutrality-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-neutral-adjectivesatellite-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudiced-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unprejudiced-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/favor.01> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/prefer.01> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/pb/pbdata/bias.01> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-advantage-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-optative-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudicial-adjective-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-taboo-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-irrational_hostility-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-sectionalism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tendentiousness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-fairness-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anthropocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-bias-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-opt_out-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-predilection-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disinterested-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudice-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-racism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-prejudice-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Eurocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-disinterestedness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-experimenter_bias-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Islamophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-advantage-verb-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-handicap-verb-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-indifferent-adjectivesatellite-7> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-indifferent-adjectivesatellite-8> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfairness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-dispassionate-adjectivesatellite-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-homophobia-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethnocentrism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-favor-noun-4> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-tilt-noun-3> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00004612n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00031890n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00046077n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00065836n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00042812n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00001559n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00115753r> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00083467v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00091957v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00075835n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00076497n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00088060v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00089171v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00104629a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00060796n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00108947a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00108291a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00081098n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00033835n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00051757n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00010210n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00031728n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00057443n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00047539n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00077250n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00083468v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00091958v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00079055n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00027607n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00032321n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00004576n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00015226n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00102439a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00107934a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00082406v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00047611n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00059510n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00085798v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00057444n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00084932v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00104628a> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00044601n> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00091959v> vcvf:triggers folk:Impartial .
+<http://babelnet.org/rdf/s00001561n> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-neutrality-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-Eurocentric-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-anti-Semitism-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-white_supremacy-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-odds-maker-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-advantage-noun-3> vcvf:triggers folk:Impartial .
+# manually added
+<https://w3id.org/framester/wn/wn30/instances/synset-injustice-noun-1> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Social_justice> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/social_justice> vcvf:triggers folk:Impartial .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-honesty-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-correctness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-truthfulness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-incorruptibility-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-incorruptness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-integrity-noun-2> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-lawfulness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-justness-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-innocent-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-motion-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-equity-noun-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-democratic-adjective-1> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-refuge-noun-3> vcvf:triggers folk:Impartial .
+<https://w3id.org/framester/wn/wn30/instances/synset-feminist%20movement-noun-1> vcvf:triggers folk:Impartial .
+
+
+
+# dbpedia
+
+
+
+<http://dbpedia.org/resource/Gender_equality> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Justice> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Social_equality> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Social_justice> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Equality_before_the_law> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Political_freedom> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Human_rights> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/LGBT_social_movements> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Women's_rights> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Social_movement> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Egalitarianism> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Equal_opportunity> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Feminism> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Human_rights_education> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Rights> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Democracy> vcvf:triggers folk:Impartial .
+<http://dbpedia.org/resource/Right_of_asylum> vcvf:triggers folk:Impartial .

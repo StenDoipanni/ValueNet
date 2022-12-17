@@ -1,0 +1,99 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Maturity
+
+
+# maturity lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/maturity> vcvf:triggers folk:Maturity .
+<http://fr.wiktionary.org/wiki/maturity> vcvf:triggers folk:Maturity .
+<http://en.wiktionary.org/wiki/dysmaturity> vcvf:triggers folk:Maturity .
+<http://en.wiktionary.org/wiki/nonmaturity> vcvf:triggers folk:Maturity .
+<http://en.wiktionary.org/wiki/overmaturity> vcvf:triggers folk:Maturity .
+<http://en.wiktionary.org/wiki/postmaturity> vcvf:triggers folk:Maturity .
+"
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/maturity> vcvf:triggers folk:Maturity .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/dysmaturity> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonmaturity> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overmaturity> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/postmaturity> vcvf:triggers folk:Maturity .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/maturities/n> vcvf:triggers folk:Maturity .
+# hasSubEvent	[]
+# usedFor	[]
+
+# BondMaturation frame (it is not related to human "maturity", but all the wn synsets are good)
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-bond_maturation> vcvf:triggers folk:Maturity .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_maturity_114424780> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_youth_114425853> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_ripeness_114425601> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_adulthood_114425103> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_endowment_105624042> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_post-maturity_114426325> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_womanhood_114425715> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_parenthood_114425414> vcvf:triggers folk:Maturity .
+<http://yago-knowledge.org/resource/wordnet_manhood_114425319> vcvf:triggers folk:Maturity .
+# skos:closeMatch to FrameNet frame
+<http://babelnet.org/rdf/s00090702v> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-maturity-noun-3> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-maturity-noun-2> vcvf:triggers folk:Maturity .
+<http://babelnet.org/rdf/s00087577v> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-mature-verb-1> vcvf:triggers folk:Maturity .
+<http://babelnet.org/rdf/s00053885n> vcvf:triggers folk:Maturity .
+<http://babelnet.org/rdf/s00089086v> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-endow-verb-1> vcvf:triggers folk:Maturity .
+<http://babelnet.org/rdf/s00029049n> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-mature-verb-3> vcvf:triggers folk:Maturity .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Issuer.bond_maturation> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/framenet/abox/fe/Value.bond_maturation> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/framenet/abox/fe/Holder.bond_maturation> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/framenet/abox/fe/Interest.bond_maturation> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/framenet/abox/fe/Principle.bond_maturation> vcvf:triggers folk:Maturity .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Bond_maturation> vcvf:triggers folk:Maturity .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Financial_instrument.bond_maturation> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/framenet/abox/fe/Time.bond_maturation> vcvf:triggers folk:Maturity .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Grow_26020000> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/vn/vn31/data/Grow_47020000> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/vn/vn31/data/Grow_45040000> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/vn/vn31/data/Mature_26020000> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/vn/vn31/data/Mature_45040000> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/vn/vn31/data/Invest_13040211> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/vn/vn31/data/Endow_90800000> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/vn/vn31/data/Ripen_45040000> vcvf:triggers folk:Maturity .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-mature-verb-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-endow-verb-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-maturity-noun-2> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-grow_up-verb-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-youth-noun-4> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-ripeness-noun-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-ripen-verb-2> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-find_oneself-verb-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-adulthood-noun-2> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-16> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-endowment-noun-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-post-maturity-noun-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-come_of_age-verb-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-womanhood-noun-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-parenthood-noun-1> vcvf:triggers folk:Maturity .
+<https://w3id.org/framester/wn/wn30/instances/synset-manhood-noun-1> vcvf:triggers folk:Maturity .

@@ -1,0 +1,162 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Resilience
+
+
+# resilience lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/resilience> vcvf:triggers folk:Resilience .
+<http://fr.wiktionary.org/wiki/resilience> vcvf:triggers folk:Resilience .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resilience> vcvf:triggers folk:Resilience .
+# causes	[]
+# derivedFrom	[]
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/resiliences/n> vcvf:triggers folk:Resilience .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# recover lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/recover> vcvf:triggers folk:Resilience .
+<http://fr.wiktionary.org/wiki/recover> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recoverable> vcvf:triggers folk:Resilience .
+<http://fr.wiktionary.org/wiki/recoverable> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/overrecover> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recoverability> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recoverance> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recoveree> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recoverest> vcvf:triggers folk:Resilience .
+<http://fr.wiktionary.org/wiki/recoverest> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recovereth> vcvf:triggers folk:Resilience .
+<http://fr.wiktionary.org/wiki/recovereth> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recoverin> vcvf:triggers folk:Resilience .
+<http://en.wiktionary.org/wiki/recoveror> vcvf:triggers folk:Resilience .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Adorning> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/Filling> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/Getting> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/People> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/ProcessingMaterials> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/Progress> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/Recovery> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/ResolveProblem> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/UndergoChange> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/data/framestercore/Using> vcvf:triggers folk:Resilience .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recover> vcvf:triggers folk:Resilience .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/having_heart_attack> vcvf:triggers folk:Resilience .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoverable> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overrecover> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoverability> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoverance> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoveree> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoverest> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recovereth> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoverin> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoveror> vcvf:triggers folk:Resilience .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recovered/v> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recoverest/v> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recovereth/v> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recovering/v> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recovers/v> vcvf:triggers folk:Resilience .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# Recovery frame
+
+
+<https://w3id.org/framester/data/framestercore/Recovery> vcvf:triggers folk:Resilience .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-recovery> vcvf:triggers folk:Resilience .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_convalescence_113452347> vcvf:triggers folk:Resilience .
+<http://yago-knowledge.org/resource/wordnet_remedy_104074482> vcvf:triggers folk:Resilience .
+<http://yago-knowledge.org/resource/wordnet_therapist_110707233> vcvf:triggers folk:Resilience .
+<http://yago-knowledge.org/resource/wordnet_rally_113545845> vcvf:triggers folk:Resilience .
+<http://yago-knowledge.org/resource/wordnet_lysis_113509843> vcvf:triggers folk:Resilience .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-convalescence-noun-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-therapist-noun-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-perk_up-verb-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-curative-adjectivesatellite-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-remedy-noun-2> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-curable-adjective-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-bring_around-verb-2> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-recuperate-verb-4> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/pb/pbdata/heal.01> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/pb/pbdata/recover.01> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/pb/pbdata/recover.02> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/pb/pbdata/recuperate.01> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-convalescent-adjectivesatellite-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-rally-noun-3> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-snap_back-verb-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-lysis-noun-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-recuperate-verb-3> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00084071v> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00092552v> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00085750v> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00022315n> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00052492n> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00088661v> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00086494v> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00066085n> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00089272v> vcvf:triggers folk:Resilience .
+<http://babelnet.org/rdf/s00093969v> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-heal-verb-2> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-mend-verb-2> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-devolve-verb-3> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-recuperative-adjectivesatellite-1> vcvf:triggers folk:Resilience .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Company.recovery> vcvf:triggers folk:Resilience .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.recovery> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/framenet/abox/fe/Means.recovery> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/framenet/abox/fe/Manner.recovery> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/framenet/abox/fe/Place.recovery> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/framenet/abox/fe/Time.recovery> vcvf:triggers folk:Resilience .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Recovery> vcvf:triggers folk:Resilience .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Affliction.recovery> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/framenet/abox/fe/Body_part.recovery> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/framenet/abox/fe/Patient.recovery> vcvf:triggers folk:Resilience .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Cure_10061000> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/vn/vn31/data/Cure_80100000> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/vn/vn31/data/Heal_45040000> vcvf:triggers folk:Resilience .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-bring_around-verb-2> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-convalescence-noun-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-curable-adjective-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-curative-adjectivesatellite-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-remedy-noun-2> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-therapist-noun-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-perk_up-verb-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-recuperate-verb-4> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-convalescent-adjectivesatellite-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-recuperate-verb-3> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-rally-noun-3> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-lysis-noun-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-snap_back-verb-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-healthful-adjective-1> vcvf:triggers folk:Resilience .
+<https://w3id.org/framester/wn/wn30/instances/synset-recuperative-adjectivesatellite-1> vcvf:triggers folk:Resilience .

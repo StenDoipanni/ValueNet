@@ -1,0 +1,210 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Welcoming
+
+
+# welcome lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/welcome> vcvf:triggers folk:Welcoming .
+<http://fr.wiktionary.org/wiki/welcome> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcoming> vcvf:triggers folk:Welcoming .
+<http://fr.wiktionary.org/wiki/welcoming> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcome_mat> vcvf:triggers folk:Welcoming .
+<http://dbpedia.org/resource/BeWelcome> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/bewelcome> vcvf:triggers folk:Welcoming .
+<http://wikidata.dbpedia.org/resource/Q812810> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/overstay_one's_welcome> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/unwelcome> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/unwelcomed> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/unwelcoming> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/unwelcomingly> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/unwelcomingness> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/wear_out_one's_welcome> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcome_back> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcome_home> vcvf:triggers folk:Welcoming .
+<http://dbpedia.org/resource/Welcome_swallow> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcome_swallow> vcvf:triggers folk:Welcoming .
+<http://wikidata.dbpedia.org/resource/Q938692> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/Welcome_Wagon> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcomee> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcomely> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcomeness> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcomer> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcomest> vcvf:triggers folk:Welcoming .
+<http://fr.wiktionary.org/wiki/welcomest> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcometh> vcvf:triggers folk:Welcoming .
+<http://fr.wiktionary.org/wiki/welcometh> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcomingly> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/welcomingness> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/you're_welcome> vcvf:triggers folk:Welcoming .
+<http://dbpedia.org/resource/Greeting> vcvf:triggers folk:Welcoming .
+<http://en.wiktionary.org/wiki/greeting> vcvf:triggers folk:Welcoming .
+<http://fr.wiktionary.org/wiki/greeting> vcvf:triggers folk:Welcoming .
+<http://wikidata.dbpedia.org/resource/Q45594> vcvf:triggers folk:Welcoming .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Arriving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/Getting> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/Motion> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/People> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/Receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/RespondToProposal> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/Statement> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/Travel> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/data/framestercore/StateOfEntity> vcvf:triggers folk:Welcoming .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcome> vcvf:triggers folk:Welcoming .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcoming> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcome_mat> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bewelcome> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overstay_one's_welcome> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unwelcome> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unwelcomed> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unwelcoming> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unwelcomingly> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unwelcomingness> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/wear_out_one's_welcome> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcome_back> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcome_home> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcome_swallow> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcome_to_my_world> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcome_wagon> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomee> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomely> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomeness> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomer> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomest> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcometh> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomingly> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomingness> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/you're_welcome> vcvf:triggers folk:Welcoming .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomed/v> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomer/a/wikt/en_2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomes/n> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomes/v> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomest/a> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcomest/v> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcometh/v> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/welcoming/v/wikt/en_2> vcvf:triggers folk:Welcoming .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/greeting> vcvf:triggers folk:Welcoming .
+
+
+# Receiving frame
+
+
+<https://w3id.org/framester/data/framestercore/Receiving> vcvf:triggers folk:Welcoming .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-receiving> vcvf:triggers folk:Welcoming .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_reception_100090253> vcvf:triggers folk:Welcoming .
+<http://yago-knowledge.org/resource/wordnet_recipient_109627906> vcvf:triggers folk:Welcoming .
+<http://yago-knowledge.org/resource/wordnet_taker_110689784> vcvf:triggers folk:Welcoming .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-receive-verb-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-reception-noun-4> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-alumnus-noun-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-refuse-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/pb/pbdata/accept.01> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/pb/pbdata/receive.01> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-inheritance-noun-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-welcome-verb-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-fuel-noun-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-adopt-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-inherit-verb-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-recipient-noun-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-taker-noun-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-hustle-verb-4> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-5> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-graduate-verb-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-honor-verb-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-fence-noun-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-fence-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-9> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-admit-verb-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_in-verb-12> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00066489n> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00095705v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00094760v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00082205v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00088612v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00082198v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00044653n> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00089738v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00066495n> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00082201v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00092658v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00088117v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00089450v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00082380v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00089006v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00089246v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00043811n> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00075951n> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00092043v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00089545v> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00096492a> vcvf:triggers folk:Welcoming .
+<http://babelnet.org/rdf/s00036734n> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-honor-noun-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-refuel-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-fuel-verb-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-adopted-adjective-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-profess-verb-5> vcvf:triggers folk:Welcoming .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Depictive.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Countertransfer.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Path.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Role.receiving> vcvf:triggers folk:Welcoming .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Means.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Manner.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Mode_of_transfer.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Place.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Purpose_of_donor.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Purpose_of_theme.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Time.receiving> vcvf:triggers folk:Welcoming .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Receiving> vcvf:triggers folk:Welcoming .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Donor.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Recipient.receiving> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/framenet/abox/fe/Theme.receiving> vcvf:triggers folk:Welcoming .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Receive_13050200> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/vn/vn31/data/Accept_13050200> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/vn/vn31/data/Take_29021000> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/vn/vn31/data/Welcome_33000000> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/vn/vn31/data/Adopt_29010000> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/vn/vn31/data/Adopt_29020000> vcvf:triggers folk:Welcoming .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-receive-verb-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-reception-noun-4> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-welcome-verb-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-adopt-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-inherit-verb-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-recipient-noun-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-taker-noun-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-hustle-verb-4> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-5> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-accept-verb-9> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-fence-verb-2> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-graduate-verb-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-honor-verb-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-take_in-verb-12> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-adopted-adjective-1> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-profess-verb-5> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-fuel-verb-3> vcvf:triggers folk:Welcoming .
+<https://w3id.org/framester/wn/wn30/instances/synset-refuel-verb-2> vcvf:triggers folk:Welcoming .

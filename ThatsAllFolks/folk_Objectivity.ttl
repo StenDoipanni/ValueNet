@@ -1,0 +1,57 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Objectivity
+
+
+# objectivity lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/objective> vcvf:triggers folk:Objectivity .
+<http://fr.wiktionary.org/wiki/objective> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/objectively> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/objectiveness> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/objectivism> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/biobjective> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/multiobjective> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/objectivist> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/nonobjective> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/objectivate> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/objectivation> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/objectivize> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/triobjective> vcvf:triggers folk:Objectivity .
+<http://en.wiktionary.org/wiki/unobjective> vcvf:triggers folk:Objectivity .
+# Framester frames
+<https://w3id.org/framester/data/framestercore/Aiming> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/data/framestercore/Causation> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/data/framestercore/CauseMotion> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/data/framestercore/Existence> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/data/framestercore/Gizmo> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/data/framestercore/Placing> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/data/framestercore/Purpose> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/data/framestercore/InherentPurpose> vcvf:triggers folk:Objectivity .
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objective> vcvf:triggers folk:Objectivity .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectively> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectiveness> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectivism> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/biobjective> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multiobjective> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectivist> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonobjective> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectivate> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectivation> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectivize> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/triobjective> vcvf:triggers folk:Objectivity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unobjective> vcvf:triggers folk:Objectivity .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/objectives/n> vcvf:triggers folk:Objectivity .
+# hasSubEvent	[]
+# usedFor	[]

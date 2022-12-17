@@ -1,0 +1,106 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Smart
+
+
+# smart lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/smart> vcvf:triggers folk:Smart .
+<http://fr.wiktionary.org/wiki/smart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/semismart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartness> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/arsesmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/besmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/hypersmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/nonsmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/nosesmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/outsmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/quicksmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smark> vcvf:triggers folk:Smart .
+<http://dbpedia.org/resource/Smart_TV> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smart_TV> vcvf:triggers folk:Smart .
+<http://wikidata.dbpedia.org/resource/Q564635> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartarsed> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartboard> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartdust> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smarten> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smarteth> vcvf:triggers folk:Smart .
+<http://fr.wiktionary.org/wiki/smarteth> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartful> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/Smartian> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartish> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartling> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartly> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartmodem> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartmouth> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartmouthed> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartpen> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartsizing> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/SmartStamp> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartwatch> vcvf:triggers folk:Smart .
+<http://fr.wiktionary.org/wiki/smartwatch> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smartweed> vcvf:triggers folk:Smart .
+<http://dbpedia.org/resource/Smarty> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smarty> vcvf:triggers folk:Smart .
+<http://wikidata.dbpedia.org/resource/Q726196> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/smexy> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/streetsmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/supersmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/ultrasmart> vcvf:triggers folk:Smart .
+<http://en.wiktionary.org/wiki/unsmart> vcvf:triggers folk:Smart .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smart> vcvf:triggers folk:Smart .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/semismart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartness> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/arsesmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/besmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hypersmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonsmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nosesmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/outsmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/quicksmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smark> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smart_tv> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartarsed> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartboard> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartdust> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarten> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarteth> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartful> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartian> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartish> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartling> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartly> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartmodem> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartmouth> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartmouthed> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartpen> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartsizing> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartstamp> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartwatch> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartweed> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarty> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smexy> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/streetsmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/supersmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ultrasmart> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unsmart> vcvf:triggers folk:Smart .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarted/v> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarter/a> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smartest/a> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarteth/v> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarting/v> vcvf:triggers folk:Smart .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/smarts/v> vcvf:triggers folk:Smart .
+# hasSubEvent	[]
+# usedFor	[]

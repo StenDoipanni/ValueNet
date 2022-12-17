@@ -1,0 +1,384 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Vision
+
+
+# visionary lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/visionary> vcvf:triggers folk:Vision .
+<http://umbel.org/umbel/sc/Visionary> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/nonvisionary> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/televisionary> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/unvisionary> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/visionarily> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/visionariness> vcvf:triggers folk:Vision .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/visionary> vcvf:triggers folk:Vision .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonvisionary> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/televisionary> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unvisionary> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/visionarily> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/visionariness> vcvf:triggers folk:Vision .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/visionaries/n> vcvf:triggers folk:Vision .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+
+# inspire lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/inspire> vcvf:triggers folk:Vision .
+<http://fr.wiktionary.org/wiki/inspire> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/inspirable> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/inspirer> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/inspirest> vcvf:triggers folk:Vision .
+<http://fr.wiktionary.org/wiki/inspirest> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/inspireth> vcvf:triggers folk:Vision .
+<http://fr.wiktionary.org/wiki/inspireth> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/misinspire> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/reinspire> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/uninspire> vcvf:triggers folk:Vision .
+<http://dbpedia.org/resource/Soul> vcvf:triggers folk:Vision .
+<http://fr.wiktionary.org/wiki/soul> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/soul> vcvf:triggers folk:Vision .
+<http://umbel.org/umbel/sc/Soul_Spiritual> vcvf:triggers folk:Vision .
+<http://wikidata.dbpedia.org/resource/Q9165> vcvf:triggers folk:Vision .
+<http://wordnet-rdf.princeton.edu/wn31/sell+your+soul-p#Component-3> vcvf:triggers folk:Vision .
+<http://dbpedia.org/resource/Work_of_art> vcvf:triggers folk:Vision .
+<http://en.wiktionary.org/wiki/work_of_art> vcvf:triggers folk:Vision .
+<http://fr.wiktionary.org/wiki/work_of_art> vcvf:triggers folk:Vision .
+<http://umbel.org/umbel/sc/ArtObject> vcvf:triggers folk:Vision .
+<http://wikidata.dbpedia.org/resource/Q838948> vcvf:triggers folk:Vision .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspire> vcvf:triggers folk:Vision .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspirable> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspirer> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspirest> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspireth> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misinspire> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reinspire> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/uninspire> vcvf:triggers folk:Vision .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspired/v> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspires/v> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspirest/v> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspireth/v> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/inspiring/v> vcvf:triggers folk:Vision .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/soul> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/work_of_art> vcvf:triggers folk:Vision .
+
+# AchievingFirst frame
+
+<https://w3id.org/framester/data/framestercore/AchievingFirst> vcvf:triggers folk:Vision .
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-achieving_first> vcvf:triggers folk:Vision .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_discovery_100043195> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_determination_100151497> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_originator_110383816> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_inventor_110214637> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_invention_100940412> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_neologism_100940560> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_pioneer_110434725> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_validation_100153961> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_excogitator_110068804> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_suggester_110673451> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_self-discovery_100151314> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_coiner_109935107> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_resolution_100153809> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_planner_110438172> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_founder_110107303> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_designation_100152018> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_patentee_110405410> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_tracing_100150932> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_proposer_110484526> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_discovery_105808218> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_localization_100155487> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_rectification_100156119> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_devisal_100940709> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_falsification_100155298> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_predetermination_100155970> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_redetermination_100156293> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_rediscovery_100151914> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_breakthrough_100151409> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_detection_100151087> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_diagnosis_100152727> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_cofounder_109610173> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_urinalysis_100646332> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_authentication_100154233> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_blood_typing_100152990> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_colonizer_109937903> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_differential_diagnosis_100153499> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_documentation_100154433> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_echolocation_100155797> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_foundress_110108018> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_medical_diagnosis_100153105> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_monetization_100154689> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_nominator_110360101> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_probate_100154894> vcvf:triggers folk:Vision .
+<http://yago-knowledge.org/resource/wordnet_prognosis_100153665> vcvf:triggers folk:Vision .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-discovery-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-establish-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaugurate-verb-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-detect-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-coin-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-discover-verb-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-invent-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-pioneer-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-determination-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-gestate-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_back-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-originator-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-originate-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-inventor-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-pioneer-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-establish-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-propose-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-invention-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-neologism-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/pb/pbdata/coin.01> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/pb/pbdata/discover.01> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/pb/pbdata/invent.01> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/pb/pbdata/mastermind.01> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/pb/pbdata/pioneer.01> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/pb/pbdata/wind.01> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-ascend-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-validation-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-excogitator-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-discovery-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-coiner-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-nominate-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-resolution-noun-4> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-diagnostic_procedure-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-planner-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-corroborate-verb-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-founder-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-move-verb-16> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-designation-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-patentee-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-tracing-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-proposer-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-verb-13> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-hint-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-localization-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-sloganeer-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-suggester-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-rectification-noun-4> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-devisal-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-discovery-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-falsification-noun-4> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-initiate-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-predetermination-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-rediscovery-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-patent-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-redetermination-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-patent-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-breakthrough-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-document-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-lead_up-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-detection-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-introduce-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-mastermind-verb-1> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00027529n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00036072n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00064513n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00085269v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00093898v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00100622a> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00086870v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00089648v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00089745v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00086934v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00022282n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00086301v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00060995n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00020508n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00029628n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00057888n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00089743v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00085743v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00055643n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00011395n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00054111n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00093521v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00012940n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00092058v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00089759v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00041927n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00054119n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00072198n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00079291n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00021533n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00086708v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00020713n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00028020n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00020440n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00026805n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00077835n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00032158n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00082804v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00089744v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00006156n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00027033n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00047330n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00070349n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00007285n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00064778n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00066723n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00022281n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00091175v> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00016715n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00009631n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00012941n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00020512n> vcvf:triggers folk:Vision .
+<http://babelnet.org/rdf/s00056162n> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-diagnosis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-imaginative-adjectivesatellite-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-mint-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-cofounder-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-colonize-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-urinalysis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-foundress-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaugural-adjectivesatellite-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-monetization-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-documentation-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-medical_diagnosis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-sloganeer-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-authentication-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-echolocation-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-blood_typing-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-prognosis-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-differential_diagnosis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-creative-adjective-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-nominator-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-colonizer-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-nominate-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-probate-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-project-verb-8> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-begin-verb-3> vcvf:triggers folk:Vision .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Location_of_appearance.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Reason.achieving_first> vcvf:triggers folk:Vision .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Purpose.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Time.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Instrument.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Manner.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Basis.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Field.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Means.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/Place.achieving_first> vcvf:triggers folk:Vision .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Achieving_first> vcvf:triggers folk:Vision .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Cognizer.achieving_first> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/framenet/abox/fe/New_idea.achieving_first> vcvf:triggers folk:Vision .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Discover_29051000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Discover_84100000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Find_84110000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Notice_30011000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Observe_30020000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Observe_29051000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Detect_30010000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Initiate_55051000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Originate_55050000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Coin_26040000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Discover_30020000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Discover_84100000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Find_84110000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Formulate_26040000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Invent_26040000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Invent_26032000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Pioneer_29081000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Organize_26040000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Initiate_55051000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Pioneer_29081000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Introduce_22021000> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/vn/vn31/data/Innovate_55051000> vcvf:triggers folk:Vision .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-detect-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-discovery-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_back-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-originate-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-coin-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-discover-verb-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-invent-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-pioneer-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-determination-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-gestate-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-originator-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-inventor-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-invention-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-neologism-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-pioneer-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-ascend-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-validation-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-excogitator-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-suggester-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-mastermind-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-self-discovery-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-coiner-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-resolution-noun-4> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-planner-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-founder-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-designation-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-patentee-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-lead_up-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-set-verb-13> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-tracing-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-proposer-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-discovery-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-localization-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-sloganeer-verb-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-initiate-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-rectification-noun-4> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-devisal-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-falsification-noun-4> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-predetermination-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-redetermination-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-rediscovery-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-breakthrough-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-detection-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-introduce-verb-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-diagnosis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-imaginative-adjectivesatellite-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-creative-adjective-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-inaugural-adjectivesatellite-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-opening-adjective-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-cofounder-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-urinalysis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-authentication-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-blood_typing-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-colonizer-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-differential_diagnosis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-documentation-noun-3> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-echolocation-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-foundress-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-medical_diagnosis-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-monetization-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-nominator-noun-1> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-probate-noun-2> vcvf:triggers folk:Vision .
+<https://w3id.org/framester/wn/wn30/instances/synset-prognosis-noun-2> vcvf:triggers folk:Vision .

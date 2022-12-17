@@ -1,0 +1,391 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Morality
+
+
+# morality lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Morality> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/morality> vcvf:trigger folk:Morality .
+<http://fr.wiktionary.org/wiki/morality> vcvf:trigger folk:Morality .
+<http://wikidata.dbpedia.org/resource/Q48324> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/amorality> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/antimorality> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/nonmorality> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/unmorality> vcvf:trigger folk:Morality .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/morality> vcvf:trigger folk:Morality .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/amorality> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antimorality> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonmorality> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unmorality> vcvf:trigger folk:Morality .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralities/n> vcvf:trigger folk:Morality .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# moral lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/moral> vcvf:trigger folk:Morality .
+<http://fr.wiktionary.org/wiki/moral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/morally> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moralist> vcvf:trigger folk:Morality .
+<http://fr.wiktionary.org/wiki/moralist> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moralistic> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/extramoral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/juridico-moral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moralfag> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moralization> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moraller> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moralless> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moralness> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/moralphobia> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/non-moral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/nonmoral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/postmoral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/premoral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/psychomoral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/sociomoral> vcvf:trigger folk:Morality .
+<http://en.wiktionary.org/wiki/unmoral> vcvf:trigger folk:Morality .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moral> vcvf:trigger folk:Morality .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/morally> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralist> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralistic> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/extramoral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/juridico_moral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralfag> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralization> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moraller> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralless> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralness> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moralphobia> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/non_moral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonmoral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/postmoral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/premoral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/psychomoral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/sociomoral> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unmoral> vcvf:trigger folk:Morality .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/moraller/a> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/morals/n> vcvf:trigger folk:Morality .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# MoralityEvaluation frame
+
+<https://w3id.org/framester/data/framestercore/MoralityEvaluation> vcvf:trigger folk:Morality .
+
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-morality_evaluation> vcvf:trigger folk:Morality .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_corruption_104850996> vcvf:trigger folk:Morality .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-abject-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corrupt-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-despicable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-disgusting-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjective-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-low-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-upstanding-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-dishonest-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-iniquitous-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-proper-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-right-adjective-4> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-thieving-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unethical-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-disgraceful-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-righteous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wrong-adjective-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-bad-adjectivesatellite-12> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruption-noun-4> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-debauched-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-depraved-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unethically-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-bad-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-honest-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-improperly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-insidious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethical-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-flagitious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand-up-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unscrupulously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-virtuous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-base-adjectivesatellite-4> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-criminal-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-decent-adjective-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-deceptive-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-exalted-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wrongly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-condemnable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-immoral-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-dishonorable-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-improper-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-nefarious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unscrupulous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wicked-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-honorable-adjective-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethically-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-scrupulous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruptible-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-nefariously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-dishonestly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-impeccable-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-redemptive-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-rightly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-sound-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-immorally-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-chaste-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-repellently-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wrong-adjectivesatellite-6> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-despicably-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-minded-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-perversely-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruptive-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-iniquitously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-properly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-white-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-irreclaimable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-angelic-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-profligately-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-disgustingly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-mindedly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecent-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-sold-out-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean-adjectivesatellite-10> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-ambidextrous-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-atrocious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-righteous-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-peccable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-black-adjectivesatellite-5> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-heinously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-out-of-the-way-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-picaresque-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-righteously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-cheating-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-Praetorian-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-impeccant-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-deceitful-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-dirty-adjectivesatellite-11> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-depravity-noun-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-distastefully-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-moralistic-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-goody-goody-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-putrid-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-scrofulous-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-heavy-adjectivesatellite-10> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-vilely-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-rascally-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-demonic-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corrupted-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruptly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-incorrupt-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-meanly-adverb-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-morally-adverb-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wickedly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-devilish-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-misguided-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-badly-adverb-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-beguiling-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-false-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00114944r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115630r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00103673a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00101521a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00116583r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00114998r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00113959a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115074r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00104312a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00109866a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00113857a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00116333r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00104884a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115240r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00116059r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00117438r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00100510a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00104907a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00116867r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00101001a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00114487r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115261r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115667r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00097966a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00113633a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00104706a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00109849a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00114861r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00102474a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00104604a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00113178a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00117564r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00022884n> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00102418a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00026389n> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00116827r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00101520a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00106205a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00116281r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00114946r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115050r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00110209a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115936r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00113200a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00114506r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115778r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00106928a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00112697a> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00114269r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00115071r> vcvf:trigger folk:Morality .
+<http://babelnet.org/rdf/s00117501r> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-incorrupt-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecent-adjective-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unrighteous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-sinful-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-base-adjectivesatellite-5> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethical-adjective-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-insidious-adjectivesatellite-3> vcvf:trigger folk:Morality .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.morality_evaluation> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/framenet/abox/fe/Judge.morality_evaluation> vcvf:trigger folk:Morality .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Morality_evaluation> vcvf:trigger folk:Morality .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Behavior.morality_evaluation> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/framenet/abox/fe/Evaluee.morality_evaluation> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/framenet/abox/fe/Expressor.morality_evaluation> vcvf:trigger folk:Morality .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-abject-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corrupt-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-despicable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-disgusting-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjective-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-upstanding-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-bad-adjectivesatellite-12> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-base-adjectivesatellite-4> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-condemnable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruption-noun-4> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-criminal-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-debauched-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-decent-adjective-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-depraved-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-dishonest-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-ethical-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-exalted-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-flagitious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-immoral-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-improper-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-improperly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-iniquitous-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-insidious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-moral-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-nefarious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-right-adjective-4> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-righteous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-stand-up-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-thieving-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unethical-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unethically-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unscrupulous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-unscrupulously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-virtuous-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wicked-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wrong-adjective-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-deceptive-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-disgraceful-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wrongly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruptible-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-nefariously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-dishonestly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-impeccable-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-redemptive-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-rightly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-sound-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-immorally-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-chaste-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-repellently-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wrong-adjectivesatellite-6> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-despicably-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-misguided-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-minded-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-perversely-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-ambidextrous-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-beguiling-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-deceitful-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-false-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-picaresque-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-rascally-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruptive-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-iniquitously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-vilely-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-angelic-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-atrocious-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-badly-adverb-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-black-adjectivesatellite-5> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-clean-adjectivesatellite-10> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corrupted-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-corruptly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-demonic-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-devilish-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-dirty-adjectivesatellite-11> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-disgustingly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-distastefully-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-evil-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-goody-goody-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-heavy-adjectivesatellite-10> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-heinously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-high-mindedly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-impeccant-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-incorrupt-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-indecent-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-irreclaimable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-meanly-adverb-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-moralistic-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-morally-adverb-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-out-of-the-way-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-peccable-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-Praetorian-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-profligately-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-putrid-adjectivesatellite-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-righteous-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-righteously-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-scrofulous-adjectivesatellite-2> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-sold-out-adjectivesatellite-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-white-adjectivesatellite-7> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-wickedly-adverb-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-erect-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-noble-adjective-3> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-respectable-adjective-1> vcvf:trigger folk:Morality .
+<https://w3id.org/framester/wn/wn30/instances/synset-seductive-adjective-1> vcvf:trigger folk:Morality .

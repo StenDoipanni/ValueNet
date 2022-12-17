@@ -1,0 +1,344 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Prosperity
+
+
+# prosperity lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/prosperity> vcvf:triggers folk:Prosperity .
+<http://fr.wiktionary.org/wiki/prosperity> vcvf:triggers folk:Prosperity .
+<http://en.wiktionary.org/wiki/coprosperity> vcvf:triggers folk:Prosperity .
+<http://en.wiktionary.org/wiki/working> vcvf:triggers folk:Prosperity .
+<http://fr.wiktionary.org/wiki/working> vcvf:triggers folk:Prosperity .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prosperity> vcvf:triggers folk:Prosperity .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/working> vcvf:triggers folk:Prosperity .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/coprosperity> vcvf:triggers folk:Prosperity .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prosperities/n> vcvf:triggers folk:Prosperity .
+# hasSubEvent	[]
+# usedFor	[]
+
+# Thriving frame
+
+<https://w3id.org/framester/data/framestercore/Thriving> vcvf:triggers folk:Prosperity .
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-thriving> vcvf:triggers folk:Prosperity .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_prosperity_114474052> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_success_114474894> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_health_114447908> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_slump_113556509> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_big_time_114475154> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_pay_dirt_114475273> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_strength_114474556> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_wellbeing_114447525> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_languisher_110246395> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_fool's_paradise_114447816> vcvf:triggers folk:Prosperity .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-prosperity-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-thrive-verb-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-boom-verb-5> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-success-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-slump-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-make-verb-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-do-verb-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-health-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pine_away-verb-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/pb/pbdata/flourish.01> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/pb/pbdata/languish.01> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/pb/pbdata/thrive.01> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-strength-noun-8> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-wellbeing-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-exuberant-adjectivesatellite-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-luxuriate-verb-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-revive-verb-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_time-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay_dirt-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-languisher-noun-1> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00092991v> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00028834n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00031801n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00083781v> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00090185v> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00064820n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00087106v> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00049928n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00085334v> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00090528v> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00088347v> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00074616n> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-expandable-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fool_s_paradise-noun-1> vcvf:triggers folk:Prosperity .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Explanation.thriving> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Particular_iteration.thriving> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Role.thriving> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.thriving> vcvf:triggers folk:Prosperity .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Place.thriving> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.thriving> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Duration.thriving> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Time.thriving> vcvf:triggers folk:Prosperity .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Thriving> vcvf:triggers folk:Prosperity .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Entity.thriving> vcvf:triggers folk:Prosperity .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Prosper_39060000> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/vn/vn31/data/Prosper_47011000> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/vn/vn31/data/Thrive_47011000> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/vn/vn31/data/Flourish_39060000> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/vn/vn31/data/Flourish_47011000> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/vn/vn31/data/Thrive_39060000> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/vn/vn31/data/Thrive_47011000> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/vn/vn31/data/Languish_47011000> vcvf:triggers folk:Prosperity .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-prosperity-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-thrive-verb-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-boom-verb-5> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-success-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-health-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-slump-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-do-verb-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pine_away-verb-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_time-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay_dirt-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-strength-noun-8> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-wellbeing-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-exuberant-adjectivesatellite-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-luxuriate-verb-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-revive-verb-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-languisher-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-expandable-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fool_s_paradise-noun-1> vcvf:triggers folk:Prosperity .
+
+
+# Luck frame
+
+<https://w3id.org/framester/data/framestercore/Luck> vcvf:triggers folk:Prosperity .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-luck> vcvf:triggers folk:Prosperity .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_prosperity_114474052> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_fortune_114473222> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_luck_111418138> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_success_114474894> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_health_114447908> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_big_time_114475154> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_pay_dirt_114475273> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_failure_114477877> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_tossup_111519799> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_strength_114474556> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_misfortune_114475405> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_wellbeing_114447525> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_good_fortune_114473655> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_providence_114473917> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_bad_luck_111427842> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_misery_114448333> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_pressure_114477076> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_mercy_114474435> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_cross_114477667> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_catastrophe_114476290> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_anguish_114449022> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_hard_cheese_114476205> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_victimization_114477509> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_fool's_paradise_114447816> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_bitter_end_114476697> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_suffering_114448910> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_crop_failure_114478975> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_weakness_114474718> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_dead_duck_114479086> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_bankruptcy_114478684> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_concentration_camp_114448692> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_adversity_114475661> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_affliction_114477342> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_bank_failure_114478862> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_blessing_114474264> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_distress_114476852> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_extremity_114476521> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_gutter_114475992> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_ill-being_114448200> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_living_death_114448825> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_nadir_114486639> vcvf:triggers folk:Prosperity .
+<http://yago-knowledge.org/resource/wordnet_throe_114477207> vcvf:triggers folk:Prosperity .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-happily-adverb-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-prosperity-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortune-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-lucky-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-success-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-causeless-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-felicitous-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortunate-adjective-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortunately-adverb-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfortunate-adjective-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-health-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-afflict-verb-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-failure-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-tossup-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-heaven-sent-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-strength-noun-8> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-misfortune-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-wellbeing-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-good_fortune-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortuitous-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-better_off-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bad_luck-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-off-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_time-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay_dirt-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unfortunately-adverb-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjectivesatellite-13> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-providence-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-afflict-verb-1> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00054434n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00027787n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00042298n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00010777n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00045932n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00075069n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00032723n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00004189n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00025509n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00077073n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00080743n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00023937n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00114196r> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00017622n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00007884n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00008418n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00041068n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00064264n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00032497n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00051642n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00103248a> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00001782n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00021543n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00016689n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00064910n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00023948n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00079942n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00001586n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00008387n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00052159n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00019222n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00114363r> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00007885n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00055292n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00011225n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00042929n> vcvf:triggers folk:Prosperity .
+<http://babelnet.org/rdf/s00032000n> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-misery-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pressure-noun-6> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-mercy-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-cross-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-catastrophe-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-anguish-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard_cheese-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-victimization-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-victimize-verb-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fool_s_paradise-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bitter_end-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-suffering-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-crop_failure-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakness-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-dead_duck-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bankruptcy-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-concentration_camp-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-throe-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-blessing-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-living_death-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bank_failure-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-extremity-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-distress-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-nadir-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-adversity-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-affliction-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-gutter-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-ill-being-noun-1> vcvf:triggers folk:Prosperity .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Descriptor.luck> vcvf:triggers folk:Prosperity .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Time.luck> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Degree.luck> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Place.luck> vcvf:triggers folk:Prosperity .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Luck> vcvf:triggers folk:Prosperity .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Protagonist.luck> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/Role.luck> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/framenet/abox/fe/State_of_affairs.luck> vcvf:triggers folk:Prosperity .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-happily-adverb-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-prosperity-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortune-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-luck-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-lucky-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-success-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-causeless-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-health-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-felicitous-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortunate-adjective-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortunately-adverb-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_time-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay_dirt-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-failure-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-tossup-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-heaven-sent-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-strength-noun-8> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-misfortune-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-wellbeing-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-good_fortune-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortuitous-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-better_off-adjectivesatellite-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-providence-noun-3> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bad_luck-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-off-adjectivesatellite-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-good-adjectivesatellite-13> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-misery-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-unintended-adjective-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-pressure-noun-6> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-mercy-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-cross-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-catastrophe-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-anguish-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard_cheese-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-victimization-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-fool_s_paradise-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bitter_end-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-suffering-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-crop_failure-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakness-noun-4> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-dead_duck-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bankruptcy-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-concentration_camp-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-adversity-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-affliction-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-bank_failure-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-blessing-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-distress-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-extremity-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-gutter-noun-2> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-ill-being-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-living_death-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-nadir-noun-1> vcvf:triggers folk:Prosperity .
+<https://w3id.org/framester/wn/wn30/instances/synset-throe-noun-2> vcvf:triggers folk:Prosperity .

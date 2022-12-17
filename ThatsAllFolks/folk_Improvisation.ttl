@@ -1,0 +1,31 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Improvisation
+
+
+# improvisation lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Improvisation> vcvf:triggers folk:Improvisation .
+<http://en.wiktionary.org/wiki/improvisation> vcvf:triggers folk:Improvisation .
+<http://fr.wiktionary.org/wiki/improvisation> vcvf:triggers folk:Improvisation .
+<http://wikidata.dbpedia.org/resource/Q214961> vcvf:triggers folk:Improvisation .
+<http://en.wiktionary.org/wiki/improvisational> vcvf:triggers folk:Improvisation .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvisation> vcvf:triggers folk:Improvisation .
+# causes	[]
+# derivedFrom	
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvisational> vcvf:triggers folk:Improvisation .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvisations/n> vcvf:triggers folk:Improvisation .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/improvization/n> vcvf:triggers folk:Improvisation .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/following_recipe> vcvf:triggers folk:Improvisation .
+# usedFor	[]

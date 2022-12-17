@@ -1,0 +1,158 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Recognition
+
+
+# recognition lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/recognition> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/recognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/allorecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/autorecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/biorecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/corecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/derecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/immunorecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/irrecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/misrecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/nonrecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/recognitional> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/underrecognition> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/unrecognition> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/monument> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/monument> vcvf:triggers folk:Repayment .
+<http://umbel.org/umbel/sc/Monument> vcvf:triggers folk:Repayment .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recognition> vcvf:triggers folk:Repayment .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/winning_baseball_game> vcvf:triggers folk:Repayment .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/allorecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/autorecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/biorecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/corecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/derecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/immunorecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/irrecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misrecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonrecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recognitional> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/underrecognition> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unrecognition> vcvf:triggers folk:Repayment .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/recognitions/n> vcvf:triggers folk:Repayment .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/monument> vcvf:triggers folk:Repayment .
+
+
+
+# reward lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/reward> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/reward> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/antireward> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/rewardability> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/rewardable> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/rewarder> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/rewardest> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/rewardest> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/rewardeth> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/rewardeth> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/rewardful> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/rewardless> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/working> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/working> vcvf:triggers folk:Repayment .
+<http://dbpedia.org/resource/The_Help> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/help> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/help> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/HELP> vcvf:triggers folk:Repayment .
+<http://wikidata.dbpedia.org/resource/Q461303> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/Success> vcvf:triggers folk:Repayment .
+<http://en.wiktionary.org/wiki/success> vcvf:triggers folk:Repayment .
+<http://fr.wiktionary.org/wiki/success> vcvf:triggers folk:Repayment .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reward> vcvf:triggers folk:Repayment .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/working> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/giving_assistance> vcvf:triggers folk:Repayment .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antireward> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardability> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardable> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewarder> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardest> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardeth> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardful> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardless> vcvf:triggers folk:Repayment .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewarded/v> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardest/v> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewardeth/v> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewarding/v> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rewards/n> vcvf:triggers folk:Repayment .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/help> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/give_assistance> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/please_parents> vcvf:triggers folk:Repayment .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/success> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/investing_money_or_energy> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/tasting_sweet> vcvf:triggers folk:Repayment .
+
+
+# Repayment frame
+
+<https://w3id.org/framester/data/framestercore/Repayment> vcvf:triggers folk:Repayment .
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-repayment> vcvf:triggers folk:Repayment .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_refund_101121690> vcvf:triggers folk:Repayment .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-requite-verb-1> vcvf:triggers folk:Repayment .
+<http://babelnet.org/rdf/s00092811v> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/wn/wn30/instances/synset-reward-verb-3> vcvf:triggers folk:Repayment .
+<http://babelnet.org/rdf/s00091499v> vcvf:triggers folk:Repayment .
+<http://babelnet.org/rdf/s00066859n> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/wn/wn30/instances/synset-refund-noun-2> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay-verb-10> vcvf:triggers folk:Repayment .
+<http://babelnet.org/rdf/s00091497v> vcvf:triggers folk:Repayment .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.repayment> vcvf:triggers folk:Repayment .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Manner.repayment> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/framenet/abox/fe/Time.repayment> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/framenet/abox/fe/Degree.repayment> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/framenet/abox/fe/Means.repayment> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/framenet/abox/fe/Place.repayment> vcvf:triggers folk:Repayment .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Repayment> vcvf:triggers folk:Repayment .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Debtor.repayment> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/framenet/abox/fe/Loan.repayment> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/framenet/abox/fe/Money.repayment> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/framenet/abox/fe/Loaner.repayment> vcvf:triggers folk:Repayment .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Repay_68000000> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/vn/vn31/data/Repay_33000000> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/vn/vn31/data/Reward_13040211> vcvf:triggers folk:Repayment .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-refund-noun-2> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/wn/wn30/instances/synset-requite-verb-1> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/wn/wn30/instances/synset-reward-verb-3> vcvf:triggers folk:Repayment .
+<https://w3id.org/framester/wn/wn30/instances/synset-pay-verb-10> vcvf:triggers folk:Repayment .

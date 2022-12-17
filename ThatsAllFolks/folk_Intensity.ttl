@@ -1,0 +1,46 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Intensity
+
+
+# intensity lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/intensity> vcvf:triggers folk:Intensity .
+<http://fr.wiktionary.org/wiki/intensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/hyperintensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/hypointensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/archaeointensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/immunointensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/isointensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/overintensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/palaeointensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/paleointensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/photointensity> vcvf:triggers folk:Intensity .
+<http://en.wiktionary.org/wiki/superintensity> vcvf:triggers folk:Intensity .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intensity> vcvf:triggers folk:Intensity .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperintensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hypointensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/archaeointensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/immunointensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/isointensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overintensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/palaeointensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/paleointensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/photointensity> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superintensity> vcvf:triggers folk:Intensity .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intensities/n> vcvf:triggers folk:Intensity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/intensivity/n> vcvf:triggers folk:Intensity .
+# hasSubEvent	[]
+# usedFor	[]

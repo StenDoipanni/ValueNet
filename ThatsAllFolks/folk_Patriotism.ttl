@@ -1,0 +1,36 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Patriotism
+
+
+# patriotism lu
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Patriotism> vcvf:triggers folk:Patriotism .
+<http://en.wiktionary.org/wiki/patriotism> vcvf:triggers folk:Patriotism .
+<http://fr.wiktionary.org/wiki/patriotism> vcvf:triggers folk:Patriotism .
+<http://wikidata.dbpedia.org/resource/Q6241> vcvf:triggers folk:Patriotism .
+<http://en.wiktionary.org/wiki/antipatriotism> vcvf:triggers folk:Patriotism .
+<http://en.wiktionary.org/wiki/hyperpatriotism> vcvf:triggers folk:Patriotism .
+<http://en.wiktionary.org/wiki/matriotism> vcvf:triggers folk:Patriotism .
+<http://en.wiktionary.org/wiki/superpatriotism> vcvf:triggers folk:Patriotism .
+<http://en.wiktionary.org/wiki/unpatriotism> vcvf:triggers folk:Patriotism .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/patriotism> vcvf:triggers folk:Patriotism .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antipatriotism> vcvf:triggers folk:Patriotism .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/hyperpatriotism> vcvf:triggers folk:Patriotism .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/matriotism> vcvf:triggers folk:Patriotism .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superpatriotism> vcvf:triggers folk:Patriotism .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unpatriotism> vcvf:triggers folk:Patriotism .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/patriotisms/n> vcvf:triggers folk:Patriotism .
+# hasSubEvent	[]
+# usedFor	[]

@@ -1,0 +1,33 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Optimism
+
+
+# optimism lu
+
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Optimism> vcvf:triggers folk:Optimism .
+<http://en.wiktionary.org/wiki/optimism> vcvf:triggers folk:Optimism .
+<http://fr.wiktionary.org/wiki/optimism> vcvf:triggers folk:Optimism .
+<http://wikidata.dbpedia.org/resource/Q485446> vcvf:triggers folk:Optimism .
+<http://en.wiktionary.org/wiki/cyberoptimism> vcvf:triggers folk:Optimism .
+<http://en.wiktionary.org/wiki/overoptimism> vcvf:triggers folk:Optimism .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/optimism> vcvf:triggers folk:Optimism .
+# causes	[]
+# derivedFrom	
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/cyberoptimism> vcvf:triggers folk:Optimism .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overoptimism> vcvf:triggers folk:Optimism .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/optimisms/n> vcvf:triggers folk:Optimism .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/making_better_world> vcvf:triggers folk:Optimism .
+# usedFor	[]

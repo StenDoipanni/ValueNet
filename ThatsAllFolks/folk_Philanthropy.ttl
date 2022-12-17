@@ -1,0 +1,37 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Philanthropy
+
+
+# philanthropy lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Philanthropy> vcvf:triggers folk:Philanthropy .
+<http://en.wiktionary.org/wiki/philanthropy> vcvf:triggers folk:Philanthropy .
+<http://fr.wiktionary.org/wiki/philanthropy> vcvf:triggers folk:Philanthropy .
+<http://umbel.org/umbel/sc/Philanthropy> vcvf:triggers folk:Philanthropy .
+<http://wikidata.dbpedia.org/resource/Q185733> vcvf:triggers folk:Philanthropy .
+<http://en.wiktionary.org/wiki/philanthropist> vcvf:triggers folk:Philanthropy .
+<http://umbel.org/umbel/sc/Philanthropist> vcvf:triggers folk:Philanthropy .
+<http://en.wiktionary.org/wiki/aphilanthropy> vcvf:triggers folk:Philanthropy .
+<http://en.wiktionary.org/wiki/filmanthropy> vcvf:triggers folk:Philanthropy .
+<http://en.wiktionary.org/wiki/philanthropoid> vcvf:triggers folk:Philanthropy .
+# Framester frames	[]
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/philanthropy> vcvf:triggers folk:Philanthropy .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/philanthropist> vcvf:triggers folk:Philanthropy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/aphilanthropy> vcvf:triggers folk:Philanthropy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/filmanthropy> vcvf:triggers folk:Philanthropy .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/philanthropoid> vcvf:triggers folk:Philanthropy .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/philanthropies/n> vcvf:triggers folk:Philanthropy .
+# hasSubEvent	[]
+# usedFor	[]

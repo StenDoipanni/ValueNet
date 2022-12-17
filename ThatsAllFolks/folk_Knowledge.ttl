@@ -1,0 +1,129 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:knowledge
+
+
+# knowledge lu
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Knowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/Knowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/knowledge> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/knowledge> vcvf:triggers folk:Knowledge .
+<http://wikidata.dbpedia.org/resource/Q9081> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/knowledgeable> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/knowledgeable> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/antiknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/beknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/book-knowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/book_knowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/counterknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/ethnoknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/foreknowledge> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/foreknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/interknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/knowledge-box> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/knowledgeful> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/knowledgeless> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/knowledgelike> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/meta-knowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/metaknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/misknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/nonknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/preknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/self-knowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/superknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/unknowledge> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/learning> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/learning> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/study> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/study> vcvf:triggers folk:Knowledge .
+<http://umbel.org/umbel/sc/StudyRoom> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/studying> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/studying> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/Reading> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/reading> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/Reading> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/reading> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/thinking> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/thinking> vcvf:triggers folk:Knowledge .
+<http://umbel.org/umbel/ac/Thinking> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/remembering> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/remembering> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/analysing> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/analysing> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/memorising> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/memorising> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/communicating> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/communicating> vcvf:triggers folk:Knowledge .
+<http://umbel.org/umbel/ac/Communicating> vcvf:triggers folk:Knowledge .
+<http://en.wiktionary.org/wiki/memorize> vcvf:triggers folk:Knowledge .
+<http://fr.wiktionary.org/wiki/memorize> vcvf:triggers folk:Knowledge .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledge> vcvf:triggers folk:Knowledge .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/learning> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/study> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/studying> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reading> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/thinking> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reading_magazine> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/remembering> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/analysing> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/discovering_truth> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/expressing_information> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/finding_information> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_to_school> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowing_how_stock_market_performed> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/listening_to_radio> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/looking_through_telescope> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/memorising> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/studying_for_subject> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surfing_web> vcvf:triggers folk:Knowledge .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledgeable> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antiknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/beknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/book_knowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/counterknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/ethnoknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/foreknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/interknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledge_box> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledgeful> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledgeless> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledgelike> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meta_knowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/metaknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/misknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/preknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/self_knowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superknowledge> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unknowledge> vcvf:triggers folk:Knowledge .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledged/v> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledges/n> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledges/v> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/knowledging/v> vcvf:triggers folk:Knowledge .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/read_book> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/communicating> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/find_truth> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/memorize> vcvf:triggers folk:Knowledge .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/piece_of_information> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reading_magazine> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/debating_politics> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/teaching_other_people> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/learning_about_world> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/reading_newspaper> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/surfing_web> vcvf:triggers folk:Knowledge .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/using_television> vcvf:triggers folk:Knowledge .

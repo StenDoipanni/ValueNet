@@ -1,0 +1,90 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Receptiveness
+
+
+# receptive lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/receptive> vcvf:triggers folk:Receptiveness .
+<http://fr.wiktionary.org/wiki/receptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/baroreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/chemoreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/receptivity> vcvf:triggers folk:Receptiveness .
+<http://fr.wiktionary.org/wiki/receptivity> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/electroreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/irreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/magnetoreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/mechanoreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/multireceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/nonreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/photoreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/prereceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/receptively> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/receptiveness> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/thermoreceptive> vcvf:triggers folk:Receptiveness .
+<http://en.wiktionary.org/wiki/unreceptive> vcvf:triggers folk:Receptiveness .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/receptive> vcvf:triggers folk:Receptiveness .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/baroreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/chemoreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/receptivity> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/electroreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/irreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/magnetoreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/mechanoreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/multireceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/photoreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prereceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/receptively> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/receptiveness> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/thermoreceptive> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unreceptive> vcvf:triggers folk:Receptiveness .
+# formsOf	[]
+# hasSubEvent	[]
+# usedFor	[]
+
+
+# MeetWithResponse frame
+
+<https://w3id.org/framester/data/framestercore/MeetWithResponse> vcvf:triggers folk:Receptiveness .
+
+
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-meet_with_response> vcvf:triggers folk:Receptiveness .
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-receptive-adjectivesatellite-1> vcvf:triggers folk:Receptiveness .
+<http://babelnet.org/rdf/s00082348v> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-receptive-adjective-2> vcvf:triggers folk:Receptiveness .
+<http://babelnet.org/rdf/s00087598v> vcvf:triggers folk:Receptiveness .
+<http://babelnet.org/rdf/s00107890a> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-meet-verb-11> vcvf:triggers folk:Receptiveness .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Place.meet_with_response> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/framenet/abox/fe/Manner.meet_with_response> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/framenet/abox/fe/Time.meet_with_response> vcvf:triggers folk:Receptiveness .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Meet_with_response> vcvf:triggers folk:Receptiveness .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Response.meet_with_response> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/framenet/abox/fe/Trigger.meet_with_response> vcvf:triggers folk:Receptiveness .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-meet-verb-11> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-receptive-adjective-2> vcvf:triggers folk:Receptiveness .
+<https://w3id.org/framester/wn/wn30/instances/synset-receptive-adjectivesatellite-1> vcvf:triggers folk:Receptiveness .

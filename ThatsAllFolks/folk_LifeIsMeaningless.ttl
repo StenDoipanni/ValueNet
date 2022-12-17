@@ -1,0 +1,31 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:LifeIsMeaningless
+
+
+# nihilism lu
+
+
+
+
+
+# DBpedia Entities
+<http://dbpedia.org/resource/Nihilism> vcvf:triggers folk:LifeIsMeaningless .
+<http://en.wiktionary.org/wiki/nihilism> vcvf:triggers folk:LifeIsMeaningless .
+<http://fr.wiktionary.org/wiki/nihilism> vcvf:triggers folk:LifeIsMeaningless .
+<http://wikidata.dbpedia.org/resource/Q80968> vcvf:triggers folk:LifeIsMeaningless .
+<http://en.wiktionary.org/wiki/antinihilism> vcvf:triggers folk:LifeIsMeaningless .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nihilism> vcvf:triggers folk:LifeIsMeaningless .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/antinihilism> vcvf:triggers folk:LifeIsMeaningless .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nihilisms/n> vcvf:triggers folk:LifeIsMeaningless .
+# hasSubEvent	[]
+# usedFor	[]

@@ -1,0 +1,35 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Longevity
+
+
+# longevity lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/longevity> vcvf:triggers folk:Longevity .
+<http://fr.wiktionary.org/wiki/longevity> vcvf:triggers folk:Longevity .
+<http://en.wiktionary.org/wiki/prolongevity> vcvf:triggers folk:Longevity .
+<http://en.wiktionary.org/wiki/shortgevity> vcvf:triggers folk:Longevity .
+<http://en.wiktionary.org/wiki/exercising> vcvf:triggers folk:Longevity .
+<http://fr.wiktionary.org/wiki/exercising> vcvf:triggers folk:Longevity .
+# Framester frames	[]
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/longevity> vcvf:triggers folk:Longevity .
+# causes
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/eating_healthily> vcvf:triggers folk:Longevity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/staying_fit> vcvf:triggers folk:Longevity .
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/prolongevity> vcvf:triggers folk:Longevity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/shortgevity> vcvf:triggers folk:Longevity .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/longevities/n> vcvf:triggers folk:Longevity .
+# hasSubEvent
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/stay_fit> vcvf:triggers folk:Longevity .
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/exercising> vcvf:triggers folk:Longevity .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/maintaining_good_health> vcvf:triggers folk:Longevity .

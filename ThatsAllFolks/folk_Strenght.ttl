@@ -1,0 +1,264 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Strenght
+
+
+# strength lu
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/strength> vcvf:triggers folk:Strenght .
+<http://fr.wiktionary.org/wiki/strength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/strengthen> vcvf:triggers folk:Strenght .
+<http://fr.wiktionary.org/wiki/strengthen> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/strengthful> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/strengthless> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/bandstrength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/fore-strength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/linestrength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/midstrength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/overstrength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/strength_training> vcvf:triggers folk:Strenght .
+<http://fr.wiktionary.org/wiki/strength_training> vcvf:triggers folk:Strenght .
+<http://umbel.org/umbel/sc/StrengthConditioning> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/strengthy> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/superstrength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/understrength> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/unstrength> vcvf:triggers folk:Strenght .
+<http://dbpedia.org/resource/Metal> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/metal> vcvf:triggers folk:Strenght .
+<http://fr.wiktionary.org/wiki/metal> vcvf:triggers folk:Strenght .
+<http://umbel.org/umbel/sc/Metal> vcvf:triggers folk:Strenght .
+<http://wikidata.dbpedia.org/resource/Q11426> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/rod> vcvf:triggers folk:Strenght .
+<http://fr.wiktionary.org/wiki/rod> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/A-Rod> vcvf:triggers folk:Strenght .
+<http://en.wiktionary.org/wiki/Rod> vcvf:triggers folk:Strenght .
+<http://umbel.org/umbel/sc/Rod> vcvf:triggers folk:Strenght .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strength> vcvf:triggers folk:Strenght .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strengthen> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strengthful> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strengthless> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bandstrength> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/fore_strength> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/linestrength> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/midstrength> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/overstrength> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strength_training> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strengthy> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superstrength> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/understrength> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unstrength> vcvf:triggers folk:Strenght .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strengthed/v> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strengthing/v> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strengths/n> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/strenth/n> vcvf:triggers folk:Strenght .
+# hasSubEvent	[]
+# usedFor
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/metal> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/bridge_arch> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/rod> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/fighting_war> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/going_jogging> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/staying_healthy> vcvf:triggers folk:Strenght .
+
+
+# ExertiveForce frame
+
+
+<https://w3id.org/framester/data/framestercore/ExertiveForce> vcvf:triggers folk:Strenght .
+
+
+
+# Premon closeMatch to FrameNet frame	[]
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-adynamic-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-pale-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-puny-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-robust-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strong-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-brawny-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-feeble-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-mighty-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-weak-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beardown-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinforced-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beefed-up-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullocky-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-flimsy-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-stiff-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullnecked-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-namby-pamby-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-jerry-built-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakened-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-virile-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-knock-down-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerable-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-knit-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-powerfully-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-faint-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortified-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strongly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-vehement-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-industrial-strength-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-anemic-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-ironlike-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-noticeable-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00117596r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00117157r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00113737a> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00116666r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00111312a> vcvf:triggers folk:Strenght .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Time.exertive_force> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.exertive_force> vcvf:triggers folk:Strenght .
+# FrameNet Peripheral Frame Element	[]
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Exertive_force> vcvf:triggers folk:Strenght .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Entity.exertive_force> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Action.exertive_force> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Degree.exertive_force> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Force.exertive_force> vcvf:triggers folk:Strenght .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-brawny-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-feeble-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-puny-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-adynamic-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-pale-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-robust-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strong-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-mighty-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-weak-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beardown-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinforced-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-anemic-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beefed-up-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullnecked-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullocky-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-faint-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-flimsy-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortified-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-industrial-strength-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-ironlike-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-jerry-built-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-knock-down-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-namby-pamby-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-noticeable-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-powerfully-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-stiff-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strongly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-vehement-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-virile-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-vulnerable-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakened-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-weakly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-knit-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-powerful-adjective-1> vcvf:triggers folk:Strenght .
+
+
+
+# BeingStrong frame
+
+
+<https://w3id.org/framester/data/framestercore/BeingStrong> vcvf:triggers folk:Strenght .
+
+
+
+
+data
+0
+# Premon closeMatch to FrameNet frame	[]
+# YAGO owl:sameAs Entities	[]
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-robust-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-sturdy-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strong-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-impregnable-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-brawny-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-weak-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beardown-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinforced-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beefed-up-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullocky-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-stiff-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullnecked-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-toughly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-impregnably-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-securely-adverb-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-virile-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-knock-down-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-knit-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-powerfully-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortified-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strongly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-vehement-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-industrial-strength-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-ironlike-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-noticeable-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00117157r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00116928r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00117331r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00115777r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00116666r> vcvf:triggers folk:Strenght .
+<http://babelnet.org/rdf/s00111312a> vcvf:triggers folk:Strenght .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Circumstances.being_strong> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Depictive.being_strong> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Purpose.being_strong> vcvf:triggers folk:Strenght .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.being_strong> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Manner.being_strong> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Place.being_strong> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Time.being_strong> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Means.being_strong> vcvf:triggers folk:Strenght .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Being_strong> vcvf:triggers folk:Strenght .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Entity.being_strong> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/framenet/abox/fe/Force.being_strong> vcvf:triggers folk:Strenght .
+# WordNet Sense Key to VerbNet	[]
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-brawny-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-robust-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-sturdy-adjectivesatellite-3> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strong-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-impregnable-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beardown-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-reinforced-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-beefed-up-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullnecked-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-bullocky-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-fortified-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-hard-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-industrial-strength-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-ironlike-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-knock-down-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-noticeable-adjectivesatellite-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-powerfully-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-stiff-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-strongly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-vehement-adjectivesatellite-2> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-virile-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-knit-adjectivesatellite-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-toughly-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-impregnably-adverb-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-securely-adverb-4> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-invulnerable-adjective-1> vcvf:triggers folk:Strenght .
+<https://w3id.org/framester/wn/wn30/instances/synset-rugged-adjective-1> vcvf:triggers folk:Strenght .

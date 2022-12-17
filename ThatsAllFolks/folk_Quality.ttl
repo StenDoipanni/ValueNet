@@ -1,0 +1,114 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Quality
+
+
+# quality lu
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/quality> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/the_Quality> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/the_quality> vcvf:triggers folk:Quality .
+<http://fr.wiktionary.org/wiki/quality> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/qualitied> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/qualitiness> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/qualityless> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/qualityness> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/qualitywise> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/subquality> vcvf:triggers folk:Quality .
+<http://en.wiktionary.org/wiki/superquality> vcvf:triggers folk:Quality .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/quality> vcvf:triggers folk:Quality .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/qualitied> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/qualitiness> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/qualityless> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/qualityness> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/qualitywise> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/subquality> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/superquality> vcvf:triggers folk:Quality .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/qualities/n> vcvf:triggers folk:Quality .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+
+# Satisfying frame
+
+<https://w3id.org/framester/data/framestercore/Satisfying> vcvf:triggers folk:Quality .
+
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-satisfying> vcvf:triggers folk:Quality .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_satisfier_109424489> vcvf:triggers folk:Quality .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-suffice-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-sufficient-adjective-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualify-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfy-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-preliminary-noun-2> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-serve-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_a_long_way-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-4> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_around-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-quality-noun-2> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfier-noun-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualification-noun-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-quality-noun-5> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjectivesatellite-2> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualifier-noun-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-tide_over-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-function-noun-2> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00110115a> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00059924n> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00069331n> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00082295v> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00091960v> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00088023v> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00085905v> vcvf:triggers folk:Quality .
+<http://babelnet.org/rdf/s00088614v> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjective-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-act_as-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-prelude-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-fall_short_of-verb-1> vcvf:triggers folk:Quality .
+# FrameNet Extra-thematic Frame Elements	[]
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Means.satisfying> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/framenet/abox/fe/Time.satisfying> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/framenet/abox/fe/Manner.satisfying> vcvf:triggers folk:Quality .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Satisfying> vcvf:triggers folk:Quality .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Agent.satisfying> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/framenet/abox/fe/Entity.satisfying> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/framenet/abox/fe/Event.satisfying> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/framenet/abox/fe/Standard.satisfying> vcvf:triggers folk:Quality .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Qualify_29062000> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/vn/vn31/data/Serve_29060000> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/vn/vn31/data/Function_29062000> vcvf:triggers folk:Quality .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-sufficient-adjective-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-suffice-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfy-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-qualify-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjectivesatellite-2> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-serve-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_a_long_way-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-cover-verb-4> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-go_around-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-tide_over-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfier-noun-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-act_as-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-prelude-verb-1> vcvf:triggers folk:Quality .
+<https://w3id.org/framester/wn/wn30/instances/synset-satisfactory-adjective-1> vcvf:triggers folk:Quality .

@@ -1,0 +1,334 @@
+
+
+
+### QUOKKA Folk Values triggers
+
+
+## folk:Meaning
+
+
+# meaning lu
+
+
+
+
+# DBpedia Entities
+<http://en.wiktionary.org/wiki/meaning> vcvf:triggers folk:Meaning .
+<http://fr.wiktionary.org/wiki/meaning> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/meaningful> vcvf:triggers folk:Meaning .
+<http://fr.wiktionary.org/wiki/meaningful> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/meaningless> vcvf:triggers folk:Meaning .
+<http://fr.wiktionary.org/wiki/meaningless> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/meaninged> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/meaningly> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/meaningness> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/nonmeaning> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/submeaning> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/undermeaning> vcvf:triggers folk:Meaning .
+<http://en.wiktionary.org/wiki/unmeaning> vcvf:triggers folk:Meaning .
+
+# ConceptNet concepts
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meaning> vcvf:triggers folk:Meaning .
+# causes	[]
+# derivedFrom
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meaningful> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meaningless> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meaninged> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meaningly> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meaningness> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/nonmeaning> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/submeaning> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/undermeaning> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/unmeaning> vcvf:triggers folk:Meaning .
+# formsOf
+<https://w3id.org/framester/conceptnet/5.7.0/c/en/meanings/n> vcvf:triggers folk:Meaning .
+# hasSubEvent	[]
+# usedFor	[]
+
+
+
+# Importance frame
+
+
+<https://w3id.org/framester/data/framestercore/Importance> vcvf:triggers folk:Meaning .
+
+# Premon closeMatch to FrameNet frame
+<http://premon.fbk.eu/resource/fn17-importance> vcvf:triggers folk:Meaning .
+# YAGO owl:sameAs Entities
+<http://yago-knowledge.org/resource/wordnet_significance_105169813> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_importance_105168261> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_landmark_108624891> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_consequence_105170574> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_matter_105169242> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_prominence_105169507> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_greatness_105169601> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_big_deal_105168697> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_essentiality_105171045> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_topic_105814291> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_weight_105172322> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_historicalness_105170088> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_meaningfulness_105170236> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_urgency_105171800> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_momentousness_105169412> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_account_105169037> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_edge_105171978> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_hell_to_pay_105170923> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_imperativeness_105172131> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_indispensability_105171491> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_purposefulness_105170400> vcvf:triggers folk:Meaning .
+<http://yago-knowledge.org/resource/wordnet_vitalness_105171352> vcvf:triggers folk:Meaning .
+# skos:closeMatch to FrameNet frame
+<https://w3id.org/framester/wn/wn30/instances/synset-badly-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-pivotal-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significant-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-critical-adjective-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-mean-verb-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-seriously-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-leading-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-acute-adjectivesatellite-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-critical-adjectivesatellite-4> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-crucial-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-epic-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-importance-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-serious-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significance-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-critical-adjectivesatellite-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-meaning-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-historic-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-implemental-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-cardinal-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-chief-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-landmark-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-major-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-great-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-important-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-considerable-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-inconsiderable-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-instrumental-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/pb/pbdata/count.04> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-consequence-noun-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-goodly-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-7> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-matter-noun-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-noteworthy-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-prominence-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-right_smart-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-all-important-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-fundamental-adjectivesatellite-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-life-and-death-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-monumental-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-in-chief-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-dangerous-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-greatness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_deal-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-chiefly-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-essentiality-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-most-valuable-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-Copernican-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-distinguished-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-alpha-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-strategic-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-topic-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-earthshaking-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-epochal-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-grave-adjectivesatellite-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-importantly-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-weight-noun-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-big-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-burning-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-importantly-adverb-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-meaningfulness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significantly-adverb-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-urgency-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-vital-adjectivesatellite-4> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-crucially-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-evidential-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-momentousness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-large-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-consequential-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significant-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-momentous-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-probative-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-measurable-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-operative-adjectivesatellite-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-desperate-adjectivesatellite-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-weigh-verb-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-appreciable-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-grand-adjectivesatellite-7> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-account-noun-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-beta-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-historicalness-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-portentous-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00046909n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00116948r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00049881n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00064697n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00010311n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00046095n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00079087n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00112853a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00043608n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00080832n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00085860v> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00114484r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00115771r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00114891r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00031638n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00104680a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00116987r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00046139n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00079331n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00080146n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00107407a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00114714r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00053869n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00105193a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00044263n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00106332a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00115154r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00029746n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00100677a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00104862a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00107405a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00115772r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00071554n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00114485r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00114823r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00104681a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00106764a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00021962n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00105214a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00047690n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00000743n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00055603n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00100315a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00065321n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00114483r> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00100716a> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00041624n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00091987v> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00046513n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00090711v> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00046143n> vcvf:triggers folk:Meaning .
+<http://babelnet.org/rdf/s00054010n> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-insignificance-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-vitalness-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-imperativeness-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-unimportance-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-purposefulness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-edge-noun-4> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-indispensability-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-unimportant-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-hell_to_pay-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-minor-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-noncrucial-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-insignificant-adjective-4> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-noncritical-adjective-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-badly-adverb-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-badly-adverb-6> vcvf:triggers folk:Meaning .
+# FrameNet Extra-thematic Frame Elements
+<https://w3id.org/framester/framenet/abox/fe/Reason.importance> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/framenet/abox/fe/Time.importance> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/framenet/abox/fe/Explanation.importance> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/framenet/abox/fe/Frequency.importance> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/framenet/abox/fe/Place.importance> vcvf:triggers folk:Meaning .
+# FrameNet Peripheral Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Degree.importance> vcvf:triggers folk:Meaning .
+# FrameNet frames
+<https://w3id.org/framester/framenet/abox/frame/Importance> vcvf:triggers folk:Meaning .
+# Framenet Core Frame Element
+<https://w3id.org/framester/framenet/abox/fe/Factor.importance> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/framenet/abox/fe/Interested_party.importance> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/framenet/abox/fe/Field.importance> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/framenet/abox/fe/Undertaking.importance> vcvf:triggers folk:Meaning .
+# WordNet Sense Key to VerbNet
+<https://w3id.org/framester/vn/vn31/data/Matter_91000000> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/vn/vn31/data/Count_91000000> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/vn/vn31/data/Matter_31042000> vcvf:triggers folk:Meaning .
+# WordNet synset
+<https://w3id.org/framester/wn/wn30/instances/synset-badly-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-great-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-pivotal-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significant-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-critical-adjective-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-mean-verb-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-seriously-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-leading-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-acute-adjectivesatellite-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-chief-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-critical-adjectivesatellite-4> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-crucial-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-epic-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significance-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-historic-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-importance-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-serious-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-cardinal-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-considerable-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-count-verb-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-critical-adjectivesatellite-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-implemental-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-important-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-landmark-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-major-adjective-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-sternly-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-consequence-noun-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-goodly-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-well-adverb-7> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-chiefly-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-matter-noun-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-noteworthy-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-prominence-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-right_smart-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-all-important-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-fundamental-adjectivesatellite-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-life-and-death-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-monumental-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-in-chief-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-dangerous-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-greatness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-big_deal-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-essentiality-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-most-valuable-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-Copernican-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-distinguished-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-alpha-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-strategic-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-topic-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-earthshaking-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-epochal-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-grave-adjectivesatellite-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-importantly-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-weight-noun-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-big-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-burning-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-historicalness-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-importantly-adverb-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-meaningfulness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significantly-adverb-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-urgency-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-crucially-adverb-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-evidential-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-momentousness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-large-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-consequential-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-significant-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-account-noun-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-appreciable-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-beta-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-desperate-adjectivesatellite-6> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-grand-adjectivesatellite-7> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-measurable-adjectivesatellite-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-momentous-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-operative-adjectivesatellite-3> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-portentous-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-probative-adjectivesatellite-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-weigh-verb-5> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-edge-noun-4> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-hell_to_pay-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-imperativeness-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-indispensability-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-purposefulness-noun-1> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-vitalness-noun-2> vcvf:triggers folk:Meaning .
+<https://w3id.org/framester/wn/wn30/instances/synset-indispensable-adjective-1> vcvf:triggers folk:Meaning .
