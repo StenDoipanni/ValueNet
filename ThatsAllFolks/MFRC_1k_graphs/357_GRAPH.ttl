@@ -1,0 +1,238 @@
+@prefix ns1: <http://www.ontologydesignpatterns.org/ont/boxer/boxing.owl#> .
+@prefix ns2: <http://www.ontologydesignpatterns.org/ont/is/isnet.owl#> .
+@prefix ns3: <http://www.ontologydesignpatterns.org/ont/fred/domain.owl#> .
+@prefix ns4: <http://www.ontologydesignpatterns.org/ont/fred/quantifiers.owl#> .
+@prefix ns5: <http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl#> .
+@prefix ns6: <http://www.ontologydesignpatterns.org/ont/emotions/EmoCore.owl#> .
+@prefix ns7: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix ns8: <http://www.ontologydesignpatterns.org/ont/vn/abox/role/> .
+@prefix ns9: <https://w3id.org/sdg/meta#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns7:hasDataValue a owl:DataTypeProperty .
+
+ns3:act_1 ns4:hasDeterminer ns4:a .
+
+ns3:disjunct_1 a ns3:Disjunct ;
+    ns1:involves ns3:Flawed,
+        ns3:However,
+        ns3:however_1 ;
+    ns3:union ns3:disjunct_2 .
+
+ns3:purpose_1 a ns3:Purpose ;
+    ns4:hasDeterminer ns4:the .
+
+ns3:situation_2 a ns3:Situation ;
+    ns1:involves ns3:hope_1,
+        ns3:situation_1,
+        ns3:situation_3 ;
+    ns7:hasQuality ns3:And .
+
+ns3:thing_1 a owl:Thing .
+
+<https://template/sdg/graph_357> ns9:graphFor "And however flawed or dishonest Macron may be.....it is a far greater act of dishonesty to steal his data and expose it, hoping to change the course of a national election for the purpose of an outside group.     That is far far more dangerous than voting for one flawed man." .
+
+ns3:Act rdfs:subClassOf ns7:InformationEntity,
+        <https://w3id.org/framester/data/framestercore/Law>,
+        <https://w3id.org/framester/wn/wn30/instances/supersense-noun_communication> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-act-noun-1> .
+
+ns3:Change rdfs:subClassOf ns7:Event,
+        <https://w3id.org/framester/data/framestercore/CauseChange>,
+        <https://w3id.org/framester/data/framestercore/Replacing> ;
+    owl:equivalentClass <https://w3id.org/framester/vn/vn31/data/Change_13060100>,
+        <https://w3id.org/framester/wn/wn30/instances/synset-change-verb-1> .
+
+ns3:Course rdfs:subClassOf <http://www.ontologydesignpatterns.org/ont/d0.owl#Activity>,
+        <https://w3id.org/framester/data/framestercore/EducationTeaching>,
+        <https://w3id.org/framester/wn/wn30/instances/supersense-noun_act> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-course-noun-1> .
+
+ns3:Dangerous ns7:hasQuality ns3:Far ;
+    rdfs:subClassOf <https://w3id.org/framester/data/framestercore/RiskySituation> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-dangerous-adjective-1> .
+
+ns3:Dishonesty rdfs:subClassOf ns7:Situation,
+        <https://w3id.org/framester/wn/wn30/instances/supersense-noun_act> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-dishonesty-noun-2> .
+
+ns3:Election rdfs:subClassOf <http://www.ontologydesignpatterns.org/ont/d0.owl#Activity>,
+        <https://w3id.org/framester/data/framestercore/ChangeOfLeadership>,
+        <https://w3id.org/framester/wn/wn30/instances/supersense-noun_act> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-election-noun-1> .
+
+ns3:Expose rdfs:subClassOf ns7:Event,
+        <https://w3id.org/framester/data/framestercore/RevealSecret> ;
+    owl:equivalentClass <https://w3id.org/framester/vn/vn31/data/Expose_48012000>,
+        <https://w3id.org/framester/wn/wn30/instances/synset-expose-verb-1> .
+
+ns3:FarGreaterAct rdfs:subClassOf ns3:GreaterAct .
+
+ns3:FlawedMan rdfs:subClassOf ns3:Man .
+
+ns3:Greater rdfs:subClassOf ns7:Quality ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-greater-adjective-1> .
+
+ns3:GreaterAct ns7:hasQuality ns3:Greater ;
+    rdfs:subClassOf ns3:Act .
+
+ns3:Hope rdfs:subClassOf ns7:Event,
+        <https://w3id.org/framester/data/framestercore/Desiring> ;
+    owl:equivalentClass <https://w3id.org/framester/vn/vn31/data/Hope_62000000> .
+
+ns3:Man rdfs:subClassOf ns7:Person,
+        <https://w3id.org/framester/data/framestercore/People>,
+        <https://w3id.org/framester/wn/wn30/instances/supersense-noun_person> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-man-noun-1> .
+
+ns3:NationalElection ns7:hasQuality ns3:National ;
+    rdfs:subClassOf ns3:Election .
+
+ns3:Outside owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-outside-adjective-1> .
+
+<http://www.ontologydesignpatterns.org/ont/fred/domain.owl#OutsideGroup.> rdfs:subClassOf <http://www.ontologydesignpatterns.org/ont/fred/domain.owl#Group.> .
+
+ns3:Purpose rdfs:subClassOf ns7:Goal,
+        <https://w3id.org/framester/data/framestercore/Purpose>,
+        <https://w3id.org/framester/wn/wn30/instances/supersense-noun_cognition> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-purpose-noun-1> .
+
+ns3:Steal rdfs:subClassOf ns7:Event,
+        <https://w3id.org/framester/data/framestercore/Theft> ;
+    owl:equivalentClass <https://w3id.org/framester/vn/vn31/data/Steal_10050000>,
+        <https://w3id.org/framester/wn/wn30/instances/synset-steal-verb-1> .
+
+ns3:Vote rdfs:subClassOf ns7:Event ;
+    owl:equivalentClass <https://w3id.org/framester/vn/vn31/data/Vote_13030000> .
+
+ns3:course_1 a ns3:Course ;
+    ns3:courseOf ns3:election_1 ;
+    ns4:hasDeterminer ns4:the .
+
+ns3:datum_1 a ns3:Datum ;
+    ns3:datumOf ns3:male_1 ;
+    ns4:hasQuantifier ns4:multiple .
+
+ns3:disjunct_2 a ns3:Disjunct ;
+    ns1:involves ns3:Dishonest,
+        ns3:However,
+        ns3:however_1 .
+
+ns3:expose_1 a ns3:Expose ;
+    ns8:Agent ns3:dishonesty_1 ;
+    ns8:Theme ns3:Macron .
+
+ns3:hope_1 a ns3:Hope ;
+    ns1:hasModality ns1:Possible ;
+    ns8:Experiencer ns3:Macron ;
+    ns8:Theme ns3:change_1 .
+
+ns3:male_1 a ns3:Male .
+
+ns3:man_1 a ns3:FlawedMan ;
+    ns7:hasDataValue <1> ;
+    ns7:hasQuality ns3:Flawed ;
+    ns4:hasDeterminer ns4:that ;
+    ns4:hasQuantifier ns4:one .
+
+ns3:situation_1 a ns3:Situation ;
+    ns1:involves ns3:change_1,
+        ns3:election_1,
+        ns3:group._1 .
+
+ns3:situation_3 a ns3:Situation ;
+    ns1:involves ns3:Macron,
+        ns3:dishonesty_1,
+        ns3:expose_1,
+        ns3:steal_1 .
+
+ns3:steal_1 a ns3:Steal ;
+    ns8:Agent ns3:dishonesty_1 ;
+    ns8:Theme ns3:datum_1 .
+
+ns3:thing_2 a owl:Thing ;
+    ns7:hasQuality ns3:Dangerous ;
+    ns3:moreThingFarFarDangerousThan ns3:vote_1 .
+
+ns3:vote_1 a ns3:Vote ;
+    ns7:associatedWith ns3:group._1 ;
+    ns8:Agent ns3:thing_2 ;
+    ns8:Recipient ns3:man_1 .
+
+<https://w3id.org/framester/data/framestercore/Candidness> ns5:triggers <https://w3id.org/spice/SON/HaidtValues#Loyalty> .
+
+<https://w3id.org/framester/data/framestercore/EducationTeaching> ns5:triggers <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#Learning> .
+
+<https://w3id.org/framester/data/framestercore/Law> ns5:triggers <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#Rigor> .
+
+<https://w3id.org/framester/data/framestercore/Origin> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#SOURCE_PATH_GOAL> ;
+    ns5:triggers <https://w3id.org/spice/SON/HaidtValues#Loyalty> .
+
+<https://w3id.org/framester/data/framestercore/Purpose> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#SOURCE_PATH_GOAL> .
+
+<https://w3id.org/framester/data/framestercore/Range> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#CENTER_PERIPHERY> .
+
+<https://w3id.org/framester/data/framestercore/Replacing> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#SOURCE_PATH_GOAL> .
+
+<https://w3id.org/framester/data/framestercore/RevealSecret> ns5:triggers <https://w3id.org/spice/SON/HaidtValues#Betrayal> .
+
+<https://w3id.org/framester/data/framestercore/RiskySituation> ns6:triggers <http://www.ontologydesignpatterns.org/ont/emotions/BasicEmotions.owl#Fear> ;
+    ns5:triggers <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#Risk> .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-act-noun-1> ns5:triggers <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#Rigor> .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-course-noun-1> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#PATH> ;
+    ns5:triggers <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#Learning> .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-dangerous-adjective-1> ns6:triggers <http://www.ontologydesignpatterns.org/ont/emotions/BasicEmotions.owl#Fear> ;
+    ns5:triggers <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#Risk> .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-expose-verb-1> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#BLOCKAGE> .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-far-adjective-1> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#CENTER_PERIPHERY> ;
+    ns5:triggers <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#Novelty> .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-national-adjective-1> ns5:triggers <https://w3id.org/spice/SON/HaidtValues#Loyalty> .
+
+<https://w3id.org/framester/wn/wn30/instances/synset-purpose-noun-1> ns2:activates <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#GOAL> .
+
+ns3:Dishonest rdfs:subClassOf <https://w3id.org/framester/data/framestercore/Candidness>,
+        <https://w3id.org/framester/data/framestercore/MoralityEvaluation> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-dishonest-adjective-1> .
+
+ns3:Far rdfs:subClassOf <https://w3id.org/framester/data/framestercore/Range> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-far-adjective-1> .
+
+ns3:National rdfs:subClassOf ns7:Quality,
+        <https://w3id.org/framester/data/framestercore/Origin>,
+        <https://w3id.org/framester/data/framestercore/PoliticalLocales> ;
+    owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-national-adjective-1> .
+
+ns3:change_1 a ns3:Change ;
+    ns8:Agent ns3:Macron ;
+    ns8:Theme ns3:course_1 .
+
+ns3:election_1 a ns3:NationalElection ;
+    ns7:hasQuality ns3:National ;
+    ns3:forPurposeOf ns3:group._1 ;
+    ns4:hasDeterminer ns4:a .
+
+ns3:however_1 a ns3:However ;
+    ns7:hasQuality ns3:Dishonest,
+        ns3:Flawed .
+
+ns3:Flawed owl:equivalentClass <https://w3id.org/framester/wn/wn30/instances/synset-blemished-adjectivesatellite-2> .
+
+ns3:group._1 a <http://www.ontologydesignpatterns.org/ont/fred/domain.owl#OutsideGroup.> ;
+    ns7:hasQuality ns3:Outside ;
+    ns4:hasDeterminer ns4:an .
+
+ns3:Macron a ns3:FarGreaterAct ;
+    ns7:hasQuality ns3:Far,
+        owl:Thing ;
+    ns3:farGreaterActOf ns3:dishonesty_1 ;
+    owl:sameAs <http://dbpedia.org/resource/Macron> .
+
+ns3:dishonesty_1 a ns3:Dishonesty .
+
