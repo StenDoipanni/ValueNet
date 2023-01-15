@@ -1,0 +1,99 @@
+This SPARQL query allows to retrieve alll entities triggering some specific value, considering all the semantic web resources in Framester.
+Insert the desired value in the <insert_value> slot. This query works for the MFT, BHV and Folk values e.g. mft:Harm, bhv:Power , folk:Punctuality .
+
+
+```
+PREFIX is: <http://purl.org/ontology/is/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX mf: <http://www.w3.org/2001/sw/DataAccess/tests/test-manifest#>
+PREFIX ha: <http://sensormeasurement.appspot.com/ont/home/homeActivity#>
+PREFIX vcvf: <http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl#>
+PREFIX mft: <https://w3id.org/spice/SON/HaidtValues#>
+PREFIX bhv: <https://w3id.org/spice/SON/SchwartzValues#>
+PREFIX emo: <http://www.ontologydesignpatterns.org/ont/emotions/EmoCore.owl#>
+PREFIX fschema: <https://w3id.org/framester/schema/>
+PREFIX be: <http://www.ontologydesignpatterns.org/ont/emotions/BasicEmotions.owl#>
+PREFIX isaac: <http://www.ontologydesignpatterns.org/ont/is/isaac_vanilla.owl#>
+PREFIX isnet: <http://www.ontologydesignpatterns.org/ont/is/isnet.owl#>
+PREFIX meta: <https://w3id.org/sdg/meta#>
+PREFIX hed: <http://www.ontologydesignpatterns.org/ont/is/hed.owl#>
+PREFIX folk: <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#>
+
+
+
+
+SELECT DISTINCT (COUNT(?f) AS ?frames) (COUNT (?fe) AS ?frameEl) (COUNT (?wordnet) AS ?wn) (COUNT (?verbnet) AS ?vb) (COUNT (?propbank) AS ?pb) (COUNT (?conceptnet) AS ?cn) (COUNT (?wiktionary) AS ?wik) (COUNT (?wikidata) AS ?wd) (COUNT (?dbpedia) AS ?dbp) (COUNT (?babelnet) AS ?bn) (COUNT (?umbel) AS ?umb) (COUNT (?yago) AS ?y) (COUNT (?premon) AS ?pm)
+WHERE {
+{
+ ?f vcvf:triggers <insert_value> .
+  FILTER regex(str(?f), 'https://w3id.org/framester/data/framestercore/')
+}
+  UNION
+{
+  ?fe vcvf:triggers <insert_value> .
+  FILTER regex(str(?fe), 'https://w3id.org/framester/framenet/abox/fe/')
+  }
+UNION
+{
+  ?wordnet vcvf:triggers <insert_value> .
+  FILTER regex(str(?wordnet), 'https://w3id.org/framester/wn/wn30/instances/')
+}
+UNION
+{
+  ?verbnet vcvf:triggers <insert_value> .
+  FILTER regex(str(?verbnet), 'https://w3id.org/framester/vn/vn31/data/')
+}
+UNION
+{
+  ?propbank vcvf:triggers <insert_value> .
+  FILTER regex(str(?propbank), 'https://w3id.org/framester/pb/pbdata/')
+}
+UNION
+{
+  ?conceptnet vcvf:triggers <insert_value> .
+  FILTER regex(str(?conceptnet), 'https://w3id.org/framester/conceptnet/5.7.0/c')
+}
+UNION
+{
+  ?wiktionary vcvf:triggers <insert_value> .
+  FILTER regex(str(?wiktionary), '.wiktionary.org/wiki/')
+}
+UNION
+{
+  ?wikidata vcvf:triggers <insert_value> .
+  FILTER regex(str(?wikidata), 'http://wikidata.dbpedia.')
+}
+UNION
+{
+  ?dbpedia vcvf:triggers <insert_value> .
+  FILTER regex(str(?dbpedia), 'http://dbpedia.org/resource')
+}
+UNION
+{
+  ?babelnet vcvf:triggers <insert_value> .
+  FILTER regex(str(?babelnet), 'http://babelnet.org/rdf')
+}
+UNION
+{
+  ?umbel vcvf:triggers <insert_value> .
+  FILTER regex(str(?umbel), 'http://umbel.org')
+}  
+UNION
+{
+  ?yago vcvf:triggers <insert_value> .
+  FILTER regex(str(?yago), 'http://yago-knowledge.org/resource')
+}
+UNION
+{
+  ?premon vcvf:triggers <insert_value> .
+  FILTER regex(str(?premon), 'http://premon.fbk.eu/resource')
+} 
+
+}
+
+
+
+
+```
