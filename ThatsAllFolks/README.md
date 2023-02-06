@@ -1,18 +1,18 @@
 
 
-**FOLK ontological module**
+# FOLK ontological module
 
 
 
-The FOLK module is the ontological module in ValueNet for representing social-standard-determined virtues.
+The FOLK module is the ontological module in ValueNet for representing social-standard-determined virtues. <br>
 
 The existence of this module is motivated by a factual and pragmatic approach: albeit the huge debate about what and how many moral values are there, people still have commonsense knowledge about behaviors that shape everyday social interaction.
-In everyday life, people can answer questions like “what is that you look for in a good friend?” or “what do you evaluate the most in your search for a soulmate”, etc. 
+In everyday life, people can answer questions like “what is that you look for in a good friend?” or “what do you evaluate the most in your search for a soulmate”, etc. <br>
 
-For instance, adopting or not a healthier, low-fat diet may not be considered directly a moral issue (such as trolley dilemmas), but many subcultures focused on the "Sanctity" pole of the Moral Foundations Theory dyad, resonate with the “my body is a temple” metaphor, considering morally inferior not to adopt healthy habits. 
+For instance, adopting or not a healthier, low-fat diet may not be considered directly a moral issue (such as trolley dilemmas), but many subcultures focused on the "Sanctity" pole of the Moral Foundations Theory dyad, resonate with the “my body is a temple” metaphor, considering morally inferior not to adopt healthy habits. <br>
 
-These values are considered "mandatory" in the sense that everyone is expected to respect them, and is expected to be judged if not. 
-People who fail or refuse to do so are subject to social criticism or punishment. 
+These values are considered "mandatory" in the sense that everyone is expected to respect them, and is expected to be judged if not. <br>
+People who fail or refuse to do so are subject to social criticism or punishment. <br>
 
 
 
