@@ -24,11 +24,63 @@ The generation of the Folk value module, and its operationalisation with a botto
 1. Scrape the web for extended lists of what people consider values. Note that this could be any kind of list, from online life coach guidelines to live a better life, to unoffcial repositories of cultural values, that we named “folk values”;
 2. Model them in a dedicated ontological module;
 3. Establish a taxonomy among them, and filter the granularity of detail, namely, remove duplicates with different names (e.g. “Victory” and “Winning”) which were pointing at a very similar portion of reality.
-4. Treat those values as frames, therefore as classes of situations for which it is possible to individuate roles, lexical triggers, and factual entities that, in their semantics, point at a folk value-related occurrence of a certain situation.
+4. Treat those values as frames (as in Fillmore frame semantics), therefore as classes of situations for which it is possible to individuate roles, lexical triggers, and factual entities that, in their semantics, point at a folk value-related occurrence of a certain situation.
 
-While this ontological module does not bear any domain expert authority, its intention is exactly to provide, next to the “official” theoretical ontological transposition, a module that considers also a bottom-up determined folk perspective, and which allows spotting more cultural depending entities. Among gathered folk values, relevant retrievals not considered in BHV and MFT modules, and related to a much more pragmatic dimension, are e.g. folk:Fitness: the social importance of being fit; folk:Punctuality: social appraisal related to not being late; folk:Frugality: moral judgments about bragging about wealthiness; folk:Wealthiness itself; folk:Authenticity: the idea of being sincere in everyday manifestation and “not interpreting a character”; folk:Intelligence: being above average in commonsense intelligence-related tasks; and many others, for a total amount of more than 200 folk values, formalised as frames.
+While this ontological module does not bear any domain expert authority, its intention is exactly to provide, next to the “official” theoretical ontological transposition, a module that considers also a bottom-up determined folk perspective, and which allows spotting more cultural depending entities. Among gathered folk values, relevant retrievals not considered in BHV and MFT modules, and related to a much more pragmatic dimension, are e.g. `folk:Fitness`: the social importance of being fit; `folk:Punctuality`: social appraisal related to not being late; `folk:Frugality`: moral judgments about bragging about wealthiness; `folk:Wealthiness` itself; `folk:Authenticity`: the idea of being sincere in everyday manifestation and “not interpreting a character”; `folk:Intelligence`: being above average in commonsense intelligence-related tasks; and many others, for a total amount of more than 200 folk values, formalised as frames.
 
 
-The knowledge graph population process is realised via applying again the QUOKKA workflow as in ref.
+The knowledge graph population process is realised via applying the [QUOKKA](https://github.com/StenDoipanni/QUOKKA) workflow as follows: 
 
-The FOLK module is part of the ValueNet ontology, queryable here(link).
+
+![QUOKKA workflow applied to FOLK repository.](https://github.com/StenDoipanni/ValueNet/blob/main/ThatsAllFolks/quokka_folk.png)
+
+
+Values are here considered as frames, therefore requiring roles to realize a specific value situation (occurrence of some frame).
+Furthermore, value-frames are evoked by entities, e.g. the Figure above shows triggers for the frame `folk:Capable` which is the Folk value referring to commonsense positive evaluation of know-how in some domain.
+
+Entities from well-known semantic web resources, aligned in the [Framester](https://github.com/framester/Framester) hub are gathered via SPARQL queries and declared as value triggers in the FOLK module. <br>
+In figure above are shown examples for the `folk:Capable` value frame e.g. the FrameNet frames `fs:Expertise` and `fs:Capability`, or the WordNet synset `wn:skilled-adjective-1`, the VerbNet verb `vb:Excel_74010000` and so on.
+
+The FOLK module is part of the ValueNet ontology, queryable at the [Framester SPARQL endpoint](http://etna.istc.cnr.it/framester2/sparql).
+
+
+## Explore the Resource via SPARQL query
+
+We provide here some useful query to explore the resource:
+
+*Query 1*
+Query to retrieve all the entities triggering some value (from all the theories included in ValueNet) filtered by containing in their URI the string 'expertise'.
+
+```
+PREFIX fschema: <https://w3id.org/framester/schema/>
+PREFIX vcvf: <http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl#>
+
+SELECT DISTINCT ?entity ?value
+WHERE{
+  ?entity vcvf:triggers ?value .
+
+FILTER(regex(?entity, "expertise", "i"))
+}
+```
+
+*Query 2*
+
+Query to retrieve all entities triggering some value from the Folk module and the MFT module filtered by containing the string "fair" (therefore expressing some overlap between commonsense knowledge about values and the MFT theoretical framework focused on morality).
+
+```
+PREFIX mft: <https://w3id.org/spice/SON/HaidtValues#>
+PREFIX folk: <http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#>
+PREFIX vcvf: <http://www.ontologydesignpatterns.org/ont/values/valuecore_with_value_frames.owl#>
+
+SELECT DISTINCT ?entity ?value1  ?value2
+WHERE {
+?entity vcvf:triggers ?value1, ?value2 .
+FILTER(regex(?value1, "https://w3id.org/spice/SON/HaidtValues#"))
+FILTER(regex(?value2, "http://www.ontologydesignpatterns.org/ont/values/FolkValues.owl#"))
+FILTER(regex(?entity, "fair", "i"))
+}
+
+```
+
+
+
