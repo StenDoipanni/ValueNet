@@ -22,7 +22,7 @@ Furthermore, some additional modules are being developed:
 [MM](http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl) ``http://www.ontologydesignpatterns.org/ont/values/CurryMoralMolecules.owl``
 
 
-![ValueNet_usage_network](https://user-images.githubusercontent.com/40241049/173843601-772306ea-e2c6-46d5-9ca2-ea5306aca586.png)
+![ValueNet_usage_network](https://github.com/StenDoipanni/ValueNet/blob/d625ceca215d5cfaea508e7e064dfbe601990361/ValueNet_import_schema_def.png)
 
 
 ## ValueCore
