@@ -1,4 +1,4 @@
-# ValueNet
+# ValueNet Ontology
 
 
 Values, as intended in ethics, are part of the broad and challenging area of research about Commonsense Knowledge. The attempt
