@@ -1,0 +1,922 @@
+@prefix bhv: <https://w3id.org/valuenet/bhv_roles#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://w3id.org/valuenet/bhv_roles> .
+
+<https://w3id.org/valuenet/bhv_roles> rdf:type owl:Ontology ;
+                                          owl:versionIRI <https://w3id.org/valuenet/bhv_roles/0.0.2> ;
+                                          rdfs:comment "Designed by Stefano De Giorgis." ;
+                                          bhv:bibRef "Ontological version of the Basic Human Values theory by Shalom Schwartz, including thos BHV values which in ValueNet are triggered by some FrameNet frame." .
+                                        
+
+bhv:Achievement rdfs:subClassOf bhv:Value .
+bhv:Benevolence rdfs:subClassOf bhv:Value .
+bhv:Conformity rdfs:subClassOf bhv:Value .
+bhv:Power rdfs:subClassOf bhv:Value .
+bhv:Security rdfs:subClassOf bhv:Value .
+bhv:Tradition rdfs:subClassOf bhv:Value .
+bhv:Universalism rdfs:subClassOf bhv:Value .
+
+
+bhv:Value a owl:Class .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Achievement
+
+
+bhv:Achievement rdf:type owl:Class ; rdfs:subClassOf bhv:Value ,
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Circumstances ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Explanation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Goal ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOutcome ; owl:someValuesFrom bhv:Outcome ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAgent ; owl:someValuesFrom bhv:Agent ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Degree ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Time ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Instrument ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Act ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Manner ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Reason ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Purpose ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Situation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Activity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Behavior ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Location_of_participant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Content ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Grounds ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Event_description ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Resulting_action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Principle ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActor ; owl:someValuesFrom bhv:Actor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasVictim ; owl:someValuesFrom bhv:Victim ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParticular_iteration ; owl:someValuesFrom bhv:Particular_iteration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Controlling_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Means ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Crime ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLeader ; owl:someValuesFrom bhv:Leader ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:State_of_affairs ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Domain ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Place ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDanger ; owl:someValuesFrom bhv:Danger ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focal_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concessive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Depictive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Helper ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Parameter ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Result ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Experiencer ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Beneficiary ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAmount_of_reassurance ; owl:someValuesFrom bhv:Amount_of_reassurance ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:Asset ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBenefited_party ; owl:someValuesFrom bhv:Benefited_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Protagonist ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Judge ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Manipulator ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:Duration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMedium ; owl:someValuesFrom bhv:Medium ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAffected_party ; owl:someValuesFrom bhv:Affected_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDependent_entity ; owl:someValuesFrom bhv:Dependent_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasNorm ; owl:someValuesFrom bhv:Norm ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Speaker ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExecutive_authority ; owl:someValuesFrom bhv:Executive_authority ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFrequency ; owl:someValuesFrom bhv:Frequency ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDefender ; owl:someValuesFrom bhv:Defender ] .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Benevolence
+bhv:Benevolence rdf:type owl:Class ;
+rdfs:subClassOf bhv:Value ,
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Situation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Purpose ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Manner ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Depictive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAgent ; owl:someValuesFrom bhv:Agent ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Experiencer ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBenefited_party ; owl:someValuesFrom bhv:Benefited_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focal_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Reason ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Goal ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Time ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:State_of_affairs ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Resulting_action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Location_of_participant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Domain ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concessive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Behavior ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Activity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Protagonist ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Event_description ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Controlling_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Means ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Place ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFrequency ; owl:someValuesFrom bhv:Frequency ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:Duration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLeader ; owl:someValuesFrom bhv:Leader ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Helper ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Content ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Parameter ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Grounds ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasNorm ; owl:someValuesFrom bhv:Norm ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Beneficiary ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Principle ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Circumstances ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOutcome ; owl:someValuesFrom bhv:Outcome ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:Asset ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Explanation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Act ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Judge ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActor ; owl:someValuesFrom bhv:Actor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoverned ; owl:someValuesFrom bhv:Governed ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Crime ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Instrument ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOffender ; owl:someValuesFrom bhv:Offender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Manipulator ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMedium ; owl:someValuesFrom bhv:Medium ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAssailant ; owl:someValuesFrom bhv:Assailant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParticular_iteration ; owl:someValuesFrom bhv:Particular_iteration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDependent_entity ; owl:someValuesFrom bhv:Dependent_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Result ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtection ; owl:someValuesFrom bhv:Protection ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Speaker ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Degree ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAmount_of_reassurance ; owl:someValuesFrom bhv:Amount_of_reassurance ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDefender ; owl:someValuesFrom bhv:Defender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAffected_party ; owl:someValuesFrom bhv:Affected_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDescriptor ; owl:someValuesFrom bhv:Descriptor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDanger ; owl:someValuesFrom bhv:Danger ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExecutive_authority ; owl:someValuesFrom bhv:Executive_authority ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSociety ; owl:someValuesFrom bhv:Society ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoods ; owl:someValuesFrom bhv:Goods ] .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Conformity
+
+bhv:Conformity rdf:type owl:Class ;
+rdfs:subClassOf bhv:Value ,
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Result ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:State_of_affairs ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasNorm ; owl:someValuesFrom bhv:Norm ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Judge ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Depictive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Means ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Manner ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Degree ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Protagonist ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Event_description ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Situation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Grounds ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Purpose ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Behavior ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Reason ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concessive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Activity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Goal ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Act ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Explanation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOutcome ; owl:someValuesFrom bhv:Outcome ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExecutive_authority ; owl:someValuesFrom bhv:Executive_authority ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Resulting_action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focal_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDependent_entity ; owl:someValuesFrom bhv:Dependent_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Principle ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAgent ; owl:someValuesFrom bhv:Agent ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Domain ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Place ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Location_of_participant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Controlling_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Parameter ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:Asset ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Content ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Experiencer ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActor ; owl:someValuesFrom bhv:Actor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Manipulator ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDanger ; owl:someValuesFrom bhv:Danger ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Circumstances ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParticular_iteration ; owl:someValuesFrom bhv:Particular_iteration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Helper ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Crime ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Time ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Speaker ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Instrument ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:Duration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoods ; owl:someValuesFrom bhv:Goods ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFrequency ; owl:someValuesFrom bhv:Frequency ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Beneficiary ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAssailant ; owl:someValuesFrom bhv:Assailant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLeader ; owl:someValuesFrom bhv:Leader ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtection ; owl:someValuesFrom bhv:Protection ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOffender ; owl:someValuesFrom bhv:Offender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAffected_party ; owl:someValuesFrom bhv:Affected_party ] .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Power
+bhv:Power rdf:type owl:Class ;
+rdfs:subClassOf bhv:Value ,
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Activity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Location_of_participant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Beneficiary ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Principle ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParticular_iteration ; owl:someValuesFrom bhv:Particular_iteration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFrequency ; owl:someValuesFrom bhv:Frequency ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Explanation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Circumstances ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Controlling_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Resulting_action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Place ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoverned ; owl:someValuesFrom bhv:Governed ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Manner ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Goal ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasVictim ; owl:someValuesFrom bhv:Victim ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Reason ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Purpose ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Situation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:State_of_affairs ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:Duration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focal_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Event_description ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Domain ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Grounds ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concessive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Depictive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLeader ; owl:someValuesFrom bhv:Leader ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDescriptor ; owl:someValuesFrom bhv:Descriptor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Behavior ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBenefited_party ; owl:someValuesFrom bhv:Benefited_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOffender ; owl:someValuesFrom bhv:Offender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Speaker ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Content ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOutcome ; owl:someValuesFrom bhv:Outcome ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Parameter ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Helper ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Result ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Act ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Crime ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Manipulator ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Time ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAgent ; owl:someValuesFrom bhv:Agent ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Experiencer ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:Asset ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Judge ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMedium ; owl:someValuesFrom bhv:Medium ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDefender ; owl:someValuesFrom bhv:Defender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Protagonist ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Instrument ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtection ; owl:someValuesFrom bhv:Protection ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoods ; owl:someValuesFrom bhv:Goods ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Means ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasType ; owl:someValuesFrom bhv:Type ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAssailant ; owl:someValuesFrom bhv:Assailant ] .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Security
+bhv:Security rdf:type owl:Class ;
+rdfs:subClassOf bhv:Value ,
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Event_description ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Activity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Explanation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Beneficiary ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Location_of_participant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Place ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDanger ; owl:someValuesFrom bhv:Danger ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtection ; owl:someValuesFrom bhv:Protection ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Purpose ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Time ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDefender ; owl:someValuesFrom bhv:Defender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Goal ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Resulting_action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Controlling_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Crime ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAssailant ; owl:someValuesFrom bhv:Assailant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Depictive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Principle ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Reason ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLeader ; owl:someValuesFrom bhv:Leader ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:Duration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Instrument ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Parameter ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Circumstances ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAmount_of_reassurance ; owl:someValuesFrom bhv:Amount_of_reassurance ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:Asset ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focal_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Result ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Situation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Protagonist ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Content ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Domain ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Behavior ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Act ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concessive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBenefited_party ; owl:someValuesFrom bhv:Benefited_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Helper ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Degree ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFrequency ; owl:someValuesFrom bhv:Frequency ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOutcome ; owl:someValuesFrom bhv:Outcome ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasNorm ; owl:someValuesFrom bhv:Norm ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:State_of_affairs ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Speaker ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDependent_entity ; owl:someValuesFrom bhv:Dependent_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExecutive_authority ; owl:someValuesFrom bhv:Executive_authority ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoods ; owl:someValuesFrom bhv:Goods ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOffender ; owl:someValuesFrom bhv:Offender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Grounds ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParticular_iteration ; owl:someValuesFrom bhv:Particular_iteration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Judge ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Means ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAgent ; owl:someValuesFrom bhv:Agent ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAffected_party ; owl:someValuesFrom bhv:Affected_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Manipulator ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMedium ; owl:someValuesFrom bhv:Medium ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Experiencer ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Manner ] .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Tradition
+bhv:Tradition rdf:type owl:Class ;
+rdfs:subClassOf bhv:Value ,
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Behavior ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Domain ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDescriptor ; owl:someValuesFrom bhv:Descriptor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Place ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Protagonist ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Circumstances ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSociety ; owl:someValuesFrom bhv:Society ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concessive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Reason ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Time ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Goal ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Event_description ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Explanation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFrequency ; owl:someValuesFrom bhv:Frequency ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Situation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Parameter ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Activity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:State_of_affairs ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Resulting_action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Principle ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Act ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:Duration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Purpose ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Means ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOutcome ; owl:someValuesFrom bhv:Outcome ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Controlling_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Manner ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focal_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Depictive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Judge ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasNorm ; owl:someValuesFrom bhv:Norm ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Content ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:Asset ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Degree ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Location_of_participant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Helper ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMedium ; owl:someValuesFrom bhv:Medium ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAmount_of_reassurance ; owl:someValuesFrom bhv:Amount_of_reassurance ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Experiencer ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLeader ; owl:someValuesFrom bhv:Leader ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Result ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Grounds ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDependent_entity ; owl:someValuesFrom bhv:Dependent_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtection ; owl:someValuesFrom bhv:Protection ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Beneficiary ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActor ; owl:someValuesFrom bhv:Actor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDanger ; owl:someValuesFrom bhv:Danger ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Speaker ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBenefited_party ; owl:someValuesFrom bhv:Benefited_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAgent ; owl:someValuesFrom bhv:Agent ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Instrument ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDefender ; owl:someValuesFrom bhv:Defender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Crime ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOffender ; owl:someValuesFrom bhv:Offender ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAssailant ; owl:someValuesFrom bhv:Assailant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Manipulator ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasType ; owl:someValuesFrom bhv:Type ] .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Universalism
+bhv:Universalism rdf:type owl:Class ;
+rdfs:subClassOf bhv:Value ,
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Grounds ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Parameter ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAffected_party ; owl:someValuesFrom bhv:Affected_party ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Manner ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActor ; owl:someValuesFrom bhv:Actor ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Degree ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Activity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Speaker ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Reason ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:State_of_affairs ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Behavior ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Protagonist ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Situation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Purpose ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Circumstances ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Time ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDanger ; owl:someValuesFrom bhv:Danger ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Location_of_participant ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Goal ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasOutcome ; owl:someValuesFrom bhv:Outcome ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDependent_entity ; owl:someValuesFrom bhv:Dependent_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Domain ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Principle ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Explanation ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Event_description ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concessive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Result ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Experiencer ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Act ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Depictive ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Resulting_action ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focal_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Means ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Content ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Crime ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:Duration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Controlling_entity ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:Asset ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasParticular_iteration ; owl:someValuesFrom bhv:Particular_iteration ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Place ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasProtection ; owl:someValuesFrom bhv:Protection ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Beneficiary ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasMedium ; owl:someValuesFrom bhv:Medium ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Manipulator ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Judge ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasNorm ; owl:someValuesFrom bhv:Norm ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Helper ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAgent ; owl:someValuesFrom bhv:Agent ],
+[ rdf:type owl:Restriction ;
+                                  owl:onProperty bhv:hasAmount_of_reassurance ; owl:someValuesFrom bhv:Amount_of_reassurance ] .
+
+
+
+bhv:ValueRole a owl:Class .
+
+
+bhv:Grounds a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Action a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Parameter a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Affected_party a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Manner a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Actor a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Degree a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Activity a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Speaker a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Reason a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:State_of_affairs a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Behavior a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Protagonist a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Situation a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Purpose a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Circumstances a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Time a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Danger a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Location_of_participant a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Goal a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Outcome a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Dependent_entity a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Domain a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Principle a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Explanation a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Event_description a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Concessive a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Result a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Experiencer a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Act a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Depictive a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Resulting_action a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Focal_entity a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Means a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Content a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Crime a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Duration a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Controlling_entity a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Asset a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Particular_iteration a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Place a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Protection a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Beneficiary a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Medium a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Manipulator a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Judge a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Norm a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Helper a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Agent a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Amount_of_reassurance a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Benefited_party a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Frequency a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Leader a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Governed a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Instrument a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Offender a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Assailant a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Defender a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Descriptor a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Executive_authority a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Society a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Goods a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Victim a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:Type a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+
+
+

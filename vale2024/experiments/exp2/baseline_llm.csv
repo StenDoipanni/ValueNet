@@ -1,0 +1,9 @@
+,0
+LogisticRegression(random_state=42),0.5327924273157539
+SVC(random_state=42),0.5361730899256254
+RandomForestClassifier(random_state=42),0.418526031102096
+DecisionTreeClassifier(random_state=42),0.25963488843813387
+HistGradientBoostingClassifier(random_state=42),0.4969574036511156
+MLPClassifier(random_state=42),0.4530087897227857
+MultinomialNB(),0.3475321162947938
+KNeighborsClassifier(),0.38336713995943206

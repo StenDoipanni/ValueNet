@@ -1,0 +1,563 @@
+@prefix bhv: <https://w3id.org/valuenet/bhv_roles#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://w3id.org/valuenet/bhv_roles> .
+
+<https://w3id.org/valuenet/bhv_roles> rdf:type owl:Ontology ;
+                                          owl:versionIRI <https://w3id.org/valuenet/bhv_roles/0.0.2> ;
+                                          rdfs:comment "Designed by Stefano De Giorgis." ;
+                                          bhv:bibRef "Ontological version of the Basic Human Values theory by Shalom Schwartz, including thos BHV values which in ValueNet are triggered by some FrameNet frame." .
+                                        
+
+bhv:Achievement rdfs:subClassOf bhv:Value .
+bhv:Benevolence rdfs:subClassOf bhv:Value .
+bhv:Conformity rdfs:subClassOf bhv:Value .
+bhv:Power rdfs:subClassOf bhv:Value .
+bhv:Security rdfs:subClassOf bhv:Value .
+bhv:Tradition rdfs:subClassOf bhv:Value .
+bhv:Universalism rdfs:subClassOf bhv:Value .
+
+
+bhv:Value a owl:Class .
+
+
+###  https://w3id.org/valuenet/bhv_roles#Achievement
+bhv:Achievement a owl:Class .
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasAgent ;  owl:someValuesFrom bhv:Achiever ] .
+bhv:Achiever rdfs:subClassOf bhv:Agent .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasCircumstances ;  owl:someValuesFrom bhv:Context ] .
+bhv:Context rdfs:subClassOf bhv:Circumstances .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDegree ;  owl:someValuesFrom bhv:Level ] .
+bhv:Level rdfs:subClassOf bhv:Degree .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDomain ;  owl:someValuesFrom bhv:Field ] .
+bhv:Field rdfs:subClassOf bhv:Domain .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDuration ;  owl:someValuesFrom bhv:Period ] .
+bhv:Period rdfs:subClassOf bhv:Duration .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasExplanation ;  owl:someValuesFrom bhv:Reason ] .
+bhv:Reason rdfs:subClassOf bhv:Explanation .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasGoal ;  owl:someValuesFrom bhv:Objective ] .
+bhv:Objective rdfs:subClassOf bhv:Goal .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasInstrument ;  owl:someValuesFrom bhv:Tool ] .
+bhv:Tool rdfs:subClassOf bhv:Instrument .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasManner ;  owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Manner .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasMeans ;  owl:someValuesFrom bhv:Resource ] .
+bhv:Resource rdfs:subClassOf bhv:Means .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasOutcome ;  owl:someValuesFrom bhv:Result ] .
+bhv:Result rdfs:subClassOf bhv:Outcome .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasParticular_iteration ;  owl:someValuesFrom bhv:Instance ] .
+bhv:Instance rdfs:subClassOf bhv:Particular_iteration .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPlace ;  owl:someValuesFrom bhv:Location ] .
+bhv:Location rdfs:subClassOf bhv:Place .
+
+bhv:Achievement rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasTime ;  owl:someValuesFrom bhv:Time ] .
+bhv:Time rdfs:subClassOf bhv:Time .
+
+
+
+###  https://w3id.org/valuenet/bhv_roles#Benevolence
+bhv:Benevolence a owl:Class .
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasAmount_of_reassurance ; owl:someValuesFrom bhv:ComfortLevel ] .
+bhv:ComfortLevel rdfs:subClassOf bhv:Amount_of_reassurance .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasBenefited_party ; owl:someValuesFrom bhv:Recipient ] .
+bhv:Recipient rdfs:subClassOf bhv:Benefited_party .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasContent ; owl:someValuesFrom bhv:Message ] .
+bhv:Message rdfs:subClassOf bhv:Content .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasCrime ; owl:someValuesFrom bhv:Misdeed ] .
+bhv:Misdeed rdfs:subClassOf bhv:Crime .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Intensity ] .
+bhv:Intensity rdfs:subClassOf bhv:Degree .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Illustration ] .
+bhv:Illustration rdfs:subClassOf bhv:Depictive .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Field ] .
+bhv:Field rdfs:subClassOf bhv:Domain .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:TimeSpan ] .
+bhv:TimeSpan rdfs:subClassOf bhv:Duration .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasExecutive_authority ; owl:someValuesFrom bhv:Leader ] .
+bhv:Leader rdfs:subClassOf bhv:Executive_authority .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasExperiencer ; owl:someValuesFrom bhv:Receiver ] .
+bhv:Receiver rdfs:subClassOf bhv:Experiencer .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Justification ] .
+bhv:Justification rdfs:subClassOf bhv:Explanation .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasFocal_entity ; owl:someValuesFrom bhv:Focus ] .
+bhv:Focus rdfs:subClassOf bhv:Focal_entity .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasFrequency ; owl:someValuesFrom bhv:Occurrence ] .
+bhv:Occurrence rdfs:subClassOf bhv:Frequency .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasGoal ; owl:someValuesFrom bhv:Aim ] .
+bhv:Aim rdfs:subClassOf bhv:Goal .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasHelper ; owl:someValuesFrom bhv:Assistant ] .
+bhv:Assistant rdfs:subClassOf bhv:Helper .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Tool ] .
+bhv:Tool rdfs:subClassOf bhv:Instrument .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Approach ] .
+bhv:Approach rdfs:subClassOf bhv:Manner .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Means .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasMedium ; owl:someValuesFrom bhv:Channel ] .
+bhv:Channel rdfs:subClassOf bhv:Medium .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasOffender ; owl:someValuesFrom bhv:Wrongdoer ] .
+bhv:Wrongdoer rdfs:subClassOf bhv:Offender .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Location ] .
+bhv:Location rdfs:subClassOf bhv:Place .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Objective ] .
+bhv:Objective rdfs:subClassOf bhv:Purpose .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Cause ] .
+bhv:Cause rdfs:subClassOf bhv:Reason .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasSituation ; owl:someValuesFrom bhv:Context ] .
+bhv:Context rdfs:subClassOf bhv:Situation .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasSpeaker ; owl:someValuesFrom bhv:Communicator ] .
+bhv:Communicator rdfs:subClassOf bhv:Speaker .
+
+bhv:Benevolence rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Moment ] .
+bhv:Moment rdfs:subClassOf bhv:Time .
+
+
+
+###  https://w3id.org/valuenet/bhv_roles#Conformity
+bhv:Conformity a owl:Class .
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasAct ; owl:someValuesFrom bhv:Action ] .
+bhv:Action rdfs:subClassOf bhv:Act .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Strictness ] .
+bhv:Strictness rdfs:subClassOf bhv:Degree .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Representation ] .
+bhv:Representation rdfs:subClassOf bhv:Depictive .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasJudge ; owl:someValuesFrom bhv:Evaluator ] .
+bhv:Evaluator rdfs:subClassOf bhv:Judge .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Manner .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Resource ] .
+bhv:Resource rdfs:subClassOf bhv:Means .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasNorm ; owl:someValuesFrom bhv:Standard ] .
+bhv:Standard rdfs:subClassOf bhv:Norm .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Follower ] .
+bhv:Follower rdfs:subClassOf bhv:Protagonist .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Justification ] .
+bhv:Justification rdfs:subClassOf bhv:Reason .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasResult ; owl:someValuesFrom bhv:Outcome ] .
+bhv:Outcome rdfs:subClassOf bhv:Result .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:Situation ] .
+bhv:Situation rdfs:subClassOf bhv:State_of_affairs .
+
+bhv:Conformity rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Period ] .
+bhv:Period rdfs:subClassOf bhv:Time .
+
+
+
+
+###  https://w3id.org/valuenet/bhv_roles#Power
+bhv:Power a owl:Class .
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasActivity ; owl:someValuesFrom bhv:Operation ] .
+bhv:Operation rdfs:subClassOf bhv:Activity .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasCircumstances ; owl:someValuesFrom bhv:Context ] .
+bhv:Context rdfs:subClassOf bhv:Circumstances .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasConcessive ; owl:someValuesFrom bhv:Concession ] .
+bhv:Concession rdfs:subClassOf bhv:Concessive .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasControlling_entity ; owl:someValuesFrom bhv:Authority ] .
+bhv:Authority rdfs:subClassOf bhv:Controlling_entity .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Extent ] .
+bhv:Extent rdfs:subClassOf bhv:Degree .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDependent_entity ; owl:someValuesFrom bhv:Dependent ] .
+bhv:Dependent rdfs:subClassOf bhv:Dependent_entity .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Illustration ] .
+bhv:Illustration rdfs:subClassOf bhv:Depictive .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDescriptor ; owl:someValuesFrom bhv:Attribute ] .
+bhv:Attribute rdfs:subClassOf bhv:Descriptor .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:Sphere ] .
+bhv:Sphere rdfs:subClassOf bhv:Domain .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:TimeSpan ] .
+bhv:TimeSpan rdfs:subClassOf bhv:Duration .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Justification ] .
+bhv:Justification rdfs:subClassOf bhv:Explanation .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasGoods ; owl:someValuesFrom bhv:Resources ] .
+bhv:Resources rdfs:subClassOf bhv:Goods .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasGoverned ; owl:someValuesFrom bhv:Subject ] .
+bhv:Subject rdfs:subClassOf bhv:Governed .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Tool ] .
+bhv:Tool rdfs:subClassOf bhv:Instrument .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasLeader ; owl:someValuesFrom bhv:Leader ] .
+bhv:Leader rdfs:subClassOf bhv:Leader .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasManipulator ; owl:someValuesFrom bhv:Influencer ] .
+bhv:Influencer rdfs:subClassOf bhv:Manipulator .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Manner .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Means .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Location ] .
+bhv:Location rdfs:subClassOf bhv:Place .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPrinciple ; owl:someValuesFrom bhv:Guideline ] .
+bhv:Guideline rdfs:subClassOf bhv:Principle .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Objective ] .
+bhv:Objective rdfs:subClassOf bhv:Purpose .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasResulting_action ; owl:someValuesFrom bhv:Outcome ] .
+bhv:Outcome rdfs:subClassOf bhv:Resulting_action .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasRole ; owl:someValuesFrom bhv:Position ] .
+bhv:Position rdfs:subClassOf bhv:Role .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasState_of_affairs ; owl:someValuesFrom bhv:Situation ] .
+bhv:Situation rdfs:subClassOf bhv:State_of_affairs .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Period ] .
+bhv:Period rdfs:subClassOf bhv:Time .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasType ; owl:someValuesFrom bhv:Category ] .
+bhv:Category rdfs:subClassOf bhv:Type .
+
+bhv:Power rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasVictim ; owl:someValuesFrom bhv:Sufferer ] .
+bhv:Sufferer rdfs:subClassOf bhv:Victim .
+
+
+
+###  https://w3id.org/valuenet/bhv_roles#Security
+bhv:Security a owl:Class .
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasAssailant ; owl:someValuesFrom bhv:Attacker ] .
+bhv:Attacker rdfs:subClassOf bhv:Assailant .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasAsset ; owl:someValuesFrom bhv:ProtectedAsset ] .
+bhv:ProtectedAsset rdfs:subClassOf bhv:Asset .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasBeneficiary ; owl:someValuesFrom bhv:Protected ] .
+bhv:Protected rdfs:subClassOf bhv:Beneficiary .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDanger ; owl:someValuesFrom bhv:Threat ] .
+bhv:Threat rdfs:subClassOf bhv:Danger .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDefender ; owl:someValuesFrom bhv:Guardian ] .
+bhv:Guardian rdfs:subClassOf bhv:Defender .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:SecurityLevel ] .
+bhv:SecurityLevel rdfs:subClassOf bhv:Degree .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDepictive ; owl:someValuesFrom bhv:Illustration ] .
+bhv:Illustration rdfs:subClassOf bhv:Depictive .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDescriptor ; owl:someValuesFrom bhv:Attribute ] .
+bhv:Attribute rdfs:subClassOf bhv:Descriptor .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDuration ; owl:someValuesFrom bhv:TimeSpan ] .
+bhv:TimeSpan rdfs:subClassOf bhv:Duration .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasEvent_description ; owl:someValuesFrom bhv:Incident ] .
+bhv:Incident rdfs:subClassOf bhv:Event_description .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasExplanation ; owl:someValuesFrom bhv:Justification ] .
+bhv:Justification rdfs:subClassOf bhv:Explanation .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasInstrument ; owl:someValuesFrom bhv:Tool ] .
+bhv:Tool rdfs:subClassOf bhv:Instrument .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasLocation_of_participant ; owl:someValuesFrom bhv:Position ] .
+bhv:Position rdfs:subClassOf bhv:Location_of_participant .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Manner .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasMeans ; owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Means .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Location ] .
+bhv:Location rdfs:subClassOf bhv:Place .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasProtection ; owl:someValuesFrom bhv:Safeguard ] .
+bhv:Safeguard rdfs:subClassOf bhv:Protection .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPurpose ; owl:someValuesFrom bhv:Objective ] .
+bhv:Objective rdfs:subClassOf bhv:Purpose .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasReason ; owl:someValuesFrom bhv:Cause ] .
+bhv:Cause rdfs:subClassOf bhv:Reason .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasTime ; owl:someValuesFrom bhv:Moment ] .
+bhv:Moment rdfs:subClassOf bhv:Time .
+
+bhv:Security rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasVictim ; owl:someValuesFrom bhv:Target ] .
+bhv:Target rdfs:subClassOf bhv:Victim .
+
+
+
+###  https://w3id.org/valuenet/bhv_roles#Tradition
+bhv:Tradition a owl:Class .
+bhv:Tradition rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasBehavior ; owl:someValuesFrom bhv:Custom ] .
+bhv:Custom rdfs:subClassOf bhv:Behavior .
+
+bhv:Tradition rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDescriptor ; owl:someValuesFrom bhv:Attribute ] .
+bhv:Attribute rdfs:subClassOf bhv:Descriptor .
+
+bhv:Tradition rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDomain ; owl:someValuesFrom bhv:CulturalDomain ] .
+bhv:CulturalDomain rdfs:subClassOf bhv:Domain .
+
+bhv:Tradition rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasPlace ; owl:someValuesFrom bhv:Locale ] .
+bhv:Locale rdfs:subClassOf bhv:Place .
+
+bhv:Tradition rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasProtagonist ; owl:someValuesFrom bhv:Adherent ] .
+bhv:Adherent rdfs:subClassOf bhv:Protagonist .
+
+bhv:Tradition rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasSociety ; owl:someValuesFrom bhv:Community ] .
+bhv:Community rdfs:subClassOf bhv:Society .
+
+
+
+###  https://w3id.org/valuenet/bhv_roles#Universalism
+bhv:Universalism a owl:Class .
+bhv:Universalism rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasAction ; owl:someValuesFrom bhv:Act ] .
+bhv:Act rdfs:subClassOf bhv:Action .
+
+bhv:Universalism rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasActor ; owl:someValuesFrom bhv:Advocate ] .
+bhv:Advocate rdfs:subClassOf bhv:Actor .
+
+bhv:Universalism rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasAffected_party ; owl:someValuesFrom bhv:Community ] .
+bhv:Community rdfs:subClassOf bhv:Affected_party .
+
+bhv:Universalism rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasDegree ; owl:someValuesFrom bhv:Extent ] .
+bhv:Extent rdfs:subClassOf bhv:Degree .
+
+bhv:Universalism rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasGrounds ; owl:someValuesFrom bhv:Basis ] .
+bhv:Basis rdfs:subClassOf bhv:Grounds .
+
+bhv:Universalism rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasManner ; owl:someValuesFrom bhv:Method ] .
+bhv:Method rdfs:subClassOf bhv:Manner .
+
+bhv:Universalism rdfs:subClassOf [ rdf:type owl:Restriction ; owl:onProperty bhv:hasParameter ; owl:someValuesFrom bhv:Standard ] .
+bhv:Standard rdfs:subClassOf bhv:Parameter .
+
+
+
+bhv:ValueRole a owl:Class .
+
+
+bhv:AchievementRole a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:UniversalismRole a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:BenevolenceRole a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:ConformityRole a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:PowerRole a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:SecurityRole a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+bhv:TraditionRole a owl:Class ; rdfs:subClassOf bhv:ValueRole .
+
+
+bhv:Action rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Affected_party rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Actor rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Grounds rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Parameter rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+
+
+bhv:Duration rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Agent rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Goal rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Instrument rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Circumstances rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Domain rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Explanation rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Outcome rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+bhv:Particular_iteration rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:AchievementRole .
+
+
+bhv:Executive_authority rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Offender rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Crime rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Purpose rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Reason rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Content rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Situation rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Experiencer rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Speaker rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Medium rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Amount_of_reassurance rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Depictive rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Benefited_party rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Goal rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Helper rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Focal_entity rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Duration rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Instrument rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Purpose rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Domain rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Frequency rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+bhv:Explanation rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:BenevolenceRole .
+
+
+bhv:State_of_affairs rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Act rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Norm rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Protagonist rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Judge rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Reason rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Result rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+bhv:Depictive rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:ConformityRole .
+
+
+bhv:Governed rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Leader rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Role rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Activity rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Descriptor rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Type rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Duration rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Domain rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Depictive rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Controlling_entity rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Dependent_entity rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Concessive rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:State_of_affairs rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Principle rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Circumstances rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Explanation rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Goods rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Resulting_action rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Manipulator rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Victim rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Instrument rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Purpose rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:PowerRole .
+
+
+bhv:Assailant rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Victim rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Defender rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Instrument rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Purpose rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Reason rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Depictive rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Location_of_participant rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Protection rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Asset rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Danger rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Depictive rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Means rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Time rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Instrument rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Beneficiary rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Event_description rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Explanation rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Descriptor rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+bhv:Duration rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:SecurityRole .
+
+
+bhv:Behavior rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:TraditionRole .
+bhv:Protagonist rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:TraditionRole .
+bhv:Society rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:TraditionRole .
+bhv:Descriptor rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:TraditionRole .
+bhv:Place rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:TraditionRole .
+bhv:Domain rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:TraditionRole .
+
+
+bhv:Action rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Affected_party rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Actor rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Grounds rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Degree rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Manner rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
+bhv:Parameter rdf:type owl:Class ; rdfs:subClassOf bhv:ValueRole ; rdfs:subClassOf bhv:UniversalismRole .
